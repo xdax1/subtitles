@@ -1,0 +1,4390 @@
+﻿1
+00:01:03,863 --> 00:01:05,865
+Numer alarmowy, w czym mogę pomóc?
+
+2
+00:01:07,009 --> 00:01:08,010
+Halo?
+
+3
+00:01:10,377 --> 00:01:12,211
+Tu numer alarmowy, słucham.
+
+4
+00:01:13,525 --> 00:01:16,402
+Nazywam się Suh Young-chul,
+pracowałem w Chains Bio.
+
+5
+00:01:17,892 --> 00:01:21,896
+Planuję przeprowadzić dzisiaj
+eksperyment w budynku Doongwoori.
+
+6
+00:01:22,531 --> 00:01:25,076
+Może pan powtórzyć?
+
+7
+00:01:25,252 --> 00:01:29,003
+Nie, nie eksperyment.
+Atak terrorystyczny.
+
+8
+00:01:29,172 --> 00:01:30,173
+Co?
+
+9
+00:01:30,425 --> 00:01:34,593
+Tak, użyję do niego
+wysoce zaraźliwego wirusa.
+
+10
+00:01:39,018 --> 00:01:41,478
+Wstrzyknąłem sobie patogen.
+
+11
+00:01:48,350 --> 00:01:49,810
+Był skuteczny.
+
+12
+00:01:52,029 --> 00:01:55,697
+Tylko ja mogę zatrzymać
+wybuch epidemii.
+
+13
+00:01:57,726 --> 00:01:59,144
+KOLONIA:
+
+14
+00:01:59,169 --> 00:02:03,421
+TRWAŁE LUB CZASOWIE SKUPISKO
+ORGANIZMÓW JEDNEGO GATUNKU
+
+15
+00:02:17,833 --> 00:02:19,334
+Po co na mnie czekasz?
+
+16
+00:02:20,873 --> 00:02:23,624
+10 minut spóźnienia.
+Co tym razem?
+
+17
+00:02:24,660 --> 00:02:25,911
+Nic.
+
+18
+00:02:26,139 --> 00:02:29,099
+Korki. Taksówkarz wysadził mnie
+po drugiej stronie ulicy.
+
+19
+00:02:29,240 --> 00:02:30,200
+No i?
+
+20
+00:02:31,273 --> 00:02:33,193
+Zdarza się.
+
+21
+00:02:34,219 --> 00:02:37,387
+Tak mi powiedział,
+ale dziwnie to zabrzmiało.
+
+22
+00:02:37,509 --> 00:02:38,927
+No i?
+
+23
+00:02:40,630 --> 00:02:42,298
+Nie chciałam tego.
+
+24
+00:02:42,465 --> 00:02:45,133
+Mówiłam, żeby zawiózł mnie na miejsce.
+
+25
+00:02:50,723 --> 00:02:51,684
+Co?
+
+26
+00:02:52,375 --> 00:02:54,295
+Znowu moja wina?
+
+27
+00:02:54,424 --> 00:02:56,092
+Witamy na konferencji Chains Bio,
+
+28
+00:02:56,215 --> 00:02:58,592
+wiodącej platformie
+technologii przyszłości.
+
+29
+00:02:59,050 --> 00:03:00,134
+Dziękuję.
+
+30
+00:03:00,556 --> 00:03:02,391
+Masz zaproszenie?
+
+31
+00:03:03,558 --> 00:03:05,810
+Oddaję głos prezesowi,
+Kang Woo-cheolowi.
+
+32
+00:03:05,971 --> 00:03:07,680
+Proszę o brawa.
+
+33
+00:03:13,610 --> 00:03:17,278
+To przed nim mam się płaszczyć,
+jeśli chcę tu pracować?
+
+34
+00:03:18,591 --> 00:03:23,093
+Nie musiałabyś,
+gdybyś dogadała się z dziekanem.
+
+35
+00:03:24,003 --> 00:03:26,255
+No jasne, znowu moja wina.
+
+36
+00:03:27,290 --> 00:03:30,708
+Nie dbasz o to, jak traktował
+swoich doktorantów?
+
+37
+00:03:30,836 --> 00:03:32,045
+Nie.
+
+38
+00:03:32,790 --> 00:03:35,042
+To z pewnością palant,
+
+39
+00:03:35,492 --> 00:03:37,412
+którego nie znosisz.
+
+40
+00:03:37,956 --> 00:03:39,876
+Dlatego zaszłaś mu za skórę.
+
+41
+00:03:43,279 --> 00:03:45,114
+Jedno mnie ciekawi.
+
+42
+00:03:45,763 --> 00:03:48,598
+Co cię obchodzi kariera byłej żony
+10 lat po rozwodzie?
+
+43
+00:03:51,216 --> 00:03:53,218
+Nie masz żadnych przyjaciół.
+
+44
+00:03:53,734 --> 00:03:56,070
+Ciągle zniechęcasz innych do siebie.
+
+45
+00:03:56,536 --> 00:03:58,913
+Twoja obecna żona wie,
+jak się troszczysz o byłą?
+
+46
+00:03:59,047 --> 00:04:02,299
+Nie jest tak drażliwa, jak ty.
+
+47
+00:04:03,047 --> 00:04:05,299
+Pewnie nawet się o ciebie martwi.
+
+48
+00:04:05,855 --> 00:04:07,315
+Spoko żonka.
+
+49
+00:04:07,574 --> 00:04:10,200
+Świetnie się dobraliście.
+Gratulacje.
+
+50
+00:04:10,375 --> 00:04:13,210
+Jeśli powiem, że zajmujemy się głównie
+
+51
+00:04:13,378 --> 00:04:16,630
+inteligencją zbiorową,
+ktoś mógłby pomyśleć:
+
+52
+00:04:16,828 --> 00:04:20,913
+„Czemu wzięła się za to
+firma biotechnologiczna, a nie IT?”.
+
+53
+00:04:22,387 --> 00:04:26,514
+Inteligencja zbiorowa
+to powszechny termin w socjologii,
+
+54
+00:04:26,648 --> 00:04:29,066
+ale osobą, która go ukuła,
+
+55
+00:04:29,769 --> 00:04:33,980
+był entomolog badający mrówki,
+William Morton Wheeler.
+
+56
+00:04:34,828 --> 00:04:37,539
+Inteligencja zbiorowa
+to siła napędowa ewolucji.
+
+57
+00:04:38,408 --> 00:04:41,411
+Kojarzycie tego żółtego śluzowca,
+Physarum polycephalum?
+
+58
+00:04:42,075 --> 00:04:45,243
+Doskonali się poprzez wymianę informacji
+
+59
+00:04:45,410 --> 00:04:47,954
+i optymalizację rozwoju
+w celu poszukiwania pokarmu.
+
+60
+00:04:48,813 --> 00:04:52,398
+Nie jest organizmem wielokomórkowym,
+ale uczy się i zapamiętuje.
+
+61
+00:04:52,542 --> 00:04:55,293
+Zainspirowani
+jego niezwykłymi cechami,
+
+62
+00:04:55,879 --> 00:04:59,423
+znacząco poprawiliśmy produkcję
+półprzewodników organicznych.
+
+63
+00:04:59,673 --> 00:05:02,050
+Nagrodźmy brawami
+naszych małych pomocników.
+
+64
+00:05:06,252 --> 00:05:08,670
+Nawet ciekawy z niego człowiek.
+
+65
+00:05:09,032 --> 00:05:11,783
+To nie byle firemka,
+która kopiuje leki.
+
+66
+00:05:11,986 --> 00:05:13,988
+Tylko poważne przedsięwzięcie.
+
+67
+00:05:14,325 --> 00:05:17,951
+Zaproponowałem cię im, a wysłali ci
+jeszcze jedno zaproszenie.
+
+68
+00:05:18,998 --> 00:05:21,000
+Dlatego przyjechałam.
+
+69
+00:05:21,812 --> 00:05:24,272
+Zaintrygowała mnie ta wiadomość.
+
+70
+00:05:24,407 --> 00:05:27,618
+DO PROF. KWON: WADLIWA KOMUNIKACJA
+ŹRÓDŁEM WSZELKIEJ TRAGEDII
+
+71
+00:05:27,744 --> 00:05:31,036
+...dzięki temu układowi uszkodzone nerwy
+mogą przenosić informacje.
+
+72
+00:05:31,206 --> 00:05:36,582
+Wszczepiliśmy go szczurowi
+z paraliżem tylnych kończyn
+
+73
+00:05:37,284 --> 00:05:40,035
+i, jak państwo widzą, już po chwili
+
+74
+00:05:41,007 --> 00:05:44,092
+poruszał się jak zdrowy osobnik.
+
+75
+00:05:51,560 --> 00:05:55,978
+Kontynuując badania
+i wszczepiając układ w ludzki mózg,
+
+76
+00:05:56,147 --> 00:05:59,982
+uważam, że umożliwimy
+bezpośredni przesył informacji
+
+77
+00:06:00,151 --> 00:06:01,986
+między osobnikami.
+
+78
+00:06:02,779 --> 00:06:04,323
+Gdy do tego dojdzie,
+
+79
+00:06:04,489 --> 00:06:09,409
+to nie będziemy mogli myśleć źle
+w obecności innych osób.
+
+80
+00:06:11,050 --> 00:06:12,844
+Dziękuję, panie prezesie.
+
+81
+00:06:12,998 --> 00:06:15,461
+Proszę o burzę oklasków!
+
+82
+00:06:33,268 --> 00:06:35,102
+Dawno nie miałaś wolnego.
+
+83
+00:06:35,236 --> 00:06:38,781
+Wolisz marnować ten czas
+na swojego brata?
+
+84
+00:06:38,923 --> 00:06:43,008
+Tutaj mogę odetchnąć,
+porobić zakupy...
+
+85
+00:06:43,183 --> 00:06:46,060
+Pracując na komputerze,
+siedzę w zaduchu.
+
+86
+00:06:50,590 --> 00:06:54,135
+Ale świetny sprzęt biwakowy.
+
+87
+00:06:54,284 --> 00:06:56,286
+Można żyć poza domem.
+
+88
+00:06:57,125 --> 00:06:58,834
+Ciuchy też mają fajne.
+
+89
+00:07:00,626 --> 00:07:03,003
+Wyjedziemy gdzieś następnym razem?
+
+90
+00:07:03,700 --> 00:07:05,952
+- We dwoje?
+- Czemu nie?
+
+91
+00:07:06,340 --> 00:07:09,260
+- Grillowalibyśmy mięso...
+- Chętnie!
+
+92
+00:07:09,893 --> 00:07:12,240
+- To postanowione.
+- Super.
+
+93
+00:07:12,390 --> 00:07:14,184
+Kupię co nieco.
+
+94
+00:07:14,559 --> 00:07:16,770
+Zaraz masz koniec przerwy.
+
+95
+00:07:17,333 --> 00:07:20,001
+- Odprowadzę cię.
+- Nie musisz.
+
+96
+00:07:20,165 --> 00:07:22,710
+Są przystosowani do wózków.
+
+97
+00:07:23,546 --> 00:07:27,673
+Nie po to tyram jak głupia,
+żeby nie korzystać z uroków cywilizacji.
+
+98
+00:07:27,999 --> 00:07:32,291
+Cywilizacja to, cywilizacja tamto,
+a chcesz jechać na biwak.
+
+99
+00:07:32,452 --> 00:07:33,912
+To też cywilizacja.
+
+100
+00:07:34,016 --> 00:07:35,936
+Idź. Widzimy się w domu.
+
+101
+00:07:36,581 --> 00:07:38,290
+Zajrzę przed wyjściem.
+
+102
+00:07:38,984 --> 00:07:41,028
+- Pa.
+- Uważaj na siebie.
+
+103
+00:07:45,403 --> 00:07:48,114
+Dzień dobry.
+Świetna prezentacja.
+
+104
+00:07:48,328 --> 00:07:49,620
+Profesor Han.
+
+105
+00:07:50,092 --> 00:07:53,428
+To profesor Kwon Se-jeong,
+o której wspominałem.
+
+106
+00:07:53,628 --> 00:07:58,005
+Dziękuję za zaproszenie i tę notatkę.
+
+107
+00:07:59,062 --> 00:08:00,313
+Momencik.
+
+108
+00:08:00,939 --> 00:08:02,816
+- Halo?
+- Kang Woo-cheol?
+
+109
+00:08:03,725 --> 00:08:05,393
+Tak. Kto mówi?
+
+110
+00:08:05,552 --> 00:08:08,220
+Lee Bong-seok, policja w Seulu,
+oddział antyterrorystyczny.
+
+111
+00:08:08,385 --> 00:08:11,470
+- O co chodzi?
+- Zna pan Suh Young-chula?
+
+112
+00:08:12,311 --> 00:08:14,856
+To pilny telefon.
+Później porozmawiamy.
+
+113
+00:08:15,002 --> 00:08:17,004
+Oczywiście. Będziemy czekać.
+
+114
+00:08:20,291 --> 00:08:22,376
+To na pewno on wysłał zaproszenie?
+
+115
+00:08:22,544 --> 00:08:24,378
+Goń za nim.
+
+116
+00:08:24,546 --> 00:08:26,964
+- Co?
+- Daj mu wizytówkę,
+
+117
+00:08:27,107 --> 00:08:30,318
+przedstaw się i tyle.
+
+118
+00:08:38,481 --> 00:08:40,817
+Dlaczego szukacie doktora Suh?
+
+119
+00:08:41,060 --> 00:08:44,396
+Otrzymaliśmy telefon,
+że planuje atak terrorystyczny
+
+120
+00:08:44,524 --> 00:08:46,484
+podczas pańskiej konferencji.
+
+121
+00:08:49,240 --> 00:08:52,325
+- Chyba go widziałem.
+- Na pewno?
+
+122
+00:08:53,127 --> 00:08:54,587
+Nie na sto procent.
+
+123
+00:08:54,793 --> 00:08:56,294
+Stał daleko.
+
+124
+00:08:56,433 --> 00:08:58,685
+Nasz oddział jest w drodze.
+
+125
+00:08:58,866 --> 00:09:00,950
+Proszę dzwonić, gdyby go pan zobaczył.
+
+126
+00:09:01,097 --> 00:09:02,348
+Dobrze.
+
+127
+00:09:28,211 --> 00:09:29,671
+Niezła mowa, Woo-cheol.
+
+128
+00:09:30,424 --> 00:09:31,551
+Imponująca.
+
+129
+00:09:32,551 --> 00:09:35,386
+Wymiana informacji
+przez półprzewodniki organiczne?
+
+130
+00:09:35,517 --> 00:09:39,477
+Wiesz, jak ciężko nad tym pracowałem.
+
+131
+00:09:40,531 --> 00:09:42,991
+Świadomość w sieci wielostronnej.
+
+132
+00:09:43,382 --> 00:09:46,093
+Gdyby coś takiego istniało,
+
+133
+00:09:46,897 --> 00:09:49,481
+nikogo by nie zdradzono
+czy wyrzucono jak mnie.
+
+134
+00:09:50,310 --> 00:09:51,978
+Ty świrze.
+
+135
+00:09:53,016 --> 00:09:55,850
+Twojej technologii
+nie da się nigdzie zastosować.
+
+136
+00:09:57,850 --> 00:09:59,186
+Człowieku,
+
+137
+00:09:59,319 --> 00:10:02,778
+ja wywinduję ludzkość
+na wyższy poziom.
+
+138
+00:10:04,260 --> 00:10:07,094
+Zapoczątkuję
+drugą rewolucję poznawczą.
+
+139
+00:10:11,871 --> 00:10:14,331
+Wiesz co? Jesteś...
+
+140
+00:10:15,894 --> 00:10:17,729
+zwykłym psycholem.
+
+141
+00:10:18,423 --> 00:10:20,591
+Spadaj, frajerze!
+
+142
+00:10:25,563 --> 00:10:27,690
+Zatrudniając mnie,
+
+143
+00:10:27,816 --> 00:10:29,693
+chwaliłeś moje badania.
+
+144
+00:10:30,325 --> 00:10:32,245
+Mówiłeś, że je szanujesz.
+
+145
+00:10:33,353 --> 00:10:37,521
+Tylko udawałeś,
+żeby móc mi je wykraść.
+
+146
+00:10:38,438 --> 00:10:40,273
+A teraz jestem psycholem?
+
+147
+00:10:40,765 --> 00:10:43,685
+Ukradłeś pracę tego psychola.
+
+148
+00:10:44,797 --> 00:10:48,465
+Pragniesz wymarcia ludzi, prawda?
+
+149
+00:10:49,756 --> 00:10:51,216
+Nie.
+
+150
+00:10:51,551 --> 00:10:54,302
+Narodzin nowej ludzkości.
+
+151
+00:10:55,276 --> 00:10:56,820
+Wyobraź sobie.
+
+152
+00:10:57,003 --> 00:10:59,505
+Będzie możliwa idealna komunikacja.
+
+153
+00:10:59,749 --> 00:11:04,167
+Skutki uboczne skrajnej indywidualności,
+zazdrości, rywalizacji, nieufności...
+
+154
+00:11:05,969 --> 00:11:09,429
+Te dziwne ubytki wynikające
+z niestabilnej komunikacji.
+
+155
+00:11:09,899 --> 00:11:11,776
+To chcę powstrzymać.
+
+156
+00:11:19,538 --> 00:11:21,582
+Ty czubku.
+
+157
+00:11:23,342 --> 00:11:26,093
+Śmiało. Ja nie mam z tym
+nic do czynienia.
+
+158
+00:11:26,468 --> 00:11:29,302
+Umywam od tego ręce, powodzenia.
+
+159
+00:11:31,130 --> 00:11:35,507
+Chcę, żebyś był ogniwem
+między mną a nową ludzkością.
+
+160
+00:11:42,341 --> 00:11:44,593
+- Co ty robisz?
+- Badania.
+
+161
+00:11:44,746 --> 00:11:46,331
+Psycholu!
+
+162
+00:12:28,164 --> 00:12:29,415
+Coś się dzieje.
+
+163
+00:12:29,679 --> 00:12:32,223
+Proszę pana!
+Wezwać pogotowie?
+
+164
+00:12:51,577 --> 00:12:52,704
+Gadałaś z nim?
+
+165
+00:12:53,400 --> 00:12:54,485
+Nie.
+
+166
+00:12:55,233 --> 00:12:58,693
+- To był zły moment.
+- Serio? Zaczekaj.
+
+167
+00:13:00,593 --> 00:13:03,470
+Serio, nie będzie chciał rozmawiać.
+
+168
+00:13:09,979 --> 00:13:12,231
+Chodźmy coś zjeść. Oddzwoni.
+
+169
+00:13:24,970 --> 00:13:26,972
+Policja. Gdzie sala konferencyjna?
+
+170
+00:13:27,137 --> 00:13:29,805
+W lewo po schodach, a potem...
+
+171
+00:13:34,647 --> 00:13:35,815
+Co jest?
+
+172
+00:13:39,802 --> 00:13:40,722
+Idźcie.
+
+173
+00:13:41,724 --> 00:13:43,475
+Co się panu stało?
+
+174
+00:13:49,329 --> 00:13:52,206
+Wezwij zespół zarządzania kryzysowego!
+
+175
+00:14:01,591 --> 00:14:04,385
+Gdzie jesteś, tato? Co robisz?
+
+176
+00:14:04,523 --> 00:14:06,108
+Niedługo wracam.
+
+177
+00:14:06,471 --> 00:14:08,222
+Gdzie masz paszport?
+
+178
+00:14:08,694 --> 00:14:11,571
+W szufladzie w gabinecie.
+
+179
+00:14:12,083 --> 00:14:14,375
+- Jesteś z profesor Kwon?
+- Tak.
+
+180
+00:14:14,574 --> 00:14:16,159
+Niedługo przyjadę.
+
+181
+00:14:16,856 --> 00:14:18,316
+Chcesz się przywitać?
+
+182
+00:14:21,189 --> 00:14:23,481
+- Musisz się jeszcze spakować.
+- Dobrze.
+
+183
+00:14:23,613 --> 00:14:26,573
+- Pożegnaj się.
+- Wracaj do domu, tato!
+
+184
+00:14:28,022 --> 00:14:29,190
+Wyjeżdżacie?
+
+185
+00:14:33,626 --> 00:14:36,294
+Odpowiedz.
+Emigrujecie czy co?
+
+186
+00:14:36,749 --> 00:14:38,294
+Cóż...
+
+187
+00:14:38,736 --> 00:14:40,863
+Na uniwersytecie w Irvine
+mają wakat...
+
+188
+00:14:41,503 --> 00:14:44,880
+Wyjeżdżacie do Stanów? Na długo?
+
+189
+00:14:45,309 --> 00:14:47,645
+Tym razem może na stałe.
+
+190
+00:14:54,915 --> 00:14:57,333
+Aha, już rozumiem.
+
+191
+00:14:58,128 --> 00:15:02,796
+Przed wyjazdem
+chciałeś załatwić byłej żonie fuchę?
+
+192
+00:15:03,533 --> 00:15:06,660
+Gratulacje.
+To w końcu dobre wieści.
+
+193
+00:15:09,841 --> 00:15:12,467
+Powiedz mi coś, skoro się żegnamy.
+
+194
+00:15:13,470 --> 00:15:15,432
+Dlaczego za mnie wyszedłeś?
+
+195
+00:15:21,540 --> 00:15:26,625
+Bo uparcie trzymasz się swego zadnia?
+Przez twoją osobowość?
+
+196
+00:15:28,493 --> 00:15:31,995
+Prosiłeś mnie, bym się zmieniła.
+Naprawdę to lubiłeś?
+
+197
+00:15:33,459 --> 00:15:36,004
+Tak, naprawdę.
+
+198
+00:15:37,246 --> 00:15:41,414
+Ale nie mogłem już tego znieść.
+
+199
+00:15:41,892 --> 00:15:44,518
+Zawsze byłem tchórzliwy.
+
+200
+00:15:46,028 --> 00:15:48,196
+Dlatego chciałem rozwodu.
+
+201
+00:15:51,841 --> 00:15:54,592
+Nie martw się, dam sobie radę.
+
+202
+00:15:55,820 --> 00:15:58,197
+Zabrzmiałaś jak nie ty.
+
+203
+00:15:59,435 --> 00:16:01,937
+- Nie masz się zmienić...
+- Zjadłeś?
+
+204
+00:16:02,502 --> 00:16:04,587
+To idziemy, żona czeka.
+
+205
+00:16:05,409 --> 00:16:07,203
+Zaczyna się...
+
+206
+00:16:11,471 --> 00:16:12,472
+Dziękuję.
+
+207
+00:16:14,457 --> 00:16:15,917
+Miłego dnia.
+
+208
+00:16:18,652 --> 00:16:20,904
+Kurwa, ale beka!
+
+209
+00:16:22,530 --> 00:16:25,866
+Oddzwonię. Będę żreć.
+
+210
+00:16:29,591 --> 00:16:30,968
+- Troje?
+- Tak.
+
+211
+00:16:31,531 --> 00:16:35,699
+Weźmiemy wszystko z tej strony.
+
+212
+00:16:35,868 --> 00:16:37,577
+- Wszystko?
+- Tak.
+
+213
+00:16:43,382 --> 00:16:45,302
+Dzisiaj ty płacisz.
+
+214
+00:16:46,323 --> 00:16:47,574
+Słyszysz?
+
+215
+00:16:51,018 --> 00:16:52,812
+Kurwa, So-eun!
+
+216
+00:16:53,378 --> 00:16:55,505
+Odpowiadaj, dobra?
+
+217
+00:16:59,798 --> 00:17:01,925
+Zamykamy cały budynek.
+
+218
+00:17:02,124 --> 00:17:05,001
+Ochrona, ewakuujcie wszystkich!
+
+219
+00:17:05,698 --> 00:17:07,075
+Co się dzieje?
+
+220
+00:17:20,414 --> 00:17:22,291
+Z drogi!
+
+221
+00:17:37,410 --> 00:17:39,412
+Parking nie jest tam?
+
+222
+00:17:39,582 --> 00:17:40,667
+Se-jeong.
+
+223
+00:17:42,783 --> 00:17:46,494
+Znajdź sobie kogoś,
+na kim możesz polegać.
+
+224
+00:17:52,167 --> 00:17:54,503
+Uciekajcie! Szybko!
+
+225
+00:18:14,058 --> 00:18:15,059
+Se-jeong!
+
+226
+00:18:30,196 --> 00:18:31,281
+Szybko!
+
+227
+00:18:58,971 --> 00:18:59,932
+Tam!
+
+228
+00:19:09,921 --> 00:19:11,213
+Chodź!
+
+229
+00:19:35,633 --> 00:19:37,885
+Nic ci nie jest, Hyun-hee?
+
+230
+00:19:38,694 --> 00:19:40,488
+Nic.
+
+231
+00:19:43,265 --> 00:19:44,557
+Co jest grane?
+
+232
+00:19:45,945 --> 00:19:47,780
+Atak terrorystyczny.
+
+233
+00:19:48,104 --> 00:19:50,898
+- Kim pan jest?
+- Policjantem.
+
+234
+00:19:51,429 --> 00:19:54,974
+Dostaliśmy zgłoszenie
+o ataku bioterrorystycznym.
+
+235
+00:19:55,429 --> 00:19:57,888
+Zdaje się, że ci ludzie
+są jego ofiarami.
+
+236
+00:19:58,070 --> 00:19:59,406
+Co takiego?
+
+237
+00:20:25,182 --> 00:20:26,559
+Ja pierdolę!
+
+238
+00:20:48,931 --> 00:20:49,891
+Co to?
+
+239
+00:21:20,219 --> 00:21:22,096
+Co oni odwalają?
+
+240
+00:21:28,078 --> 00:21:29,998
+WYŁĄCZCIE ŚWIATŁO
+
+241
+00:22:12,019 --> 00:22:13,604
+Co z tymi dzieciakami?
+
+242
+00:22:13,749 --> 00:22:15,375
+Zrobi pan coś!
+
+243
+00:22:15,543 --> 00:22:17,002
+Nie jesteśmy tu bezpieczni.
+
+244
+00:22:17,169 --> 00:22:18,920
+Zaczekajmy na wsparcie.
+
+245
+00:22:19,058 --> 00:22:22,809
+Będziemy się przyglądać,
+jak inni giną?
+
+246
+00:22:24,185 --> 00:22:25,270
+Hyun-seok...
+
+247
+00:22:29,125 --> 00:22:32,585
+Wygląda, jakby ciągnęło ich do szyldu.
+
+248
+00:22:33,778 --> 00:22:35,196
+Szyldu?
+
+249
+00:22:41,790 --> 00:22:43,375
+Zwabimy ich tym.
+
+250
+00:22:44,334 --> 00:22:47,294
+Tym? Ale jak?
+
+251
+00:22:48,634 --> 00:22:53,052
+- Użyjcie mojego wózka.
+- Zwariowałaś?
+
+252
+00:22:53,497 --> 00:22:56,833
+- Jak sobie poradzisz?
+- Nie widziałeś, co się stało?
+
+253
+00:22:57,133 --> 00:23:00,136
+Nie dam rady uciec wózkiem.
+
+254
+00:23:01,680 --> 00:23:04,265
+Nie możemy pozwolić im umrzeć.
+
+255
+00:23:14,137 --> 00:23:15,681
+Kurwa!
+
+256
+00:23:44,894 --> 00:23:46,145
+Szybko!
+
+257
+00:23:47,489 --> 00:23:49,866
+- Co?
+- Nie wyjdę tam.
+
+258
+00:23:52,890 --> 00:23:54,391
+Zostań!
+
+259
+00:24:00,923 --> 00:24:02,300
+Tutaj.
+
+260
+00:24:03,082 --> 00:24:04,209
+Szybko.
+
+261
+00:24:13,911 --> 00:24:14,912
+Morda!
+
+262
+00:24:15,037 --> 00:24:16,038
+Szybko.
+
+263
+00:24:31,095 --> 00:24:32,055
+Dlaczego?
+
+264
+00:24:33,414 --> 00:24:34,541
+Idę po nią.
+
+265
+00:24:48,237 --> 00:24:50,573
+Chodź. Pójdziemy razem.
+
+266
+00:24:50,739 --> 00:24:53,616
+Poradzisz sobie. Chodź.
+
+267
+00:24:54,076 --> 00:24:55,827
+Złap mnie za rękę.
+
+268
+00:24:56,202 --> 00:24:57,996
+Pospieszmy się.
+
+269
+00:25:03,168 --> 00:25:04,253
+Kyu-seong!
+
+270
+00:25:15,791 --> 00:25:17,711
+Dawaj, łajzo!
+
+271
+00:25:20,658 --> 00:25:21,909
+Szybko!
+
+272
+00:26:19,953 --> 00:26:23,205
+Jeśli powiem, że zajmujemy się głównie
+inteligencją zbiorową...
+
+273
+00:26:23,596 --> 00:26:25,598
+„Czemu wzięła się za to
+
+274
+00:26:25,751 --> 00:26:28,087
+firma biotechnologiczna, a nie IT?”.
+
+275
+00:26:28,830 --> 00:26:32,207
+Doskonali się
+poprzez wymianę informacji.
+
+276
+00:26:35,336 --> 00:26:38,213
+Inteligencja zbiorowa
+to siła napędowa ewolucji.
+
+277
+00:27:18,804 --> 00:27:20,013
+Kyu-seong!
+
+278
+00:27:20,690 --> 00:27:21,858
+Szybciej!
+
+279
+00:27:25,417 --> 00:27:26,709
+Nie!
+
+280
+00:28:05,682 --> 00:28:08,184
+Dziś po południu budynek Doongwoori
+
+281
+00:28:08,335 --> 00:28:12,003
+został zamknięty z powodu
+ataku bioterrorystycznego.
+
+282
+00:28:12,301 --> 00:28:15,512
+Ministerstwo Zdrowia bada sprawę,
+
+283
+00:28:15,652 --> 00:28:18,112
+nakładając jednocześnie
+pełną kwarantannę...
+
+284
+00:28:18,288 --> 00:28:22,499
+Policja informuje,
+że wirus jest bardzo zaraźliwy
+
+285
+00:28:22,728 --> 00:28:24,605
+i szybko się rozprzestrzenia.
+
+286
+00:28:24,715 --> 00:28:27,383
+Agencja epidemiologiczna
+przekazała środki
+
+287
+00:28:27,528 --> 00:28:29,988
+na kupno i wytworzenie
+ewentualnych szczepionek.
+
+288
+00:28:30,128 --> 00:28:35,212
+Internet zalewają niepotwierdzone plotki
+dotyczące tego ataku.
+
+289
+00:28:35,339 --> 00:28:37,007
+Wszyscy na miejscach.
+
+290
+00:28:37,141 --> 00:28:39,101
+Podwójna barykada postawiona.
+
+291
+00:28:39,222 --> 00:28:40,723
+Widzimy zarażonych.
+
+292
+00:28:54,662 --> 00:28:56,497
+Witajcie, drodzy klienci.
+
+293
+00:28:56,759 --> 00:29:00,763
+Dziękujemy za wizytę
+w centrum handlowym Doongwoori.
+
+294
+00:29:01,582 --> 00:29:04,544
+Za chwilę zamykamy sklepy.
+
+295
+00:29:05,435 --> 00:29:10,812
+Nie możemy doczekać się jutra,
+aby ugościć was jeszcze lepiej.
+
+296
+00:29:11,695 --> 00:29:15,699
+Życzymy przyjemnego
+i bezpiecznego powrotu do domów.
+
+297
+00:29:24,513 --> 00:29:26,597
+NAJUKOCHAŃSZA CÓRKA
+
+298
+00:29:34,120 --> 00:29:35,247
+Tato!
+
+299
+00:29:36,529 --> 00:29:39,031
+- Kim pani jest? Gdzie mój tata?
+- Odebrał?
+
+300
+00:29:40,420 --> 00:29:41,797
+Idź do babci.
+
+301
+00:29:41,989 --> 00:29:43,574
+- Czemu?
+- Na chwilę.
+
+302
+00:29:43,722 --> 00:29:45,058
+Weź ją, mamo.
+
+303
+00:29:45,215 --> 00:29:47,217
+Chodź z babcią.
+
+304
+00:29:53,292 --> 00:29:54,501
+Co...
+
+305
+00:29:57,122 --> 00:29:59,042
+Co z Kyu-seongiem?
+
+306
+00:30:02,412 --> 00:30:03,957
+Poszedł gdzieś?
+
+307
+00:30:06,492 --> 00:30:07,701
+Kyu-seong...
+
+308
+00:30:09,439 --> 00:30:12,316
+uratował kilka osób, a potem...
+
+309
+00:30:13,369 --> 00:30:14,453
+Kogo...
+
+310
+00:30:15,098 --> 00:30:16,475
+Kogo uratował?
+
+311
+00:30:17,085 --> 00:30:18,920
+Do dupy!
+
+312
+00:30:19,225 --> 00:30:20,393
+Co się stało?
+
+313
+00:30:21,000 --> 00:30:23,168
+Co się potem stało?
+
+314
+00:30:31,208 --> 00:30:33,585
+- Kyu-seong...
+- Tato!
+
+315
+00:30:41,199 --> 00:30:42,450
+Co takiego?
+
+316
+00:30:43,062 --> 00:30:45,314
+Wiesz, ile już tu tkwię?
+
+317
+00:30:47,846 --> 00:30:50,098
+Zarażasz się od ugryzienia!
+
+318
+00:30:51,304 --> 00:30:52,305
+Co?
+
+319
+00:30:55,758 --> 00:30:58,303
+- Co to?
+- A jak myślisz?
+
+320
+00:31:01,225 --> 00:31:04,185
+- Będziesz mnie niósł?
+- A kto inny?
+
+321
+00:31:05,125 --> 00:31:06,876
+Jakbyśmy byli na biwaku.
+
+322
+00:31:07,245 --> 00:31:11,663
+Dlatego trzeba się zastanowić,
+zanim się komuś pomoże.
+
+323
+00:31:14,762 --> 00:31:18,556
+Panie władzo,
+ktoś po nas przyjdzie, prawda?
+
+324
+00:31:20,852 --> 00:31:22,520
+Oddział ratunkowy...
+
+325
+00:31:23,566 --> 00:31:25,610
+- tu nie wejdzie.
+- Co?
+
+326
+00:31:26,188 --> 00:31:29,022
+Ale jak to? Przecież żyjemy.
+
+327
+00:31:29,179 --> 00:31:33,390
+W wiadomościach podali,
+że wirus jest bardzo zaraźliwy.
+
+328
+00:31:33,553 --> 00:31:37,137
+Budynek poddano kwarantannie,
+dopóki czegoś nie wymyślą.
+
+329
+00:31:37,726 --> 00:31:40,811
+A co z nami?
+Mamy tutaj umrzeć?
+
+330
+00:31:41,393 --> 00:31:44,811
+- Nie chcę umierać!
+- Jebla idzie dostać...
+
+331
+00:31:44,945 --> 00:31:47,489
+Wie pan, jakie podatki płacę?
+
+332
+00:31:47,614 --> 00:31:50,116
+A rząd nie chce mnie uratować?
+
+333
+00:31:50,872 --> 00:31:54,540
+Jest sposób,
+żebyśmy wyszli z tego cało.
+
+334
+00:31:55,326 --> 00:31:56,246
+Jaki?
+
+335
+00:31:56,605 --> 00:31:59,399
+Sprawca ataku, Suh Young-chul,
+
+336
+00:31:59,565 --> 00:32:01,901
+wstrzyknął sobie szczepionkę.
+
+337
+00:32:02,052 --> 00:32:05,096
+Jeśli go znajdziemy i wyprowadzimy,
+zostaniemy uratowani.
+
+338
+00:32:05,215 --> 00:32:06,424
+Gdzie on jest?
+
+339
+00:32:07,319 --> 00:32:10,571
+Podobno był na konferencji
+
+340
+00:32:10,796 --> 00:32:12,756
+i raczej nie wychodził.
+
+341
+00:32:13,952 --> 00:32:15,203
+Suh Young-chul...
+
+342
+00:32:15,938 --> 00:32:18,483
+spotkał się z prezesem Chains Bio.
+
+343
+00:32:19,185 --> 00:32:20,894
+Skąd pani to wie?
+
+344
+00:32:21,314 --> 00:32:25,482
+Po konferencji
+widziałam go na trzecim piętrze.
+
+345
+00:32:25,861 --> 00:32:27,655
+Jest pani profesorem?
+
+346
+00:32:28,000 --> 00:32:29,626
+Gdzie on poszedł?
+
+347
+00:32:29,781 --> 00:32:32,658
+Za prezesem do sali VIP.
+
+348
+00:32:33,095 --> 00:32:34,680
+I co zrobimy?
+
+349
+00:32:35,094 --> 00:32:40,305
+Nie możemy wyjść stąd,
+a wy mówicie o trzecim piętrze?
+
+350
+00:32:40,443 --> 00:32:41,527
+Racja...
+
+351
+00:32:42,180 --> 00:32:43,307
+Oni...
+
+352
+00:32:44,045 --> 00:32:47,048
+ewoluują przez wymianę informacji.
+
+353
+00:32:47,424 --> 00:32:51,092
+Najpierw chodzili na czworaka
+i atakowali makiety.
+
+354
+00:32:51,683 --> 00:32:53,309
+Teraz chodzą na dwóch nogach
+
+355
+00:32:53,472 --> 00:32:55,808
+i powoli zaczynają
+
+356
+00:32:55,932 --> 00:32:57,350
+odróżniać ludzi.
+
+357
+00:32:58,147 --> 00:32:59,648
+Wymiana informacji?
+
+358
+00:33:00,133 --> 00:33:02,510
+Dzwonią do siebie?
+
+359
+00:33:02,700 --> 00:33:04,868
+Komunikować się można nie tylko słowami.
+
+360
+00:33:05,120 --> 00:33:07,788
+Grzyby i inne stworzenia
+
+361
+00:33:07,986 --> 00:33:09,487
+mają własne sposoby.
+
+362
+00:33:09,613 --> 00:33:13,407
+Na przykład mrówki
+wydzielają feromony.
+
+363
+00:33:14,367 --> 00:33:18,371
+Używają wydzieliny,
+by przyspieszyć sieć komunikacyjną.
+
+364
+00:33:18,592 --> 00:33:22,303
+Czyli te zainfekowane osoby
+
+365
+00:33:22,632 --> 00:33:24,509
+są teraz jak mrówki?
+
+366
+00:33:24,626 --> 00:33:28,211
+Jeśli ich inteligencja zbiorowa
+opiera się na wymianie informacji,
+
+367
+00:33:28,386 --> 00:33:30,804
+być może uda się ich oszukać.
+
+368
+00:33:32,725 --> 00:33:34,685
+Czyli co, oni są mrówkami?
+
+369
+00:33:34,804 --> 00:33:38,306
+Jak przekażemy fałszywą informację?
+
+370
+00:33:38,545 --> 00:33:40,254
+Fake newsami?
+
+371
+00:33:40,393 --> 00:33:44,227
+Mrówki często się gubią,
+gdy otrzymają fałszywą informację.
+
+372
+00:33:44,392 --> 00:33:46,894
+Jest coś takiego, jak mrówczy młyn.
+
+373
+00:33:47,826 --> 00:33:51,328
+Czasami podczas wymiany feromonów
+dochodzi do błędów.
+
+374
+00:33:51,488 --> 00:33:54,239
+Wtedy chodzą dookoła w jednym miejscu,
+
+375
+00:33:54,812 --> 00:33:57,272
+nie mogąc się zatrzymać.
+
+376
+00:33:58,939 --> 00:34:00,484
+I tak do śmierci.
+
+377
+00:34:00,631 --> 00:34:03,715
+Jak przekażemy im fałszywą informację?
+
+378
+00:34:04,212 --> 00:34:07,423
+Gdyby jedno z nas wyszło tam,
+wydzielając jakiś zapach,
+
+379
+00:34:08,498 --> 00:34:12,502
+a reszta stałaby nieruchomo
+i pachniała inaczej,
+
+380
+00:34:12,792 --> 00:34:15,169
+to mogliby nie rozpoznać w nas ludzi.
+
+381
+00:34:15,831 --> 00:34:19,582
+Zyskalibyśmy na czasie,
+zanim by się zorientowali.
+
+382
+00:34:21,726 --> 00:34:23,688
+Kto tam wyjdzie?
+
+383
+00:34:24,247 --> 00:34:25,707
+Ja.
+
+384
+00:34:26,218 --> 00:34:27,927
+Nie uda ci się.
+
+385
+00:34:28,483 --> 00:34:31,819
+Może ktoś bardziej wysportowany?
+
+386
+00:34:32,612 --> 00:34:34,989
+- Na przykład on.
+- Ja pójdę.
+
+387
+00:34:35,143 --> 00:34:36,894
+Mówię, że ja.
+
+388
+00:34:37,831 --> 00:34:39,999
+Widzicie we mnie starszego faceta,
+
+389
+00:34:40,495 --> 00:34:43,498
+ale w młodości byłem mistrzem kraju
+w biegach przełajowych.
+
+390
+00:34:43,651 --> 00:34:44,902
+Nigdzie nie idziesz.
+
+391
+00:34:50,237 --> 00:34:52,197
+Pracowałem jako trener.
+
+392
+00:34:52,632 --> 00:34:56,258
+Pani profesor, co mam robić?
+
+393
+00:35:04,968 --> 00:35:07,719
+- Gdzie z tym?
+- Tutaj.
+
+394
+00:35:09,899 --> 00:35:11,901
+Dodałem was do czatu grupowego.
+
+395
+00:35:12,542 --> 00:35:16,293
+Też powinniśmy wymieniać się informacjami.
+
+396
+00:35:33,048 --> 00:35:35,716
+Proszę przynieść ten sam perfum.
+
+397
+00:35:45,454 --> 00:35:47,998
+Hej, wariaty!
+
+398
+00:35:48,697 --> 00:35:49,989
+Złapcie mnie!
+
+399
+00:37:15,575 --> 00:37:16,911
+Zamykajcie!
+
+400
+00:37:18,768 --> 00:37:20,313
+Mam je.
+
+401
+00:37:33,501 --> 00:37:35,421
+Płyn do spryskiwaczy!
+
+402
+00:37:41,426 --> 00:37:44,011
+- Śmierdzi!
+- Czemu to takie mocne?
+
+403
+00:40:15,991 --> 00:40:17,409
+Idziemy.
+
+404
+00:40:37,146 --> 00:40:38,647
+Szybko!
+
+405
+00:40:39,854 --> 00:40:41,190
+Uciekajmy!
+
+406
+00:40:44,901 --> 00:40:46,193
+Co robisz?
+
+407
+00:40:48,901 --> 00:40:50,985
+Kto ma zapalniczkę?
+
+408
+00:41:20,805 --> 00:41:21,889
+Szybko!
+
+409
+00:41:23,221 --> 00:41:24,765
+Za nami!
+
+410
+00:41:45,825 --> 00:41:47,076
+Biegnijcie!
+
+411
+00:41:51,994 --> 00:41:53,330
+Trzymaj się.
+
+412
+00:42:13,072 --> 00:42:13,993
+Uwaga!
+
+413
+00:42:52,944 --> 00:42:55,695
+Jak uznany naukowiec
+
+414
+00:42:55,823 --> 00:42:57,907
+stał się terrorystą
+zagrażającym krajowi?
+
+415
+00:42:58,031 --> 00:43:00,991
+Prześwietlmy doktora Suh Young-chula.
+
+416
+00:43:01,579 --> 00:43:04,706
+Przez całe studia uniwersyteckie
+miał najlepsze wyniki,
+
+417
+00:43:04,884 --> 00:43:08,017
+a jego pracę dyplomową,
+„Biokomputery oparte na grzybach”,
+
+418
+00:43:08,244 --> 00:43:10,995
+opublikowało czasopismo Science.
+
+419
+00:43:11,320 --> 00:43:15,324
+Obiecujący młody naukowiec
+nagle zagraża całemu krajowi.
+
+420
+00:43:15,510 --> 00:43:17,345
+Trudno to zrozumieć.
+
+421
+00:43:17,813 --> 00:43:22,357
+Czy znamy jakieś szczegóły
+z życia Suh Young-chula?
+
+422
+00:43:22,536 --> 00:43:25,081
+Jego ojciec
+wykładał biologię stosowaną
+
+423
+00:43:25,256 --> 00:43:28,216
+na Uniwersytecie Seocheong.
+
+424
+00:43:28,539 --> 00:43:32,374
+Gdy tam pracował,
+wpłynął anonimowy donos
+
+425
+00:43:32,539 --> 00:43:36,791
+o przywłaszczaniu środków na badania
+i wykorzystywaniu prac studentów,
+
+426
+00:43:36,917 --> 00:43:38,585
+co szeroko omawiano w mediach.
+
+427
+00:43:38,741 --> 00:43:41,286
+Kilka tygodni po zgłoszeniu
+
+428
+00:43:41,432 --> 00:43:43,809
+profesor Suh odebrał sobie życie.
+
+429
+00:43:43,955 --> 00:43:48,040
+Czy to może mieć związek
+z atakiem terrorystycznym jego syna?
+
+430
+00:43:48,375 --> 00:43:51,043
+Może to swoista zemsta?
+
+431
+00:43:52,039 --> 00:43:55,083
+Jak dotąd Suh nie przedstawił
+żadnych żądań,
+
+432
+00:43:55,216 --> 00:43:58,718
+więc mało prawdopodobne,
+żeby te sytuacje były powiązane.
+
+433
+00:43:58,886 --> 00:44:03,304
+Rząd wciąż nie wydał
+informacji o ataku.
+
+434
+00:44:05,598 --> 00:44:06,725
+Trzecie piętro.
+
+435
+00:44:16,829 --> 00:44:18,623
+- Pusto.
+- Chodźcie.
+
+436
+00:44:48,008 --> 00:44:51,344
+Suh Young-chul, jesteś aresztowany
+w związku z atakiem terrorystycznym.
+
+437
+00:44:52,214 --> 00:44:54,632
+Masz prawo do adwokata
+
+438
+00:44:54,775 --> 00:44:56,401
+oraz do zachowania milczenia.
+
+439
+00:44:56,527 --> 00:44:59,612
+Wszystko, co powiesz,
+może zostać wykorzystane...
+
+440
+00:44:59,788 --> 00:45:01,206
+Miło poznać.
+
+441
+00:45:01,375 --> 00:45:04,086
+Włączenie zraszaczy
+do zakłócenia ich komunikacji
+
+442
+00:45:04,202 --> 00:45:06,287
+było pani pomysłem, profesor Kwon?
+
+443
+00:45:07,705 --> 00:45:08,914
+Wy się znacie?
+
+444
+00:45:09,081 --> 00:45:11,041
+Ale popełniła pani błąd.
+
+445
+00:45:13,218 --> 00:45:14,927
+Woda wyparowuje.
+
+446
+00:45:15,087 --> 00:45:18,838
+Jeśli zmiesza się w powietrzu
+z ich siecią, będzie działać szybciej.
+
+447
+00:45:20,085 --> 00:45:22,670
+Nieważne. Co teraz?
+
+448
+00:45:23,285 --> 00:45:25,911
+- Czekamy na ratunek?
+- Nie.
+
+449
+00:45:26,478 --> 00:45:28,938
+- Musimy wejść na dach.
+- Co?
+
+450
+00:45:29,101 --> 00:45:30,895
+Nie mogą ryzykować infekcją.
+
+451
+00:45:31,062 --> 00:45:34,688
+Ledwo przeżyliśmy drogę tutaj,
+a mamy wejść na dach?
+
+452
+00:45:35,247 --> 00:45:38,415
+Nie mogą tu wejść i ich wystrzelać?
+
+453
+00:45:38,569 --> 00:45:39,987
+To pacjenci.
+
+454
+00:45:40,751 --> 00:45:44,087
+- Nie można ich ot tak zabić.
+- Pieprzy pan.
+
+455
+00:45:44,242 --> 00:45:45,910
+To potwory, nie pacjenci.
+
+456
+00:45:46,809 --> 00:45:48,894
+Pacjenci nie zabijają!
+
+457
+00:45:49,531 --> 00:45:51,699
+Mam gdzieś, czym są.
+
+458
+00:45:52,731 --> 00:45:55,566
+Jeśli wyprowadzimy go na dach,
+
+459
+00:45:55,717 --> 00:45:58,802
+przybędzie oddział ratunkowy
+i nas uratuje.
+
+460
+00:45:58,923 --> 00:46:01,508
+Trzeba znaleźć bezpieczną drogę.
+
+461
+00:46:02,272 --> 00:46:04,983
+- A jest taka?
+- Jest.
+
+462
+00:46:05,179 --> 00:46:09,014
+Winda towarowa,
+o której mało kto wie.
+
+463
+00:46:10,669 --> 00:46:12,589
+Nasza okazja.
+
+464
+00:46:13,336 --> 00:46:15,380
+Ochroniarz ma rację.
+
+465
+00:46:18,515 --> 00:46:20,600
+Dobra, spróbujmy.
+
+466
+00:46:21,821 --> 00:46:23,572
+Będziesz prowadził.
+
+467
+00:46:27,330 --> 00:46:28,457
+Chodźmy.
+
+468
+00:46:30,503 --> 00:46:31,630
+Szybko.
+
+469
+00:46:36,325 --> 00:46:37,576
+Profesor Gong!
+
+470
+00:46:42,383 --> 00:46:44,092
+Szybko pani dotarła.
+
+471
+00:46:44,260 --> 00:46:45,220
+Tak.
+
+472
+00:46:46,506 --> 00:46:49,008
+- To laboratorium Suh Young-chula?
+- Tak.
+
+473
+00:46:49,181 --> 00:46:54,225
+Po odejściu z Chains Bio
+tutaj kontynuował swoje badania.
+
+474
+00:46:54,792 --> 00:46:56,586
+- Profesorze Joo!
+- Tutaj.
+
+475
+00:46:57,325 --> 00:47:01,911
+Poznajcie profesor Gong Sul-hee
+z Uniwersytetu Myunghan.
+
+476
+00:47:02,403 --> 00:47:05,197
+To profesorowie Lee Hyeon-myeong
+oraz Jo Hyeon-mi.
+
+477
+00:47:05,364 --> 00:47:08,700
+Członkowie specjalnego
+zespołu dochodzeniowego.
+
+478
+00:47:09,227 --> 00:47:11,978
+Wchodzimy razem z antyterrorystami,
+
+479
+00:47:12,172 --> 00:47:15,006
+- więc proszę się przygotować.
+- Rozumiem.
+
+480
+00:47:15,840 --> 00:47:19,300
+Drużyna Alpha bierze front,
+Delta idzie od tyłu.
+
+481
+00:47:36,616 --> 00:47:37,743
+Cholera.
+
+482
+00:47:38,473 --> 00:47:41,058
+Dobra, naciskam.
+
+483
+00:47:51,887 --> 00:47:53,223
+Szybciej.
+
+484
+00:48:03,473 --> 00:48:04,933
+Winda jedzie w górę.
+
+485
+00:48:07,413 --> 00:48:09,498
+NA DACHU ZA 5 MINUT
+
+486
+00:48:12,914 --> 00:48:14,665
+Ile ma pan lat?
+
+487
+00:48:15,101 --> 00:48:17,228
+Jest pan w świetnej kondycji.
+
+488
+00:48:18,394 --> 00:48:20,314
+Zarąbisty był ten wślizg.
+
+489
+00:48:21,565 --> 00:48:24,191
+Był pan szybki. O tak.
+
+490
+00:48:27,530 --> 00:48:29,281
+Drzwi się otwierają.
+
+491
+00:48:46,215 --> 00:48:47,092
+Nie!
+
+492
+00:49:11,554 --> 00:49:12,763
+Uciekł!
+
+493
+00:49:14,341 --> 00:49:16,009
+I co z tego?
+
+494
+00:49:16,423 --> 00:49:19,343
+Ten sukinsyn jest ważniejszy od nas?
+
+495
+00:49:19,498 --> 00:49:21,292
+Ma szczepionkę.
+
+496
+00:49:21,470 --> 00:49:24,597
+Widzieliście,
+zarażeni nic mu nie robili.
+
+497
+00:49:24,970 --> 00:49:27,890
+- Potrzebujemy szczepionki!
+- Ale...
+
+498
+00:49:28,650 --> 00:49:34,194
+Jak go wyciągniemy?
+Tu się roi od tych potworów.
+
+499
+00:49:34,597 --> 00:49:37,181
+Jak mamy to zrobić?
+
+500
+00:49:38,309 --> 00:49:39,977
+Drzwi się otwierają.
+
+501
+00:49:48,944 --> 00:49:52,488
+Co jest? Naśladują nas?
+
+502
+00:49:57,912 --> 00:49:59,621
+Drzwi się zamykają.
+
+503
+00:50:04,119 --> 00:50:05,703
+Co teraz?
+
+504
+00:50:06,433 --> 00:50:11,101
+Hyun-seok, jest tu gdzieś monitoring?
+
+505
+00:50:11,220 --> 00:50:12,929
+Pomieszczenie kontrolne?
+
+506
+00:50:13,093 --> 00:50:15,178
+Przecież jesteś tu ochroniarzem.
+
+507
+00:50:15,304 --> 00:50:18,224
+Mając dostęp do kamer,
+
+508
+00:50:18,390 --> 00:50:21,393
+będziemy mogli śledzić ich ruchy.
+
+509
+00:50:22,086 --> 00:50:23,422
+Ono jest...
+
+510
+00:50:24,506 --> 00:50:28,131
+- na samym końcu poziomu B2.
+- B2!
+
+511
+00:50:28,609 --> 00:50:31,069
+Najpierw znajdźmy Suh.
+
+512
+00:50:42,935 --> 00:50:44,312
+Alpha, pusto.
+
+513
+00:50:45,207 --> 00:50:46,416
+Delta, pusto.
+
+514
+00:50:47,286 --> 00:50:49,413
+Ma tutaj wszystko.
+
+515
+00:51:03,370 --> 00:51:05,079
+Musicie to zobaczyć.
+
+516
+00:51:21,352 --> 00:51:24,187
+Co to? Są martwe?
+
+517
+00:51:24,790 --> 00:51:26,250
+Żywe.
+
+518
+00:51:33,195 --> 00:51:35,030
+Co on tutaj robił?
+
+519
+00:51:43,283 --> 00:51:45,410
+Jedna jest otwarta!
+
+520
+00:51:48,361 --> 00:51:49,612
+Kontakt!
+
+521
+00:52:40,376 --> 00:52:41,753
+Atakować!
+
+522
+00:52:53,953 --> 00:52:55,204
+Kontakt!
+
+523
+00:52:56,436 --> 00:52:58,398
+Zabrać ją stąd!
+
+524
+00:53:36,714 --> 00:53:39,799
+Przestały się ruszać.
+Potwierdzić.
+
+525
+00:53:40,125 --> 00:53:41,334
+Potwierdzam.
+
+526
+00:53:46,124 --> 00:53:47,501
+Nie ruszają się.
+
+527
+00:53:48,303 --> 00:53:51,306
+Pilnować sektorów.
+W razie ataku strzelać.
+
+528
+00:54:38,541 --> 00:54:39,918
+Co to?
+
+529
+00:54:40,634 --> 00:54:42,428
+Ewoluują?
+
+530
+00:54:43,407 --> 00:54:45,158
+Gdzie ten monitoring?
+
+531
+00:54:45,574 --> 00:54:48,451
+- Tam.
+- Idziemy, tylko cicho.
+
+532
+00:55:55,200 --> 00:55:56,701
+Ogarnij się!
+
+533
+00:56:17,479 --> 00:56:18,730
+Posadź mnie.
+
+534
+00:56:18,985 --> 00:56:20,362
+Zasłońcie okna.
+
+535
+00:56:26,425 --> 00:56:29,010
+To główne kamery.
+
+536
+00:56:29,392 --> 00:56:31,394
+- A dodatkowe...
+- CCTV.
+
+537
+00:56:33,855 --> 00:56:37,107
+- Na którym piętrze wysiadł Suh?
+- Ósmym?
+
+538
+00:56:37,269 --> 00:56:39,561
+Dziewiątym. Tam zacznę.
+
+539
+00:56:46,612 --> 00:56:48,030
+Jest pan w świetnej kondycji.
+
+540
+00:56:49,409 --> 00:56:51,203
+Zarąbisty był ten wślizg.
+
+541
+00:56:51,366 --> 00:56:53,117
+Był pan szybki.
+
+542
+00:56:53,552 --> 00:56:55,596
+Skąd Suh wiedział?
+
+543
+00:56:56,805 --> 00:57:00,473
+O tym, co mówił w windzie.
+Jakby nas obserwował.
+
+544
+00:57:02,674 --> 00:57:03,759
+Racja.
+
+545
+00:57:04,632 --> 00:57:06,759
+Też ma dostęp do kamer?
+
+546
+00:57:08,852 --> 00:57:12,687
+Jeśli widzi to, co zainfekowani...
+
+547
+00:57:14,105 --> 00:57:15,273
+Chwila...
+
+548
+00:57:16,242 --> 00:57:18,202
+To, co widzą te potwory,
+
+549
+00:57:18,823 --> 00:57:20,283
+widzi też Suh?
+
+550
+00:57:20,437 --> 00:57:22,689
+Że co, kurwa?
+
+551
+00:57:22,821 --> 00:57:23,906
+Mam go!
+
+552
+00:57:29,616 --> 00:57:31,242
+Dokąd on idzie?
+
+553
+00:57:56,005 --> 00:57:57,214
+Co robi?
+
+554
+00:58:01,937 --> 00:58:03,398
+Dokąd idzie?
+
+555
+00:58:05,225 --> 00:58:06,976
+Jakby czegoś szukał.
+
+556
+00:58:07,497 --> 00:58:08,874
+Zatrzymał się.
+
+557
+00:58:09,295 --> 00:58:10,672
+Gdzie to jest?
+
+558
+00:58:10,828 --> 00:58:13,622
+Trzecie piętro,
+korytarz w budynku A.
+
+559
+00:58:16,719 --> 00:58:17,846
+Jesteś!
+
+560
+00:58:19,749 --> 00:58:22,460
+Zamknąłeś mnie,
+dlatego tyle mi zeszło.
+
+561
+00:58:28,438 --> 00:58:31,358
+To przecież... prezes Kang Woo-cheol.
+
+562
+00:58:32,718 --> 00:58:34,803
+Z nim pierwszym Suh miał kontakt.
+
+563
+00:58:36,263 --> 00:58:39,183
+Czyli to pewnie pierwszy zainfekowany.
+
+564
+00:58:46,766 --> 00:58:49,018
+Widzisz, miałem rację.
+
+565
+00:58:51,694 --> 00:58:54,821
+Zostałeś moim ogniwem
+w nowej ludzkości.
+
+566
+00:58:55,274 --> 00:58:57,109
+No już, ugryź mnie.
+
+567
+00:59:08,217 --> 00:59:11,469
+- Czy on go właśnie ugryzł?
+- Co jest grane?
+
+568
+00:59:26,146 --> 00:59:27,106
+Patrzcie.
+
+569
+00:59:45,505 --> 00:59:47,214
+Nie wiem, o co chodzi,
+
+570
+00:59:47,884 --> 00:59:51,136
+ale musiały otrzymać
+zupełnie nową informację.
+
+571
+00:59:53,362 --> 00:59:57,197
+Jaką? Ma związek z ugryzieniem Suh?
+
+572
+00:59:57,356 --> 00:59:58,524
+Nie wiem.
+
+573
+00:59:59,957 --> 01:00:02,917
+Jak długo pozostaną w takim stanie?
+
+574
+01:00:03,390 --> 01:00:06,935
+- Wcześniej trwało to kilka minut.
+- Nie wiadomo.
+
+575
+01:00:08,710 --> 01:00:12,795
+Możemy zdobyć szczepionkę,
+póki nie reagują.
+
+576
+01:00:13,796 --> 01:00:16,007
+Dotarcie do niego zajmie chwilę.
+
+577
+01:00:17,843 --> 01:00:20,469
+Będę obserwowała monitoring
+
+578
+01:00:20,622 --> 01:00:23,082
+i informowała was przez czat.
+
+579
+01:00:23,402 --> 01:00:24,820
+Że co?
+
+580
+01:00:28,029 --> 01:00:30,573
+- Chcesz tu zostać?
+- Bierzcie szczepionkę i wracajcie.
+
+581
+01:00:30,739 --> 01:00:32,866
+Poprowadzę was.
+
+582
+01:00:33,202 --> 01:00:35,164
+Nie zostawię cię.
+
+583
+01:00:35,674 --> 01:00:38,759
+Tak będzie najbezpieczniej.
+
+584
+01:00:39,855 --> 01:00:44,023
+Pospieszmy się,
+bo nie wiemy, kiedy się ockną.
+
+585
+01:01:32,713 --> 01:01:35,424
+Zaciągnijmy go gdzieś indziej.
+
+586
+01:01:41,975 --> 01:01:44,019
+Co jest?
+
+587
+01:01:51,046 --> 01:01:52,047
+Szybko!
+
+588
+01:02:00,912 --> 01:02:02,705
+Do środka!
+
+589
+01:02:07,805 --> 01:02:09,682
+Co ten czubek robi?
+
+590
+01:02:12,418 --> 01:02:14,212
+Poszli sobie.
+
+591
+01:02:44,884 --> 01:02:46,343
+Tędy.
+
+592
+01:02:52,663 --> 01:02:53,748
+Szybko.
+
+593
+01:03:15,473 --> 01:03:16,765
+Odeszli.
+
+594
+01:03:17,845 --> 01:03:19,096
+Co zrobiłeś?
+
+595
+01:03:24,089 --> 01:03:26,425
+Udawaliście, że wyszliście?
+Bystra jesteś.
+
+596
+01:03:27,663 --> 01:03:31,623
+Myślicie, że jak zasłonicie mi oczy,
+to wyjdziecie stąd żywi?
+
+597
+01:03:31,805 --> 01:03:33,390
+Co on pieprzy?
+
+598
+01:03:34,383 --> 01:03:38,009
+Zdaje się, że po ugryzieniu
+komunikuje się z nimi wszystkimi.
+
+599
+01:03:38,746 --> 01:03:40,331
+Czyli...
+
+600
+01:03:40,496 --> 01:03:44,416
+kontroluje wszystkie te potwory.
+
+601
+01:03:45,694 --> 01:03:47,986
+Piszmy do siebie.
+
+602
+01:03:48,140 --> 01:03:50,517
+Żeby nic nie widział ani nie słyszał.
+
+603
+01:04:04,342 --> 01:04:07,219
+Przecież zdaliśmy już raporty.
+
+604
+01:04:07,883 --> 01:04:10,010
+Dlaczego nas wzywają?
+
+605
+01:04:10,141 --> 01:04:12,226
+Dowiemy się na miejscu.
+
+606
+01:04:36,954 --> 01:04:38,874
+Z BIURA DO WYJŚCIA AWARYJNEGO
+
+607
+01:04:39,030 --> 01:04:40,824
+NA 4. PIĘTRO, DO MASZYNOWNI
+
+608
+01:04:45,010 --> 01:04:46,094
+Chodźmy.
+
+609
+01:05:09,370 --> 01:05:10,497
+Czekajcie.
+
+610
+01:05:12,750 --> 01:05:16,168
+Wracamy tam, skąd przyszliśmy.
+
+611
+01:05:16,911 --> 01:05:18,120
+A co?
+
+612
+01:05:19,069 --> 01:05:23,695
+- Idziemy po moją siostrę.
+- Ale możemy wyjść ze szczepionką.
+
+613
+01:05:24,009 --> 01:05:25,427
+No tak.
+
+614
+01:05:25,586 --> 01:05:27,630
+Tam jest winda na dach.
+
+615
+01:05:27,796 --> 01:05:29,547
+Co z wami?
+
+616
+01:05:30,728 --> 01:05:32,522
+O czym wy mówicie?
+
+617
+01:05:32,676 --> 01:05:34,720
+Musimy iść w górę.
+
+618
+01:05:34,845 --> 01:05:37,013
+Mamy wrócić do pokoju kontrolnego?
+
+619
+01:06:11,965 --> 01:06:14,591
+POMIESZCZENIE KONTROLNE
+
+620
+01:06:30,609 --> 01:06:32,027
+Co jest?
+
+621
+01:06:32,194 --> 01:06:34,530
+Co ty niby robisz?
+
+622
+01:06:35,107 --> 01:06:36,733
+- Ja?
+- Co zrobiłeś?
+
+623
+01:06:36,907 --> 01:06:39,827
+Przestań.
+Przestań, kurwa!
+
+624
+01:06:41,703 --> 01:06:46,454
+Nie puszczę sukinsyna.
+Idzie ze mną. Ruszaj się.
+
+625
+01:06:47,145 --> 01:06:48,146
+Chodź!
+
+626
+01:06:48,451 --> 01:06:50,869
+Co robisz? Odbiło ci?
+
+627
+01:06:52,018 --> 01:06:53,227
+To szczepionka.
+
+628
+01:06:56,975 --> 01:06:59,726
+Przykro mi, ale zapomnij o siostrze.
+
+629
+01:07:00,888 --> 01:07:02,514
+Nie wrócimy.
+
+630
+01:07:32,629 --> 01:07:35,255
+HYUN-SEOK
+
+631
+01:07:38,507 --> 01:07:41,218
+Zaczekamy, aż wróci z siostrą.
+
+632
+01:07:41,720 --> 01:07:42,888
+Jasne?
+
+633
+01:07:57,025 --> 01:07:58,526
+Posłuchajcie.
+
+634
+01:07:58,665 --> 01:08:02,001
+Szczepionka jest ważniejsza
+od kogokolwiek.
+
+635
+01:08:02,485 --> 01:08:04,362
+Chodzi o cały świat.
+
+636
+01:08:09,618 --> 01:08:12,954
+Jeśli chcesz żyć, to prowadź na górę.
+
+637
+01:08:14,148 --> 01:08:15,232
+Już!
+
+638
+01:08:29,848 --> 01:08:30,849
+Hyun-seok!
+
+639
+01:08:31,021 --> 01:08:33,603
+Nic ci nie jest? Idę po ciebie.
+
+640
+01:08:33,754 --> 01:08:36,422
+Którędy będzie najbezpieczniej?
+
+641
+01:08:38,580 --> 01:08:40,331
+Prowadź mnie!
+
+642
+01:08:41,406 --> 01:08:42,574
+Hyun-hee!
+
+643
+01:08:46,047 --> 01:08:47,967
+Cały czas prosto,
+
+644
+01:08:48,121 --> 01:08:49,872
+a potem w prawo.
+
+645
+01:08:52,674 --> 01:08:53,759
+Co dalej?
+
+646
+01:08:55,397 --> 01:08:56,774
+W lewo.
+
+647
+01:09:02,306 --> 01:09:04,183
+Prosto i schodami po prawej.
+
+648
+01:09:04,356 --> 01:09:07,233
+- Nie, nie! Po lewej!
+- Lewej?
+
+649
+01:09:07,345 --> 01:09:10,430
+- Tędy?
+- Tak. Idź nimi.
+
+650
+01:09:12,519 --> 01:09:13,896
+Jestem.
+
+651
+01:09:14,076 --> 01:09:16,203
+Przez drzwi i do windy.
+
+652
+01:09:16,332 --> 01:09:18,041
+Widzę ją.
+
+653
+01:09:18,645 --> 01:09:20,772
+Dobra. Jesteś cała?
+
+654
+01:09:24,965 --> 01:09:28,133
+Pomyliłaś się,
+ona nie jeździ na poziom B.
+
+655
+01:09:29,483 --> 01:09:31,775
+Nie pomyliłam się.
+Jedź na czwarte.
+
+656
+01:09:32,218 --> 01:09:35,470
+- Czwarte?
+- Hyun-seok.
+
+657
+01:09:35,937 --> 01:09:38,605
+- Co potem?
+- Słuchaj uważnie.
+
+658
+01:09:38,903 --> 01:09:42,988
+Idź cały czas w prawo
+do schodów przeciwpożarowych.
+
+659
+01:09:43,344 --> 01:09:45,721
+Wejdziesz na siódme piętro.
+
+660
+01:09:47,123 --> 01:09:50,708
+Potem dołączysz do pozostałych.
+
+661
+01:09:53,210 --> 01:09:55,212
+Co ty wygadujesz?
+
+662
+01:09:56,243 --> 01:09:57,327
+Hyun-hee!
+
+663
+01:10:00,049 --> 01:10:02,717
+- Mów, jak iść.
+- Skup się!
+
+664
+01:10:03,203 --> 01:10:04,204
+Hyun-seok!
+
+665
+01:10:05,847 --> 01:10:07,432
+Masz przeżyć.
+
+666
+01:10:07,576 --> 01:10:11,327
+- Ja się nie wydostanę.
+- Nieprawda.
+
+667
+01:10:12,154 --> 01:10:14,531
+Zdążę, kurwa, przyjdę po ciebie!
+
+668
+01:10:16,918 --> 01:10:18,920
+Wydostanę cię.
+
+669
+01:10:19,600 --> 01:10:22,684
+- Tylko prowadź.
+- Było wcześniej jechać na biwak.
+
+670
+01:10:25,746 --> 01:10:27,998
+Idź, rozłączam się.
+
+671
+01:10:28,160 --> 01:10:30,704
+Czekaj, nie...
+
+672
+01:10:57,019 --> 01:10:58,396
+Czekaj...
+
+673
+01:11:16,728 --> 01:11:17,855
+Co z nim?
+
+674
+01:11:24,653 --> 01:11:26,113
+ZABILIŚCIE MOJĄ SIOSTRĘ
+
+675
+01:11:27,447 --> 01:11:30,366
+JA ZABIJĘ SCZEPIONKĘ
+
+676
+01:11:33,333 --> 01:11:36,418
+NIE WYJDZIECIE STĄD ŻYWI
+
+677
+01:11:48,553 --> 01:11:50,221
+Tam jest mój brat,
+
+678
+01:11:50,690 --> 01:11:52,942
+skażony jakąś bronią chemiczną.
+
+679
+01:11:53,166 --> 01:11:54,834
+Nie zostawiajcie go!
+
+680
+01:11:54,946 --> 01:11:57,364
+Wyślijcie pomoc!
+
+681
+01:11:57,887 --> 01:12:01,638
+Każą nam czekać, ale ile można?
+
+682
+01:12:01,772 --> 01:12:04,316
+Panie premierze, przyjechali.
+
+683
+01:12:08,074 --> 01:12:10,492
+Dziękuję państwu. Momencik.
+
+684
+01:12:11,899 --> 01:12:14,317
+Tam porozmawiamy.
+
+685
+01:12:14,674 --> 01:12:17,218
+- Pan też, komisarzu.
+- Dobrze.
+
+686
+01:12:21,897 --> 01:12:24,399
+Powiem prosto z mostu.
+
+687
+01:12:24,546 --> 01:12:27,798
+Załóżmy, że ci ludzie
+są w stanie podobnym do tych małp.
+
+688
+01:12:27,993 --> 01:12:30,913
+Jakie są szanse,
+że wrócą do normalności?
+
+689
+01:12:34,681 --> 01:12:37,017
+Cóż, nie mamy pewności...
+
+690
+01:12:37,142 --> 01:12:39,102
+Bardzo niskie.
+
+691
+01:12:40,820 --> 01:12:43,697
+To znaczy? Proszę o prostą odpowiedź.
+
+692
+01:12:44,121 --> 01:12:47,915
+Zniszczonych komórek nerwowych
+
+693
+01:12:49,161 --> 01:12:50,870
+nie da się uleczyć.
+
+694
+01:12:53,074 --> 01:12:54,451
+Najprościej mówiąc,
+
+695
+01:12:55,147 --> 01:12:59,024
+mózgi zarażonych osób
+są w zasadzie martwe.
+
+696
+01:13:01,627 --> 01:13:05,754
+- Złapano Suh Young-chula?
+- Zgadza się.
+
+697
+01:13:05,921 --> 01:13:09,213
+Oddział ratunkowy czeka,
+żeby uniknąć zarażonych.
+
+698
+01:13:09,337 --> 01:13:10,629
+Tak.
+
+699
+01:13:11,395 --> 01:13:12,687
+W takim razie,
+
+700
+01:13:12,886 --> 01:13:15,971
+po wysłuchaniu państwa ekspertyzy,
+
+701
+01:13:16,129 --> 01:13:18,631
+wydam oficjalne oświadczenie.
+
+702
+01:13:19,226 --> 01:13:20,935
+Powiem...
+
+703
+01:13:22,629 --> 01:13:25,047
+że profesor Gong Sul-hee,
+rodzina jednej z ofiar,
+
+704
+01:13:25,729 --> 01:13:28,523
+wypowie się na temat stanu zarażonych.
+
+705
+01:13:28,652 --> 01:13:30,654
+Tak zyskamy
+większe zaufanie obywateli.
+
+706
+01:13:31,834 --> 01:13:35,628
+Czyli chce pan usprawiedliwienia
+
+707
+01:13:35,816 --> 01:13:39,610
+na zastrzelenie zainfekowanych osób?
+
+708
+01:13:40,022 --> 01:13:43,314
+- I my mamy za to odpowiadać?
+- To nie tak.
+
+709
+01:13:43,515 --> 01:13:46,183
+Nie da się ich wyleczyć, tak?
+
+710
+01:13:46,336 --> 01:13:50,713
+Trzeba więc zabezpieczyć szczepionkę,
+zanim wirus się rozprzestrzeni.
+
+711
+01:13:51,216 --> 01:13:54,093
+Podzieliliśmy się tylko naszymi domysłami.
+
+712
+01:13:54,261 --> 01:13:58,221
+Nawet mimo martwicy mózgu
+musimy dostać czas na badania.
+
+713
+01:13:58,348 --> 01:14:00,432
+Dlaczego zmieniacie stanowisko?
+
+714
+01:14:00,553 --> 01:14:04,221
+- Stwierdzamy tylko fakty.
+- Spokojnie.
+
+715
+01:14:06,920 --> 01:14:08,465
+Zrobię to.
+
+716
+01:14:10,277 --> 01:14:13,280
+Momencik, to nie w porządku.
+
+717
+01:14:13,487 --> 01:14:14,779
+A potem...
+
+718
+01:14:15,513 --> 01:14:17,849
+będziecie musieli coś zrobić.
+
+719
+01:14:18,286 --> 01:14:20,578
+Małpy z laboratorium
+
+720
+01:14:21,095 --> 01:14:23,263
+przestały się ruszać
+
+721
+01:14:23,415 --> 01:14:26,000
+po zastrzeleniu osobnika nr 1.
+
+722
+01:14:27,349 --> 01:14:28,894
+Dlaczego?
+
+723
+01:14:29,046 --> 01:14:33,336
+Według jego danych
+była pierwszą zainfekowaną małpą.
+
+724
+01:14:34,301 --> 01:14:37,012
+Czyli jak zastrzelimy
+pierwszą zainfekowaną osobę,
+
+725
+01:14:37,215 --> 01:14:40,300
+pozostałe przestaną się ruszać?
+
+726
+01:14:40,728 --> 01:14:42,605
+Tak sądzę.
+
+727
+01:14:43,795 --> 01:14:45,672
+W takim przypadku...
+
+728
+01:14:47,747 --> 01:14:49,207
+Oto, co zrobimy.
+
+729
+01:14:49,808 --> 01:14:52,019
+Poprosimy firmę ochraniającą budynek
+
+730
+01:14:52,193 --> 01:14:55,653
+o dostęp do monitoringu.
+Tak znajdziemy pierwszą ofiarę.
+
+731
+01:14:56,428 --> 01:15:00,222
+Potem, pod nazwiskiem profesor Gong,
+
+732
+01:15:00,410 --> 01:15:04,036
+opublikujemy notatkę prasową
+o naszych odkryciach.
+
+733
+01:15:04,205 --> 01:15:06,873
+Bierzmy się do roboty. Szybko.
+
+734
+01:15:15,050 --> 01:15:16,718
+Zwariowała pani?
+
+735
+01:15:16,906 --> 01:15:20,198
+Jeśli coś pójdzie nie tak,
+obwinią panią.
+
+736
+01:15:20,891 --> 01:15:25,227
+Odpowiedzialność
+nie jest teraz najważniejsza.
+
+737
+01:15:26,459 --> 01:15:28,836
+Tylko powstrzymanie wirusa.
+
+738
+01:16:48,935 --> 01:16:54,020
+Otrzymacie link do monitoringu
+w budynku Doongwoori.
+
+739
+01:16:55,650 --> 01:16:59,654
+Do incydentu doszło wczoraj
+około południa.
+
+740
+01:16:59,865 --> 01:17:02,950
+Prześledźcie dokładnie to,
+co się działo w środku.
+
+741
+01:17:03,173 --> 01:17:07,465
+Musimy znaleźć pierwszą osobę
+zainfekowaną przez Suh.
+
+742
+01:17:07,633 --> 01:17:09,384
+Jasne? Do dzieła.
+
+743
+01:17:44,729 --> 01:17:48,355
+...31 PIĘTRO, POTEM NA DACH
+SCHODAMI PPOŻ.
+
+744
+01:18:12,143 --> 01:18:13,520
+Jest.
+
+745
+01:18:15,814 --> 01:18:20,691
+Informacja o drogach ewakuacyjnych
+w razie nagłego wypadku.
+
+746
+01:18:23,340 --> 01:18:25,008
+Znajdujecie się
+
+747
+01:18:26,220 --> 01:18:28,222
+w budynku A, 31 piętro, loża VIP.
+
+748
+01:18:28,368 --> 01:18:29,619
+Kurwa.
+
+749
+01:18:32,847 --> 01:18:33,806
+Szybko!
+
+750
+01:18:51,719 --> 01:18:53,721
+Zabiłeś go?
+
+751
+01:18:54,353 --> 01:18:58,021
+Ale to pacjenci.
+Mieliśmy ich nie zabijać.
+
+752
+01:19:00,817 --> 01:19:03,109
+Co teraz? Dokąd pójdziemy?
+
+753
+01:19:05,405 --> 01:19:07,907
+- Do tyłu i w nogi!
+- Do tyłu? Szybko!
+
+754
+01:19:14,122 --> 01:19:15,414
+Ty dupku!
+
+755
+01:19:17,755 --> 01:19:18,756
+Szybko!
+
+756
+01:19:19,143 --> 01:19:20,435
+Ratunku!
+
+757
+01:19:43,443 --> 01:19:44,444
+Pomocy...
+
+758
+01:19:45,758 --> 01:19:48,592
+Jesteś gliniarzem... jak mogłeś?
+
+759
+01:19:50,241 --> 01:19:51,950
+Kurwa!
+
+760
+01:20:35,985 --> 01:20:38,321
+- Pomóż, draniu!
+- Puszczaj.
+
+761
+01:20:38,498 --> 01:20:39,916
+Pomóż mi.
+
+762
+01:20:40,779 --> 01:20:42,488
+Odczep się!
+
+763
+01:20:45,146 --> 01:20:46,691
+Ratuj, kurwa!
+
+764
+01:20:49,133 --> 01:20:50,801
+Puść mnie!
+
+765
+01:20:51,705 --> 01:20:52,956
+Puszczaj!
+
+766
+01:20:55,499 --> 01:20:56,500
+Kurwa.
+
+767
+01:21:04,498 --> 01:21:05,707
+Niech to szlag.
+
+768
+01:21:32,240 --> 01:21:33,325
+Co dalej?
+
+769
+01:21:33,747 --> 01:21:35,498
+Jak powiadomimy oddział?
+
+770
+01:21:46,274 --> 01:21:48,985
+BĄDŹMY CICHO
+PISZMY DO SIEBIE
+
+771
+01:21:56,784 --> 01:21:58,328
+TO CO ROBIMY?
+
+772
+01:22:02,707 --> 01:22:05,627
+ODDZIAŁ RATUNKOWY
+MUSI PRZYJŚĆ DO NAS
+
+773
+01:22:08,546 --> 01:22:11,673
+JAK SIĘ Z NIMI SKONTAKTUJEMY?
+
+774
+01:22:17,266 --> 01:22:19,226
+O czym rozmawiacie?
+
+775
+01:22:19,959 --> 01:22:22,419
+- Też chcę wiedzieć.
+- Sukinsyn...
+
+776
+01:22:23,770 --> 01:22:26,605
+ZDOBĘDĘ TELEFON POLICJANTA
+WY PILNUJCIE SUH
+
+777
+01:22:58,971 --> 01:23:01,597
+Zdobędę telefon policjanta
+
+778
+01:23:01,743 --> 01:23:03,620
+i zawiadomię oddział ratunkowy.
+
+779
+01:23:09,191 --> 01:23:10,527
+Chyba znalazłem!
+
+780
+01:23:10,752 --> 01:23:11,961
+Na główny ekran.
+
+781
+01:23:16,554 --> 01:23:18,099
+Kto to?
+
+782
+01:23:20,126 --> 01:23:21,503
+Kang Woo-cheol.
+
+783
+01:23:21,913 --> 01:23:24,832
+Pierwszym zainfekowanym
+był prezes Chains Bio.
+
+784
+01:23:25,232 --> 01:23:27,400
+Namierzcie go.
+
+785
+01:23:28,016 --> 01:23:29,101
+Tak jest.
+
+786
+01:23:36,450 --> 01:23:38,910
+Myślisz, że ucieknie
+z oddziałem ratunkowym?
+
+787
+01:23:39,683 --> 01:23:42,019
+A jeśli nas tu zostawi?
+
+788
+01:23:42,852 --> 01:23:46,020
+Nie rozumiesz?
+Oddziałowi zależy na nim.
+
+789
+01:23:47,192 --> 01:23:48,818
+I przestań gadać.
+
+790
+01:23:49,339 --> 01:23:51,299
+On wszystko słyszy.
+
+791
+01:23:51,506 --> 01:23:52,466
+Kurwa.
+
+792
+01:23:53,212 --> 01:23:55,047
+I tak mamy przejebane.
+
+793
+01:23:56,504 --> 01:23:57,922
+Wszyscy nie żyją...
+
+794
+01:24:02,553 --> 01:24:05,513
+Dlaczego jesteś taka spokojna?
+
+795
+01:24:08,416 --> 01:24:10,418
+Bo byłam w gorszych sytuacjach.
+
+796
+01:24:11,210 --> 01:24:15,337
+Każdy dzień z tobą i twoim gangiem
+był drogą przez piekło.
+
+797
+01:24:16,104 --> 01:24:17,440
+Gorszym niż to.
+
+798
+01:24:20,862 --> 01:24:22,239
+Przepraszam.
+
+799
+01:24:23,702 --> 01:24:24,662
+Co?
+
+800
+01:24:25,891 --> 01:24:27,726
+Przepraszam cię.
+
+801
+01:24:28,649 --> 01:24:30,109
+Za wszystko.
+
+802
+01:24:32,857 --> 01:24:34,275
+Tak nagle?
+
+803
+01:24:35,998 --> 01:24:37,166
+Teraz?
+
+804
+01:24:38,336 --> 01:24:40,628
+Po tym, jak mnie gnębiłaś?
+
+805
+01:24:41,353 --> 01:24:44,104
+Przecież przeprosiłam!
+
+806
+01:24:44,744 --> 01:24:46,829
+To już koniec.
+
+807
+01:24:48,203 --> 01:24:50,621
+Wszyscy tu umrzemy.
+
+808
+01:24:51,432 --> 01:24:52,809
+Ta kobieta...
+
+809
+01:24:54,196 --> 01:24:55,697
+wróci.
+
+810
+01:24:56,982 --> 01:24:59,942
+Wydostaniemy się stąd żywi.
+
+811
+01:25:01,132 --> 01:25:02,758
+Przestań płakać.
+
+812
+01:25:03,862 --> 01:25:05,071
+Przepraszam.
+
+813
+01:25:06,476 --> 01:25:07,853
+Przepraszam, So-eun.
+
+814
+01:25:10,361 --> 01:25:13,446
+Przeprosisz jak należy,
+gdy już będziemy bezpieczne.
+
+815
+01:25:18,453 --> 01:25:19,538
+Dobrze.
+
+816
+01:25:49,558 --> 01:25:52,251
+KOMISARZ POLICJI PARK JEONG-HWAN
+
+817
+01:26:03,026 --> 01:26:03,903
+Lee.
+
+818
+01:26:04,031 --> 01:26:06,699
+Gdzie pan jest? Złapał pan Suh?
+
+819
+01:26:07,326 --> 01:26:09,870
+- Pańscy podwładni nie żyją.
+- Co? Kim pani jest?
+
+820
+01:26:11,965 --> 01:26:12,966
+Kto mówi?
+
+821
+01:26:14,572 --> 01:26:15,823
+Kwon Se-jeong.
+
+822
+01:26:16,319 --> 01:26:19,030
+Ja i kilka innych osób
+mamy Suh Young-chula.
+
+823
+01:26:19,422 --> 01:26:21,758
+- Gdzie on jest?
+- Trzymamy go
+
+824
+01:26:21,924 --> 01:26:23,801
+w bezpiecznym miejscu.
+
+825
+01:26:23,968 --> 01:26:26,428
+Przyślijcie do nas oddział ratunkowy.
+
+826
+01:26:27,535 --> 01:26:29,912
+Namierzyłem pierwszego zainfekowanego.
+
+827
+01:26:30,078 --> 01:26:32,955
+- Gdzie jest?
+- Budynek C, korytarz na 15. piętrze.
+
+828
+01:26:33,225 --> 01:26:35,019
+Co robimy?
+
+829
+01:26:36,084 --> 01:26:38,252
+Podzielcie oddział ratunkowy
+na dwie drużyny.
+
+830
+01:26:38,399 --> 01:26:40,067
+Jedna idzie po Suh,
+
+831
+01:26:40,234 --> 01:26:44,652
+a druga zabije zainfekowanego,
+tak jak mówiła profesor.
+
+832
+01:26:44,822 --> 01:26:48,949
+Nawet jeśli ich nie wyleczymy,
+potrzebujemy szczepionki.
+
+833
+01:26:49,852 --> 01:26:52,020
+Gdzie znajduje się Suh Young-chul?
+
+834
+01:26:52,174 --> 01:26:53,800
+Wyślemy oddział.
+
+835
+01:26:53,998 --> 01:26:57,250
+Magazyn w budynku A,
+32 piętro. Pospieszcie się.
+
+836
+01:27:51,944 --> 01:27:53,404
+Zbliżamy się.
+
+837
+01:27:53,538 --> 01:27:55,706
+Cel jest na końcu korytarza.
+
+838
+01:27:59,897 --> 01:28:01,606
+Przed nami zainfekowani!
+
+839
+01:28:12,357 --> 01:28:13,358
+Ognia!
+
+840
+01:28:18,582 --> 01:28:20,250
+Alpha, lokalizacja?
+
+841
+01:28:20,822 --> 01:28:22,906
+W drodze do celu w budynku A.
+
+842
+01:28:36,104 --> 01:28:38,606
+Jesteście tam?
+Tu oddział ratunkowy.
+
+843
+01:28:39,545 --> 01:28:41,504
+- Przyszli!
+- Otwórzcie drzwi.
+
+844
+01:28:41,639 --> 01:28:43,807
+- Już!
+- Na-yoon!
+
+845
+01:28:45,687 --> 01:28:47,438
+Jesteśmy oddziałem ratunkowym.
+
+846
+01:29:35,013 --> 01:29:36,807
+Mówiłaś, że przeprosiłaś?
+
+847
+01:29:37,453 --> 01:29:38,830
+Zrób to teraz.
+
+848
+01:29:42,082 --> 01:29:43,418
+Kurwa!
+
+849
+01:29:48,464 --> 01:29:50,008
+Spadaj, potworze!
+
+850
+01:30:03,303 --> 01:30:05,680
+Droga zabezpieczona.
+Wchodzimy.
+
+851
+01:30:10,556 --> 01:30:11,724
+Jest cel!
+
+852
+01:30:11,862 --> 01:30:13,113
+Tam.
+
+853
+01:30:33,148 --> 01:30:36,316
+Co się stało? Gdzie obraz?
+
+854
+01:30:49,288 --> 01:30:50,624
+Cel zabity.
+
+855
+01:30:52,945 --> 01:30:54,696
+To już koniec?
+
+856
+01:30:55,698 --> 01:30:57,449
+Przestali się ruszać?
+
+857
+01:31:00,264 --> 01:31:01,641
+Co jest?
+
+858
+01:31:12,921 --> 01:31:14,339
+Przyślijcie wsparcie!
+
+859
+01:31:18,762 --> 01:31:19,682
+Wsparcie!
+
+860
+01:31:19,805 --> 01:31:21,482
+BRAK SYGNAŁU
+
+861
+01:31:24,997 --> 01:31:28,540
+- Co z Suh Young-chulem?
+- To nie on?
+
+862
+01:31:29,594 --> 01:31:30,595
+Tam.
+
+863
+01:32:25,704 --> 01:32:27,706
+Kretyni.
+
+864
+01:34:24,956 --> 01:34:26,124
+Nie!
+
+865
+01:34:31,350 --> 01:34:32,686
+Opanuj się.
+
+866
+01:34:33,217 --> 01:34:36,094
+Jeśli go zabijesz,
+może ucierpieć więcej ludzi.
+
+867
+01:34:36,558 --> 01:34:38,602
+Nie obchodzą mnie inni!
+
+868
+01:34:42,040 --> 01:34:43,332
+To przez was...
+
+869
+01:34:43,866 --> 01:34:45,993
+Zostawiliście moją siostrę!
+
+870
+01:35:07,366 --> 01:35:09,243
+Mam spełnić twoje życzenie?
+
+871
+01:35:10,822 --> 01:35:12,282
+Co powiedziałeś?
+
+872
+01:35:19,859 --> 01:35:20,943
+Hyun-hee?
+
+873
+01:36:18,951 --> 01:36:20,119
+Widziałaś?
+
+874
+01:36:21,142 --> 01:36:22,851
+Była w pełni sprawna.
+
+875
+01:36:23,471 --> 01:36:24,722
+Profesor Kwon?
+
+876
+01:36:27,537 --> 01:36:29,414
+Ty je wysłałeś, prawda?
+
+877
+01:36:30,598 --> 01:36:34,725
+Do stworzenia tych dzieci
+zainspirowała mnie pani.
+
+878
+01:36:39,138 --> 01:36:41,598
+Mój ojciec błagał panią...
+
+879
+01:36:46,715 --> 01:36:48,800
+WADLIWA KOMUNIKACJA
+ŹRÓDŁEM WSZELKIEJ TRAGEDII
+
+880
+01:36:48,938 --> 01:36:51,230
+Se-jeong, to nieporozumienie.
+
+881
+01:36:51,386 --> 01:36:54,306
+Prawo nie zawsze się przekłada
+na rzeczywisty stan rzeczy.
+
+882
+01:36:54,501 --> 01:36:56,919
+Brałem pieniądze na studentów,
+
+883
+01:36:57,079 --> 01:37:00,539
+którzy i tak nie przychodzili,
+by je mieć dla tych aktywnych.
+
+884
+01:37:00,725 --> 01:37:02,226
+Zgodzili się.
+
+885
+01:37:02,397 --> 01:37:04,815
+Nie, nie, Se-jeong...
+
+886
+01:37:05,097 --> 01:37:09,017
+Źródłem tej tragedii
+jest wadliwa komunikacja.
+
+887
+01:37:10,071 --> 01:37:12,531
+Nie, proszę cię.
+Se-jeong... Se-jeong?
+
+888
+01:37:27,602 --> 01:37:30,938
+To wszystko przez to?
+
+889
+01:37:32,215 --> 01:37:34,342
+Wystarczyło zemścić się na mnie!
+
+890
+01:37:35,375 --> 01:37:36,711
+Zemścić?
+
+891
+01:37:38,017 --> 01:37:39,811
+Śmierć ojca
+
+892
+01:37:41,879 --> 01:37:44,713
+była tragedią wywołaną
+przez wadliwą komunikację.
+
+893
+01:37:45,327 --> 01:37:47,329
+Nie przez kogoś takiego jak ty.
+
+894
+01:37:47,459 --> 01:37:50,919
+Jak ty... jak ty...
+
+895
+01:37:53,219 --> 01:37:55,803
+W porównaniu z największymi
+osiągnięciami ludzkości,
+
+896
+01:37:55,965 --> 01:37:59,049
+wiedza, jaką posiada jednostka,
+jest bardzo ograniczona.
+
+897
+01:37:59,872 --> 01:38:04,332
+To ograniczenie
+powoduje straszne niezrozumienie.
+
+898
+01:38:05,447 --> 01:38:08,115
+Aby nie dopuścić do takich tragedii...
+
+899
+01:38:08,611 --> 01:38:12,903
+...należy połączyć ze sobą
+wszystkie nasze rozumy.
+
+900
+01:38:14,698 --> 01:38:16,990
+Wadliwa komunikacja istot ludzkich,
+
+901
+01:38:17,650 --> 01:38:21,484
+tragedie wynikające
+z niepełnego zrozumienia uczuć innych...
+
+902
+01:38:22,444 --> 01:38:24,612
+ten system idealnie to rozwiązuje.
+
+903
+01:38:25,683 --> 01:38:27,603
+Tym jesteśmy.
+
+904
+01:38:30,016 --> 01:38:33,936
+Czym górują nad nami
+mniej rozwinięte istoty, jak wy?
+
+905
+01:38:37,131 --> 01:38:39,008
+Możliwością bycia wyrzutkiem?
+
+906
+01:38:40,751 --> 01:38:42,419
+Zniesie to pani?
+
+907
+01:38:44,438 --> 01:38:46,440
+Robi to pani, bo to zniesie?
+
+908
+01:38:47,737 --> 01:38:49,696
+Śmiało, proszę być wyrzutkiem.
+
+909
+01:39:00,307 --> 01:39:02,016
+Drużyna Alpha namierzyła cel.
+
+910
+01:39:13,996 --> 01:39:15,998
+Szczepionka zabezpieczona!
+
+911
+01:39:16,510 --> 01:39:18,387
+Więc się wycofajcie!
+
+912
+01:39:49,791 --> 01:39:52,959
+Szkoda, ale mamy chociaż szczepionkę.
+
+913
+01:39:55,520 --> 01:39:57,021
+A co z nią?
+
+914
+01:39:57,614 --> 01:39:59,159
+Porzucicie ją?
+
+915
+01:40:00,248 --> 01:40:01,916
+Uratujcie ją!
+
+916
+01:40:02,995 --> 01:40:04,246
+Dobrze...
+
+917
+01:40:04,412 --> 01:40:06,914
+Niech pani profesor odpocznie.
+
+918
+01:40:07,040 --> 01:40:08,708
+Wykonała pani swoje zadanie.
+
+919
+01:40:08,874 --> 01:40:11,251
+Wyprowadzić panią profesor.
+
+920
+01:40:16,174 --> 01:40:18,218
+- Idziemy na dach budynku C.
+- Przyjąłem.
+
+921
+01:40:18,385 --> 01:40:20,887
+Drużyna Charlie
+wchodzi do sąsiedniego budynku.
+
+922
+01:40:36,278 --> 01:40:39,904
+MOJA LEPSZA POŁOWA
+
+923
+01:40:44,101 --> 01:40:45,102
+Halo?
+
+924
+01:40:45,439 --> 01:40:48,984
+Pani profesor? Nic pani nie jest?
+
+925
+01:40:50,183 --> 01:40:52,727
+Znam pani sytuację.
+
+926
+01:40:53,065 --> 01:40:54,610
+Jak to?
+
+927
+01:40:55,589 --> 01:40:59,441
+Oglądałam wszystko z antyterrorystami.
+
+928
+01:41:00,468 --> 01:41:01,636
+Przykro mi.
+
+929
+01:41:01,803 --> 01:41:04,806
+Oddział ratunkowy raczej nie wróci.
+
+930
+01:41:07,928 --> 01:41:10,513
+To dlaczego pani dzwoni?
+
+931
+01:41:13,121 --> 01:41:14,498
+Chyba wiem,
+
+932
+01:41:14,649 --> 01:41:17,526
+jak to powstrzymać.
+Suh eksperymentował
+
+933
+01:41:17,694 --> 01:41:19,529
+na małpach.
+
+934
+01:41:19,696 --> 01:41:22,114
+Gdy zginął osobnik nr 1,
+
+935
+01:41:22,693 --> 01:41:25,277
+reszta przestała się poruszać.
+
+936
+01:41:25,437 --> 01:41:26,773
+Naprawdę?
+
+937
+01:41:26,929 --> 01:41:31,140
+Myślałam, że zabicie
+pierwszej zainfekowanej osoby...
+
+938
+01:41:38,989 --> 01:41:42,949
+Numer 1 nie oznacza
+pierwszego zainfekowanego.
+
+939
+01:41:43,282 --> 01:41:44,826
+Tylko kontrolującego resztę.
+
+940
+01:41:45,629 --> 01:41:47,965
+W tym przypadku osobnikiem nr 1
+
+941
+01:41:48,915 --> 01:41:50,666
+jest Suh Young-chul.
+
+942
+01:41:51,144 --> 01:41:53,188
+Alpha zbliża się do celu.
+
+943
+01:41:53,705 --> 01:41:55,414
+Oberwałeś kiedyś kulkę?
+
+944
+01:41:56,147 --> 01:41:57,608
+Patrz przed siebie.
+
+945
+01:42:19,089 --> 01:42:21,216
+Wszystko mnie boli.
+
+946
+01:42:42,654 --> 01:42:44,574
+Muszą zabić Suh Young-chula.
+
+947
+01:42:45,210 --> 01:42:47,130
+Tylko tak ich zatrzymamy.
+
+948
+01:42:47,298 --> 01:42:49,716
+Jeśli Suh wyjdzie, to koniec.
+
+949
+01:42:50,578 --> 01:42:53,538
+Nie możemy.
+Jak go zabijemy,
+
+950
+01:42:53,707 --> 01:42:55,875
+to będziemy mieć na karku
+
+951
+01:42:56,436 --> 01:42:59,813
+nie tylko rodziny ofiar,
+ale i wszystkich bojących się wirusa.
+
+952
+01:42:59,963 --> 01:43:02,508
+Rząd nie podejmie takiego ryzyka.
+
+953
+01:43:03,637 --> 01:43:05,222
+Zniesie to pani?
+
+954
+01:43:05,385 --> 01:43:07,845
+Śmiało, proszę być wyrzutkiem.
+
+955
+01:43:10,283 --> 01:43:11,534
+O tym mówił.
+
+956
+01:43:27,882 --> 01:43:29,633
+On naprawdę jest szczepionką?
+
+957
+01:43:30,656 --> 01:43:31,824
+Pytam panią.
+
+958
+01:43:31,995 --> 01:43:33,413
+Jak pani sądzi?
+
+959
+01:43:36,785 --> 01:43:38,536
+Proszę zdecydować.
+
+960
+01:43:54,414 --> 01:43:57,082
+Napotkaliście jakieś problemy?
+
+961
+01:43:57,647 --> 01:44:00,024
+Nie, wyprowadzamy Suh Young-chula.
+
+962
+01:44:09,657 --> 01:44:10,949
+Musimy go zabić!
+
+963
+01:44:12,313 --> 01:44:13,649
+Słucham?
+
+964
+01:44:13,828 --> 01:44:16,164
+Rozmawiałam z profesor Kwon.
+
+965
+01:44:16,331 --> 01:44:19,334
+Powiedziała, że Suh
+kontroluje zainfekowanych.
+
+966
+01:44:19,473 --> 01:44:22,099
+Dlatego musimy go zabić.
+
+967
+01:44:22,706 --> 01:44:25,208
+I pozbawić się szczepionki?
+
+968
+01:44:27,119 --> 01:44:30,702
+Odpowiada pani tylko za operację,
+która się nie powiodła.
+
+969
+01:44:30,845 --> 01:44:34,390
+Ktoś jeszcze ma dowody
+nakazujące wyeliminować szczepionkę?
+
+970
+01:44:34,557 --> 01:44:36,642
+Ktokolwiek?
+
+971
+01:44:39,020 --> 01:44:43,024
+Suh jest w drodze tutaj.
+To już koniec.
+
+972
+01:44:45,587 --> 01:44:48,089
+Kwatera główna,
+przepuszczamy antyterrorystów.
+
+973
+01:44:48,580 --> 01:44:50,624
+Nadjeżdża szczepionka.
+
+974
+01:45:01,618 --> 01:45:05,203
+Przed Doongwoori jest za dużo ludzi.
+Potrzebne wsparcie.
+
+975
+01:45:05,424 --> 01:45:09,008
+Przyślijcie kogo się da
+pod Doongwoori.
+
+976
+01:47:03,746 --> 01:47:05,580
+Cofnąć się!
+
+977
+01:47:06,688 --> 01:47:08,314
+Zróbcie miejsce.
+
+978
+01:47:44,642 --> 01:47:45,851
+Proszę pana!
+
+979
+01:47:51,770 --> 01:47:55,230
+Naruszono barykadę przed Doongwoori.
+
+980
+01:48:23,345 --> 01:48:24,596
+Szybko.
+
+981
+01:48:31,273 --> 01:48:33,933
+Nie, potrzebujemy Suh.
+
+982
+01:48:34,106 --> 01:48:35,815
+Ściągnijmy wojsko.
+
+983
+01:48:36,648 --> 01:48:40,316
+Najbliższe jednostki
+zmobilizowano wokół Seulu.
+
+984
+01:48:41,615 --> 01:48:43,116
+Do diabła!
+
+985
+01:48:43,264 --> 01:48:46,516
+Dobrze, zwijamy sprzęt.
+
+986
+01:48:46,645 --> 01:48:49,063
+Później pomyślimy o nowej lokacji.
+
+987
+01:48:49,225 --> 01:48:51,310
+Ewakuacja, raz-dwa!
+
+988
+01:49:31,126 --> 01:49:32,127
+Halo?
+
+989
+01:49:32,540 --> 01:49:34,291
+Co z Suh?
+
+990
+01:49:34,816 --> 01:49:37,193
+Minister i jego ludzie uciekli.
+
+991
+01:49:37,360 --> 01:49:39,237
+A Suh Young-chul zniknął.
+
+992
+01:49:41,037 --> 01:49:43,997
+Namierzy go pani?
+Tak jak mnie?
+
+993
+01:49:44,204 --> 01:49:46,830
+Dobrze, za chwilę oddzwonię.
+
+994
+01:49:47,943 --> 01:49:50,569
+Profesor Gong.
+
+995
+01:50:01,762 --> 01:50:04,221
+- Wiemy, gdzie jest Suh?
+- Co?
+
+996
+01:50:04,545 --> 01:50:06,005
+Co pani robi?
+
+997
+01:50:06,209 --> 01:50:09,294
+- Proszę uciekać!
+- Zostaw ją! Idziemy!
+
+998
+01:50:21,946 --> 01:50:23,073
+Mam go.
+
+999
+01:50:24,039 --> 01:50:25,833
+Jest na ulicy Sinsok.
+
+1000
+01:50:29,712 --> 01:50:31,338
+Widzi pani migające światła?
+
+1001
+01:50:31,497 --> 01:50:32,706
+Tak.
+
+1002
+01:50:32,874 --> 01:50:34,334
+Widzę.
+
+1003
+01:50:37,159 --> 01:50:38,910
+Proszę mnie prowadzić.
+
+1004
+01:50:46,179 --> 01:50:47,556
+Cały czas prosto.
+
+1005
+01:50:50,099 --> 01:50:51,476
+Na skrzyżowaniu w lewo.
+
+1006
+01:50:56,689 --> 01:50:58,524
+Na następnym w prawo.
+
+1007
+01:53:07,249 --> 01:53:09,126
+Idiota, zaplątał się...
+
+1008
+01:53:16,508 --> 01:53:17,676
+Z drogi!
+
+1009
+01:53:19,999 --> 01:53:22,335
+Zejdźcie mi z drogi!
+
+1010
+01:53:47,568 --> 01:53:49,113
+Wróciły do stanu pierwotnego.
+
+1011
+01:54:36,164 --> 01:54:38,208
+Przestańcie, kurwa!
+
+1012
+01:54:38,744 --> 01:54:40,121
+Stójcie!
+
+1013
+01:54:52,911 --> 01:54:54,995
+Nie, proszę!
+
+1014
+01:55:01,283 --> 01:55:03,535
+Proszę...
+
+1015
+01:56:53,147 --> 01:56:55,315
+I jak? Udało się?
+
+1016
+01:56:56,625 --> 01:56:57,626
+Tak.
+
+1017
+01:56:58,520 --> 01:56:59,978
+Nie ruszają się.
+
+1018
+01:57:01,627 --> 01:57:03,086
+Udało się pani.
+
+1019
+01:57:04,214 --> 01:57:08,674
+Większość będzie miała inne zdanie.
+Co robimy dalej?
+
+1020
+01:57:09,447 --> 01:57:11,491
+Szczepionka przepadła na dobre.
+
+1021
+01:57:11,649 --> 01:57:13,526
+Ludzie mnie znienawidzą.
+
+1022
+01:57:15,127 --> 01:57:16,419
+Spokojnie.
+
+1023
+01:57:16,597 --> 01:57:18,765
+Poprę panią w sądzie.
+
+1024
+01:57:19,593 --> 01:57:22,720
+Jeśli mają panią nienawidzić,
+to mnie też mogą.
+
+1025
+01:57:28,660 --> 01:57:32,411
+Proszę się nie poświęcać.
+Ja do tego przywykłam.
+
+1026
+01:57:34,422 --> 01:57:36,007
+Gdzie pani jest?
+
+1027
+01:57:37,413 --> 01:57:39,540
+Przed nami masa pracy.
+
