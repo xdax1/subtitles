@@ -1,0 +1,2092 @@
+﻿1
+00:00:02,036 --> 00:00:03,787
+W poprzednich odcinkach:
+
+2
+00:00:03,870 --> 00:00:05,828
+- Jak to trafiło na łódź?
+- Locke.
+
+3
+00:00:05,912 --> 00:00:07,703
+Może chce, żebyśmy sami się pozabijali?
+
+4
+00:00:07,787 --> 00:00:09,244
+Nie będę stał bezczynnie!
+
+5
+00:00:09,328 --> 00:00:12,036
+- Musisz mi zaufać.
+- Przykro mi, ale nie ufam.
+
+6
+00:00:14,453 --> 00:00:16,161
+Sayid!
+
+7
+00:00:19,745 --> 00:00:20,912
+Idź. Ja ją wyciągnę.
+
+8
+00:00:20,994 --> 00:00:22,578
+Nie. Damy radę!
+
+9
+00:00:22,662 --> 00:00:24,328
+Idź! Ratuj Sawyera.
+
+10
+00:00:26,620 --> 00:00:28,286
+Nie zostawię cię.
+
+11
+00:00:29,662 --> 00:00:30,870
+Kocham cię, Sun.
+
+12
+00:00:30,953 --> 00:00:32,453
+Ja ciebie też.
+
+13
+00:00:36,994 --> 00:00:38,411
+A co z Jinem i Sun?
+
+14
+00:01:18,495 --> 00:01:20,870
+- Dzień dobry.
+- Dzień dobry.
+
+15
+00:01:20,953 --> 00:01:22,244
+Zrobiłem śniadanie.
+
+16
+00:01:22,328 --> 00:01:25,994
+Formalnie rzecz biorąc,
+otwarcie pudełka płatków
+
+17
+00:01:26,953 --> 00:01:28,453
+nie jest zrobieniem śniadania.
+
+18
+00:01:29,286 --> 00:01:31,912
+Przyjdziesz dziś na koncert, tak?
+
+19
+00:01:31,994 --> 00:01:33,703
+Oczywiście.
+
+20
+00:01:34,787 --> 00:01:36,912
+- Mama też będzie?
+- Tak.
+
+21
+00:01:38,994 --> 00:01:40,036
+A co?
+
+22
+00:01:41,994 --> 00:01:43,495
+Chyba nie będziesz świrował?
+
+23
+00:01:43,578 --> 00:01:45,370
+- Czemu miałbym świrować?
+- Nie świruj.
+
+24
+00:01:46,161 --> 00:01:47,453
+Nie będę.
+
+25
+00:01:51,912 --> 00:01:52,953
+Dzień dobry.
+
+26
+00:01:53,828 --> 00:01:55,161
+- Dzień dobry.
+- Dzień dobry.
+
+27
+00:01:57,994 --> 00:02:00,411
+- Chcesz płatków?
+- Jasne. Dziękuję.
+
+28
+00:02:10,953 --> 00:02:11,994
+Jak się czujesz?
+
+29
+00:02:12,078 --> 00:02:16,078
+Nieźle. Tylko w nocy strasznie kopie.
+
+30
+00:02:23,119 --> 00:02:25,411
+- Jack Shephard.
+- Witam, panie Shephard.
+
+31
+00:02:26,203 --> 00:02:29,620
+Linie lotnicze Oceanic.
+Chciałbym pana powiadomić,
+
+32
+00:02:29,703 --> 00:02:31,495
+że znaleźliśmy pańską zgubę.
+
+33
+00:02:32,828 --> 00:02:35,119
+Znaleźliście trumnę mojego ojca?
+
+34
+00:02:36,328 --> 00:02:40,203
+Tak, proszę pana.
+Dotrze do Los Angeles dziś wieczorem.
+
+35
+00:02:40,286 --> 00:02:43,994
+- To świetna wiadomość. Dziękuję.
+- Oczywiście.
+
+36
+00:02:44,078 --> 00:02:46,578
+Przepraszamy, że to tyle trwało.
+
+37
+00:02:48,036 --> 00:02:49,453
+Miłego dnia.
+
+38
+00:03:13,119 --> 00:03:14,745
+Nie mam nic lepszego.
+
+39
+00:03:15,912 --> 00:03:17,453
+Może trochę boleć.
+
+40
+00:03:30,036 --> 00:03:33,994
+Kula przeszła na wylot,
+ale jak tego nie zrobię, wda się zakażeni
+
+41
+00:03:34,078 --> 00:03:36,119
+- W porządku.
+- Przepraszam.
+
+42
+00:03:41,495 --> 00:03:43,078
+Mieli córeczkę.
+
+43
+00:03:44,495 --> 00:03:47,495
+Nazywa się... Ji Yeon.
+
+44
+00:03:56,244 --> 00:03:57,787
+Jin nawet jej nie poznał.
+
+45
+00:04:03,912 --> 00:04:05,328
+Locke im to zrobił.
+
+46
+00:04:09,495 --> 00:04:11,203
+Musimy go zabić, Jack.
+
+47
+00:04:14,328 --> 00:04:15,620
+Wiem.
+
+48
+00:04:19,745 --> 00:04:23,703
+ZAGUBIENI
+
+49
+00:05:21,578 --> 00:05:22,703
+Powinniśmy się zbierać.
+
+50
+00:05:25,203 --> 00:05:26,870
+- Dokąd?
+- Zanim Sayid zginął,
+
+51
+00:05:26,953 --> 00:05:28,578
+mówił, że Desmond jest w studni.
+
+52
+00:05:31,244 --> 00:05:33,328
+Locke chciał go zabić,
+więc będzie nam potrzebny.
+
+53
+00:05:51,620 --> 00:05:54,328
+Witamy z powrotem, panie Locke.
+Dobrze pana widzieć.
+
+54
+00:05:54,410 --> 00:05:55,787
+Dziękuję. Wzajemnie.
+
+55
+00:06:04,703 --> 00:06:06,495
+Ani się waż.
+
+56
+00:06:07,078 --> 00:06:10,286
+To on! To on potrącił pana Locke'a!
+Niech ktoś wezwie policję!
+
+57
+00:06:10,370 --> 00:06:12,161
+Widziałem cię. To areszt obywatelski.
+
+58
+00:06:12,244 --> 00:06:13,745
+- Nie przeszkadzaj mi.
+- Nie...
+
+59
+00:06:18,495 --> 00:06:20,745
+Nie pozwolę ci skrzywdzić pana Locke'a!
+
+60
+00:06:20,828 --> 00:06:22,828
+Nie chcę go skrzywdzić.
+
+61
+00:06:22,912 --> 00:06:26,244
+- Chcę mu pomóc.
+- Kim jesteś?
+
+62
+00:06:28,328 --> 00:06:29,578
+Chcesz wiedzieć, kim jestem?
+
+63
+00:06:59,285 --> 00:07:01,244
+To na pewno skrót?
+
+64
+00:07:02,119 --> 00:07:04,745
+Długo mieszkałem w tych domach, Miles.
+
+65
+00:07:04,828 --> 00:07:06,620
+Pamiętam, jak tam dotrzeć.
+
+66
+00:07:06,703 --> 00:07:09,536
+Ja mieszkałem w nich 30 lat przed tobą,
+
+67
+00:07:09,620 --> 00:07:12,953
+czyli tydzień temu,
+a nie mam pojęcia, gdzie jesteśmy.
+
+68
+00:07:13,036 --> 00:07:15,286
+Czyli dobrze, że idziesz za mną.
+
+69
+00:07:16,328 --> 00:07:19,078
+Do jakiej ilości materiałów wybuchowych
+masz dostęp, Ben?
+
+70
+00:07:19,160 --> 00:07:21,620
+Wystarczającej
+do takiego zniszczenia samolotu,
+
+71
+00:07:21,703 --> 00:07:23,453
+żeby już nigdy nie odleciał z wyspy.
+
+72
+00:07:24,620 --> 00:07:26,328
+Minęło sporo czasu. Wciąż tam są?
+
+73
+00:07:26,410 --> 00:07:30,160
+To C4, Richard. Dobrze je ukryłem.
+
+74
+00:07:30,244 --> 00:07:33,662
+- Niech zgadnę, w słoju na ciasteczka.
+- Nie bądź śmieszny.
+
+75
+00:07:34,328 --> 00:07:36,953
+Są w moim tajnym schowku za biblioteczką.
+
+76
+00:07:59,495 --> 00:08:00,828
+Co jest?
+
+77
+00:08:01,953 --> 00:08:05,078
+Dziwnie się czuję pośród umarłych.
+
+78
+00:08:05,161 --> 00:08:07,161
+Chcesz nam o czymś powiedzieć, Miles?
+
+79
+00:08:09,286 --> 00:08:10,662
+- Nie sądzę...
+- O co chodzi?
+
+80
+00:08:10,745 --> 00:08:12,244
+To Alex.
+
+81
+00:08:14,953 --> 00:08:16,578
+Twoja córka.
+
+82
+00:08:26,285 --> 00:08:29,578
+Po twoim odejściu... pochowałem ją.
+
+83
+00:08:37,953 --> 00:08:39,453
+Dziękuję, Richard.
+
+84
+00:09:09,078 --> 00:09:10,912
+Co to? Schowek w schowku?
+
+85
+00:09:10,994 --> 00:09:13,411
+Powiedziano mi,
+że tam mogę przywołać potwora.
+
+86
+00:09:14,370 --> 00:09:17,286
+Zanim zorientowałem się,
+że to on przywołuje mnie.
+
+87
+00:09:31,953 --> 00:09:33,161
+Richard, to twój pomysł.
+
+88
+00:09:33,244 --> 00:09:35,745
+Chcemy uszkodzić samolot
+czy wysadzić go w diabły?
+
+89
+00:09:37,620 --> 00:09:39,745
+Wysadzamy w diabły.
+
+90
+00:09:39,828 --> 00:09:41,828
+To bierzemy wszystko.
+
+91
+00:09:57,912 --> 00:09:59,078
+Nie ruszaj się!
+
+92
+00:09:59,161 --> 00:10:01,078
+Pokaż ręce.
+
+93
+00:10:01,161 --> 00:10:03,286
+Spokojnie. Wszystko w porządku.
+
+94
+00:10:05,244 --> 00:10:07,994
+- Kim jesteś?
+- Ona jest ze mną.
+
+95
+00:10:09,994 --> 00:10:11,536
+Witaj, Benjaminie.
+
+96
+00:10:12,662 --> 00:10:13,745
+Mogę wejść?
+
+97
+00:10:22,994 --> 00:10:24,411
+Co tu robisz?
+
+98
+00:10:25,536 --> 00:10:26,787
+Odłóż broń, Benjaminie.
+
+99
+00:10:27,453 --> 00:10:30,870
+Idź na nabrzeże.
+Zabierz sprzęt z łodzi, a potem ją zatop.
+
+100
+00:10:30,953 --> 00:10:32,787
+- Robi się.
+- Nigdzie nie pójdzie.
+
+101
+00:10:32,870 --> 00:10:35,286
+- Jeśli mi nie odpowiesz...
+- Jak mnie zastrzelisz,
+
+102
+00:10:35,370 --> 00:10:37,620
+przepadnie wam
+ostatnia szansa na przetrwanie.
+
+103
+00:10:40,787 --> 00:10:42,912
+Idź. Nic ci nie zrobi.
+
+104
+00:10:48,870 --> 00:10:49,912
+Co tu robicie?
+
+105
+00:10:49,993 --> 00:10:53,370
+Zabieramy materiały wybuchowe
+do wysadzenia samolotu.
+
+106
+00:10:53,453 --> 00:10:55,787
+- Czemu chcecie to zrobić?
+- Nie twoja sprawa.
+
+107
+00:10:55,870 --> 00:10:58,745
+Zaraz po przybyciu napakowałem go
+materiałami wybuchowymi.
+
+108
+00:10:58,828 --> 00:11:00,870
+Jak zwykle jestem trzy kroki przed tobą.
+
+109
+00:11:03,495 --> 00:11:06,119
+Jak tu wróciłeś, Charles?
+
+110
+00:11:06,203 --> 00:11:08,203
+- Jacob mnie zaprosił.
+- To kłamstwo.
+
+111
+00:11:08,286 --> 00:11:11,078
+- Nigdy nie widziałeś Jacoba.
+- Oczywiście, że widziałem.
+
+112
+00:11:11,161 --> 00:11:12,787
+Odwiedził mnie wkrótce po tym,
+
+113
+00:11:12,870 --> 00:11:15,495
+jak twoi ludzie
+zniszczyli mój frachtowiec.
+
+114
+00:11:16,244 --> 00:11:18,286
+Zdałem sobie sprawę z własnych błędów.
+
+115
+00:11:18,370 --> 00:11:22,119
+Powiedział mi wszystko,
+co musiałem wiedzieć właśnie w tym celu.
+
+116
+00:11:23,536 --> 00:11:24,578
+W jakim celu?
+
+117
+00:11:26,453 --> 00:11:28,078
+Charles.
+
+118
+00:11:28,161 --> 00:11:29,662
+Tak?
+
+119
+00:11:29,745 --> 00:11:31,870
+To Locke. Płynie tu.
+
+120
+00:11:32,787 --> 00:11:34,453
+- Widział cię?
+- Chyba nie.
+
+121
+00:11:34,536 --> 00:11:36,536
+Nasza łódź wciąż tam jest.
+Nie zdążyłam...
+
+122
+00:11:36,620 --> 00:11:38,703
+Uciekaj. Wracaj tu jak najszybciej.
+
+123
+00:11:40,662 --> 00:11:43,453
+Jeśli nie chcecie umrzeć,
+musimy się ukryć.
+
+124
+00:11:51,536 --> 00:11:53,745
+To może trochę zapiec, panie Linus.
+
+125
+00:11:53,828 --> 00:11:56,243
+Doktor Linus.
+
+126
+00:11:57,745 --> 00:11:59,286
+Przyniosę okład z lodu.
+
+127
+00:12:06,328 --> 00:12:08,036
+Doktorze Linus?
+
+128
+00:12:10,912 --> 00:12:12,244
+Wszystko w porządku?
+
+129
+00:12:13,370 --> 00:12:15,912
+Słyszałem o incydencie na parkingu.
+
+130
+00:12:15,994 --> 00:12:17,370
+Tak, wdałem się w bójkę.
+
+131
+00:12:17,453 --> 00:12:20,119
+W bójkę? Z kim?
+
+132
+00:12:20,203 --> 00:12:22,536
+Zobaczyłem tego mężczyznę,
+który pana potrącił.
+
+133
+00:12:22,620 --> 00:12:25,703
+Wrócił tu. Podszedłem do niego, a on...
+
+134
+00:12:25,787 --> 00:12:27,328
+zaatakował mnie.
+
+135
+00:12:28,912 --> 00:12:31,161
+I wtedy stało się coś dziwnego.
+
+136
+00:12:31,244 --> 00:12:35,328
+Kiedy mnie bił... chyba coś zobaczyłem.
+
+137
+00:12:36,953 --> 00:12:39,745
+- Co pan robi?
+- Wzywam policję.
+
+138
+00:12:39,828 --> 00:12:42,536
+- Lepiej tego nie robić.
+- Niby dlaczego?
+
+139
+00:12:44,078 --> 00:12:46,745
+Ten mężczyzna powiedział,
+że nie chce pana skrzywdzić.
+
+140
+00:12:47,620 --> 00:12:50,370
+Mówił, że chce panu pomóc.
+
+141
+00:12:50,453 --> 00:12:51,870
+Policja.
+
+142
+00:12:52,536 --> 00:12:56,453
+- Z jakiegoś powodu uwierzyłem mu.
+- Halo? Policja.
+
+143
+00:12:56,536 --> 00:12:59,536
+Domyśla się pan,
+co miał na myśli, panie Locke?
+
+144
+00:13:00,411 --> 00:13:02,244
+Co to może znaczyć?
+
+145
+00:13:08,912 --> 00:13:11,078
+Halo? Policja.
+
+146
+00:13:13,203 --> 00:13:14,203
+Przepraszam.
+
+147
+00:13:17,578 --> 00:13:19,828
+Chciałbym się widzieć z detektywem.
+
+148
+00:13:19,912 --> 00:13:23,078
+Cóż to za dziwaczny strój? Ktoś umarł?
+
+149
+00:13:23,161 --> 00:13:24,953
+Gala w muzeum mojego taty.
+
+150
+00:13:25,036 --> 00:13:27,370
+Koncert, o którym mówiłem ci od tygodnia.
+
+151
+00:13:27,453 --> 00:13:29,203
+- Kojarzysz?
+- Tak.
+
+152
+00:13:29,286 --> 00:13:31,745
+- O niczym innym nie myślę.
+- Możesz ze mną iść.
+
+153
+00:13:31,828 --> 00:13:33,703
+Ta ruda, co mnie nie znosi, też będzie?
+
+154
+00:13:33,787 --> 00:13:37,453
+- Charlotte. Tak.
+- To spasuję.
+
+155
+00:13:37,536 --> 00:13:40,953
+Detektywie Ford,
+ten gość ma panu coś do powiedzenia.
+
+156
+00:13:41,536 --> 00:13:43,036
+Tak?
+
+157
+00:13:45,828 --> 00:13:49,495
+Kilka dni temu ktoś potrącił przechodnia
+przy Liceum im. Waszyngtona.
+
+158
+00:13:51,161 --> 00:13:54,993
+A dzisiaj rano
+jeden z tamtejszych nauczycieli
+
+159
+00:13:55,078 --> 00:13:58,828
+został dotkliwie pobity
+przez tego samego podejrzanego.
+
+160
+00:13:59,662 --> 00:14:00,662
+No i?
+
+161
+00:14:04,495 --> 00:14:05,536
+Jestem tym podejrzanym.
+
+162
+00:14:15,370 --> 00:14:18,536
+Dzięki za oszczędzenie podatnikom
+kłopotu ścigania cię.
+
+163
+00:14:19,161 --> 00:14:20,828
+Nie ma sprawy.
+
+164
+00:14:27,161 --> 00:14:28,662
+Dzień dobry.
+
+165
+00:14:36,536 --> 00:14:37,912
+Jak się dziś miewasz?
+
+166
+00:14:40,993 --> 00:14:42,118
+Wspaniale.
+
+167
+00:14:47,745 --> 00:14:50,118
+Wiesz, gdzie dokładnie jest ta studnia?
+
+168
+00:14:50,203 --> 00:14:53,078
+Sayid mówił, że blisko obozu.
+To jakaś godzina drogi stąd.
+
+169
+00:14:55,328 --> 00:14:58,495
+Jeśli Locke chciał zabić Desmonda,
+to czemu sam tego nie zrobił?
+
+170
+00:14:59,328 --> 00:15:02,453
+Kto wie? Może to jedna z jego zasad.
+
+171
+00:15:04,787 --> 00:15:06,370
+Ta bomba na łodzi...
+
+172
+00:15:08,828 --> 00:15:10,161
+Mówiłeś, że nas nie zabije.
+
+173
+00:15:16,244 --> 00:15:18,286
+Już nieraz się myliłem.
+
+174
+00:15:21,244 --> 00:15:23,536
+Zabiłem ich, prawda?
+
+175
+00:15:25,370 --> 00:15:26,662
+Nie.
+
+176
+00:15:27,787 --> 00:15:28,994
+On ich zabił.
+
+177
+00:15:54,036 --> 00:15:57,118
+- Wszystko w porządku?
+- Tak, w porządku.
+
+178
+00:16:08,203 --> 00:16:11,578
+- Daj mi prochy.
+- Co? Kim jesteś?
+
+179
+00:16:11,662 --> 00:16:14,828
+Daj mi prochy, które zabrałeś
+z rzeczy Ilany po jej śmierci.
+
+180
+00:16:14,912 --> 00:16:16,662
+Wiem, że masz je w kieszeni.
+
+181
+00:16:19,453 --> 00:16:20,662
+- Po co?
+- Bo są moje.
+
+182
+00:16:21,953 --> 00:16:23,370
+Po co ci one?
+
+183
+00:16:47,286 --> 00:16:49,870
+- Witaj, Hugo.
+- Stary...
+
+184
+00:16:52,243 --> 00:16:53,828
+Czekałem na ciebie. Gdzie byłeś?
+
+185
+00:16:53,912 --> 00:16:56,118
+Nieważne, już jestem.
+
+186
+00:16:57,787 --> 00:16:59,870
+Widziałeś dzieciaka z twoimi prochami?
+
+187
+00:17:02,370 --> 00:17:05,203
+Moje prochy są w tym ognisku.
+
+188
+00:17:06,912 --> 00:17:08,869
+Gdy się wypali, już mnie nie zobaczysz.
+
+189
+00:17:10,662 --> 00:17:13,203
+- Co?
+- Sprowadź swoich przyjaciół.
+
+190
+00:17:13,993 --> 00:17:15,869
+Zbliżamy się do końca, Hugo.
+
+191
+00:17:40,161 --> 00:17:42,536
+- Charles, chodźmy.
+- Nie ma czasu.
+
+192
+00:17:42,620 --> 00:17:44,453
+Linus ma tu ukryty pokój. Chodźcie.
+
+193
+00:17:45,953 --> 00:17:48,411
+- Na co czekasz?
+- Nie chcę się chować.
+
+194
+00:17:48,495 --> 00:17:51,495
+Wcześniej czy później i tak mnie znajdzie
+Wolę mieć to za sobą.
+
+195
+00:17:51,578 --> 00:17:54,203
+Świetne plany, ale ja wolę przeżyć.
+
+196
+00:17:54,286 --> 00:17:56,536
+Jakby co, będziemy gdzieś w dżungli.
+
+197
+00:17:56,620 --> 00:17:58,036
+Miles, czekaj.
+
+198
+00:17:59,203 --> 00:18:00,828
+- Daj mi krótkofalówki.
+- Po co?
+
+199
+00:18:00,912 --> 00:18:02,203
+Bo proszę.
+
+200
+00:18:06,620 --> 00:18:07,953
+Dziękuję.
+
+201
+00:18:08,912 --> 00:18:11,453
+- Na wszelki wypadek.
+- Zabije cię. Wiesz o tym.
+
+202
+00:18:11,536 --> 00:18:13,453
+Czyli to chyba pożegnanie.
+
+203
+00:18:17,745 --> 00:18:20,203
+Dołączysz do mnie
+w oczekiwaniu na nieuniknione?
+
+204
+00:18:24,244 --> 00:18:27,036
+Pogadam z nim. Znam go.
+
+205
+00:18:27,119 --> 00:18:28,994
+Chce, żebym do niego dołączył.
+
+206
+00:18:29,078 --> 00:18:31,578
+Jeśli uda mi się z nim odejść,
+może to da wam szansę.
+
+207
+00:18:32,203 --> 00:18:33,620
+Powodzenia.
+
+208
+00:19:46,286 --> 00:19:48,203
+Oto człowiek, którego szukałem.
+
+209
+00:19:49,745 --> 00:19:51,370
+No to znalazłeś mnie.
+
+210
+00:19:52,495 --> 00:19:54,203
+Napijesz się lemoniady?
+
+211
+00:20:07,244 --> 00:20:08,536
+Potrzebuję cię...
+
+212
+00:20:09,662 --> 00:20:11,870
+do zabicia kilku osób, Ben.
+
+213
+00:20:11,953 --> 00:20:14,828
+Dlaczego miałbym to zrobić?
+
+214
+00:20:14,912 --> 00:20:17,161
+Bo gdy opuszczę tę wyspę...
+
+215
+00:20:18,370 --> 00:20:19,994
+będzie cała twoja.
+
+216
+00:20:23,828 --> 00:20:26,453
+- W porządku.
+- To dobrze.
+
+217
+00:20:27,203 --> 00:20:30,578
+A zatem... czyja łódź stoi w doku?
+
+218
+00:20:32,662 --> 00:20:34,787
+Wydaje mi się, że Charlesa Widmore'a.
+
+219
+00:20:34,870 --> 00:20:37,286
+A nie wiesz przypadkiem,
+gdzie mogę go znaleźć?
+
+220
+00:20:40,161 --> 00:20:41,870
+Chowa się w mojej szafie.
+
+221
+00:20:54,453 --> 00:20:57,411
+Mój Boże. Doktorze Linus...
+
+222
+00:20:58,119 --> 00:20:59,662
+Witaj, Alex.
+
+223
+00:20:59,745 --> 00:21:01,578
+Boże, co się stało?
+
+224
+00:21:01,662 --> 00:21:04,662
+Miałem konfrontację
+z kimś bardzo porywczym.
+
+225
+00:21:04,745 --> 00:21:07,370
+Co? Dlaczego ktoś chciałby pana krzywdzić?
+
+226
+00:21:07,453 --> 00:21:09,912
+Pan jest najmilszym
+człowiekiem pod słońcem.
+
+227
+00:21:09,994 --> 00:21:11,994
+Pewnie wziął mnie za kogoś innego.
+
+228
+00:21:12,870 --> 00:21:16,745
+Nie powinien pan prowadzić.
+Moja mama na mnie czeka.
+
+229
+00:21:16,828 --> 00:21:18,286
+Odwieziemy pana do domu.
+
+230
+00:21:18,370 --> 00:21:20,370
+Nie, nie chcę sprawiać kłopotu.
+
+231
+00:21:20,453 --> 00:21:23,161
+Doktorze Linus, proszę.
+
+232
+00:21:23,244 --> 00:21:26,912
+Ma pan jedną rękę.
+Wygląda pan jak Napoleon.
+
+233
+00:21:27,703 --> 00:21:29,078
+Świetna uwaga.
+
+234
+00:21:30,536 --> 00:21:32,286
+Mamo!
+
+235
+00:21:32,370 --> 00:21:35,536
+Czy możemy podwieźć doktora Linusa?
+
+236
+00:21:38,328 --> 00:21:41,578
+Oczywiście. Po tym wszystkim,
+co zrobił pan dla mojej córki,
+
+237
+00:21:41,662 --> 00:21:44,286
+przynajmniej tak mogę się odwdzięczyć.
+
+238
+00:21:44,370 --> 00:21:45,953
+Jestem Danielle.
+
+239
+00:21:46,036 --> 00:21:48,495
+Benjamin Linus.
+
+240
+00:21:48,578 --> 00:21:51,119
+Mamo, czy doktor Linus
+może zostać na kolację?
+
+241
+00:21:51,203 --> 00:21:53,411
+- Dziś kurczak w winie.
+- To naprawdę...
+
+242
+00:21:53,495 --> 00:21:56,745
+Nalegamy. Inaczej pana porwiemy.
+
+243
+00:21:57,328 --> 00:21:58,994
+Proszę.
+
+244
+00:22:04,161 --> 00:22:05,870
+Poda mi pan ten talerz?
+
+245
+00:22:08,994 --> 00:22:11,578
+Doktorze Linus... dziękuję.
+
+246
+00:22:13,328 --> 00:22:17,078
+Miło jest gotować komuś poza Alex.
+
+247
+00:22:18,495 --> 00:22:21,328
+Jeśli mogę spytać, gdzie jest jej ojciec?
+
+248
+00:22:22,370 --> 00:22:24,536
+Zmarł, gdy Alex miała dwa lata.
+
+249
+00:22:27,119 --> 00:22:29,411
+Chyba dlatego tak się do pana przywiązała.
+
+250
+00:22:31,787 --> 00:22:33,286
+Słucham?
+
+251
+00:22:34,745 --> 00:22:37,161
+Cała uwaga, jaką pan jej poświęca,
+
+252
+00:22:37,244 --> 00:22:39,161
+pomoc, jaką pan jej okazuje...
+
+253
+00:22:40,411 --> 00:22:43,161
+Traktuje pana jak ojca,
+którego nigdy nie miała.
+
+254
+00:23:05,828 --> 00:23:06,870
+Czy...
+
+255
+00:23:08,244 --> 00:23:12,286
+- Wszystko w porządku?
+- Tak. To pewnie przez cebulę.
+
+256
+00:23:14,161 --> 00:23:16,078
+Następnym razem dodam mniej.
+
+257
+00:23:27,912 --> 00:23:29,495
+Proszę przodem.
+
+258
+00:23:35,620 --> 00:23:37,870
+Charles i jego towarzyszka są tutaj.
+
+259
+00:23:37,912 --> 00:23:42,203
+Jest uzbrojona.
+Ale to pewnie żaden problem dla ciebie.
+
+260
+00:23:44,994 --> 00:23:47,328
+Zaczekaj.
+
+261
+00:23:47,411 --> 00:23:50,620
+- Nie musisz tego oglądać.
+- Chcę to zobaczyć.
+
+262
+00:24:14,286 --> 00:24:15,662
+Przykro mi, Charles.
+
+263
+00:24:16,536 --> 00:24:17,953
+Co za miła niespodzianka.
+
+264
+00:24:18,036 --> 00:24:22,620
+Jak miło rozmawiać
+bez dzielących nas ogrodzeń.
+
+265
+00:24:25,536 --> 00:24:28,578
+- A kimże ty jesteś?
+- Zoe.
+
+266
+00:24:28,662 --> 00:24:31,203
+- Jestem Zoe...
+- Nie rozmawiaj z nim. Nic nie mów.
+
+267
+00:24:35,994 --> 00:24:38,495
+- Czemu to zrobiłeś?
+- Kazałeś jej być cicho,
+
+268
+00:24:38,578 --> 00:24:40,370
+więc była bezużyteczna.
+
+269
+00:24:41,495 --> 00:24:44,870
+Charles, widzę, że nie boisz się śmierci
+
+270
+00:24:44,953 --> 00:24:48,578
+Jest tylko jeden sposób,
+by zmotywować cię do mówienia.
+
+271
+00:24:51,578 --> 00:24:55,453
+Wkrótce wszystko się skończy.
+Dostanę to, czego chcę.
+
+272
+00:24:55,536 --> 00:24:57,578
+I w końcu opuszczę tę wyspę.
+
+273
+00:24:57,662 --> 00:24:59,203
+A gdy to się stanie,
+
+274
+00:24:59,286 --> 00:25:02,953
+pierwszą rzeczą, jaką zrobię,
+będzie zabicie twojej córki.
+
+275
+00:25:04,495 --> 00:25:06,536
+Penny.
+
+276
+00:25:06,620 --> 00:25:08,578
+Zabijesz ją, czy ci powiem, czy nie.
+
+277
+00:25:08,662 --> 00:25:11,161
+Nieprawda.
+
+278
+00:25:11,244 --> 00:25:13,662
+Daję ci moje słowo.
+
+279
+00:25:16,328 --> 00:25:17,994
+A ja mam ci uwierzyć?
+
+280
+00:25:18,078 --> 00:25:21,453
+Powiedz mi, czemu tu wróciłeś,
+a nie skrzywdzę twojej córki.
+
+281
+00:25:24,370 --> 00:25:28,370
+Sprowadziłem tu Desmonda Hume'a,
+
+282
+00:25:28,453 --> 00:25:31,787
+bo jest wyjątkowo odporny
+na pole elektromagnetyczne.
+
+283
+00:25:33,578 --> 00:25:36,203
+Był ostatnią deską ratunku.
+
+284
+00:25:39,244 --> 00:25:41,994
+- Co masz na myśli?
+- W jego obecności nic więcej nie powiem.
+
+285
+00:25:50,870 --> 00:25:53,161
+Powiedz mi to na ucho.
+
+286
+00:26:10,620 --> 00:26:13,787
+Nie ocali swojej córki.
+
+287
+00:26:20,495 --> 00:26:23,912
+Ben... nie przestajesz mnie zadziwiać.
+
+288
+00:26:25,203 --> 00:26:27,578
+Na szczęście powiedział mi,
+co chciałem wiedzieć,
+
+289
+00:26:27,662 --> 00:26:32,286
+- więc... nic się nie stało.
+- To dobrze.
+
+290
+00:26:35,411 --> 00:26:38,036
+Mówiłeś, że są jeszcze inni do zabicia?
+
+291
+00:26:55,745 --> 00:26:58,912
+Witaj, Kate. James.
+
+292
+00:27:02,703 --> 00:27:04,161
+Jack.
+
+293
+00:27:05,662 --> 00:27:07,787
+Stoi przy ognisku. Wita się...
+
+294
+00:27:07,870 --> 00:27:09,453
+Słyszałem go.
+
+295
+00:27:12,244 --> 00:27:15,787
+- Widzisz go też?
+- Tak, widzę.
+
+296
+00:27:15,870 --> 00:27:18,662
+Kate? Sawyer? Wy też?
+
+297
+00:27:21,078 --> 00:27:23,370
+To ty napisałeś nazwiska na ścianie?
+
+298
+00:27:23,453 --> 00:27:24,953
+Tak.
+
+299
+00:27:25,036 --> 00:27:29,203
+Sun i Jin Kwon, Sayid Jarrah.
+Te nazwiska też?
+
+300
+00:27:30,328 --> 00:27:33,203
+- Tak.
+- I dlatego nie żyją?
+
+301
+00:27:33,286 --> 00:27:35,161
+Bardzo mi przykro.
+
+302
+00:27:37,411 --> 00:27:38,994
+- Przykro ci?
+- Kate.
+
+303
+00:27:39,078 --> 00:27:40,411
+Chcę wiedzieć, dlaczego.
+
+304
+00:27:40,495 --> 00:27:45,244
+Chcę wiedzieć, że Sun, Jin i Sayid
+nie umarli na marne.
+
+305
+00:27:56,119 --> 00:27:58,453
+Usiądźcie, a opowiem wam, dlaczego umarli.
+
+306
+00:28:04,244 --> 00:28:06,328
+Powiem wam, dlaczego ich wybrałem...
+
+307
+00:28:06,953 --> 00:28:08,787
+I dlaczego wybrałem was.
+
+308
+00:28:12,161 --> 00:28:15,453
+Potem powiem wam wszystko
+o chronieniu tej wyspy,
+
+309
+00:28:15,536 --> 00:28:18,411
+bo zanim wypali się ten ogień...
+
+310
+00:28:19,578 --> 00:28:22,328
+jedno z was będzie musiało to robić.
+
+311
+00:28:37,078 --> 00:28:39,370
+Recepcja, 4-1-0-4.
+
+312
+00:28:45,370 --> 00:28:48,578
+- Ma pan chwilę?
+- Pan Locke. Tak.
+
+313
+00:28:49,662 --> 00:28:51,078
+Tak, zapraszam.
+
+314
+00:28:57,828 --> 00:28:58,994
+To pański syn?
+
+315
+00:29:00,036 --> 00:29:02,411
+Tak. Święto Dziękczynienia.
+
+316
+00:29:03,453 --> 00:29:06,495
+- Wygląda zupełnie jak pan.
+- Lepiej mu tego nie mówić.
+
+317
+00:29:10,536 --> 00:29:12,703
+Co mogę dla pana zrobić, panie Locke?
+
+318
+00:29:17,119 --> 00:29:20,286
+Doktorze Shephard,
+lecieliśmy tym samym lotem z Sydney.
+
+319
+00:29:21,536 --> 00:29:23,745
+Dał mi pan swoją wizytówkę.
+
+320
+00:29:24,745 --> 00:29:27,161
+Dzień później ją wyrzuciłem. Bez urazy.
+
+321
+00:29:27,244 --> 00:29:29,828
+- Nie szkodzi.
+- Mimo wszystko...
+
+322
+00:29:31,036 --> 00:29:33,536
+Kilka dni później potrącił mnie samochód
+
+323
+00:29:33,620 --> 00:29:36,870
+W tak wielkim mieście jak Los Angeles
+trafiłem właśnie na pana.
+
+324
+00:29:38,286 --> 00:29:41,453
+Ocalił mi pan życie
+
+325
+00:29:41,536 --> 00:29:44,161
+i jeszcze chciał mi pomóc, a ja...
+
+326
+00:29:45,203 --> 00:29:46,662
+odmówiłem.
+
+327
+00:29:48,244 --> 00:29:50,161
+W porządku. Potem...
+
+328
+00:29:51,870 --> 00:29:54,161
+Człowiek, który mnie potrącił,
+
+329
+00:29:54,244 --> 00:29:57,036
+znów pojawił się dziś przy szkole.
+
+330
+00:29:57,953 --> 00:29:59,662
+Pobił nauczyciela na parkingu.
+
+331
+00:29:59,745 --> 00:30:01,787
+I wie pan, co mu powiedział?
+
+332
+00:30:01,870 --> 00:30:04,578
+Powiedział, że nie chce mnie skrzywdzić.
+
+333
+00:30:04,662 --> 00:30:07,703
+Tylko pomóc.
+
+334
+00:30:09,328 --> 00:30:14,119
+To samo powiedział mi pan,
+kiedy ostatnio się widzieliśmy.
+
+335
+00:30:16,662 --> 00:30:20,495
+Przepraszam, twierdzi pan,
+że nasłałem na pana tego człowieka?
+
+336
+00:30:20,578 --> 00:30:21,870
+Nie, nie.
+
+337
+00:30:23,161 --> 00:30:24,745
+Ale może to wszystko...
+
+338
+00:30:29,244 --> 00:30:31,453
+Może to dzieje się z jakiegoś powodu.
+
+339
+00:30:35,244 --> 00:30:36,994
+Może pan powinien mi pomóc.
+
+340
+00:30:37,078 --> 00:30:38,620
+Panie Locke, chcę panu pomóc,
+
+341
+00:30:38,703 --> 00:30:42,495
+ale chyba myli pan
+przypadek z przeznaczeniem.
+
+342
+00:30:42,578 --> 00:30:44,787
+Niech pan to nazywa, jak chce,
+ale oto jestem...
+
+343
+00:30:45,953 --> 00:30:47,119
+I chyba...
+
+344
+00:30:51,536 --> 00:30:54,078
+Chyba jestem gotów stanąć na nogi.
+
+345
+00:31:02,203 --> 00:31:04,036
+Nie wiem nawet, od czego zacząć.
+
+346
+00:31:05,578 --> 00:31:08,203
+Może powiedz,
+czemu sprowadziłeś nas na wyspę.
+
+347
+00:31:11,828 --> 00:31:14,953
+Sprowadziłem was tu, bo popełniłem błąd.
+
+348
+00:31:17,578 --> 00:31:20,787
+Popełniłem go bardzo dawno temu,
+ale teraz przez to
+
+349
+00:31:20,870 --> 00:31:26,912
+istnieje ryzyko, że każde z was
+i wszyscy, których kochacie, umrze.
+
+350
+00:31:26,994 --> 00:31:28,203
+Jaki błąd?
+
+351
+00:31:31,119 --> 00:31:33,203
+Nazywacie go "potworem".
+
+352
+00:31:35,286 --> 00:31:38,036
+Jestem odpowiedzialny za to,
+co mu się przytrafiło.
+
+353
+00:31:40,119 --> 00:31:41,620
+Ja sprawiłem, że taki jest.
+
+354
+00:31:41,703 --> 00:31:45,662
+Od tamtego czasu próbuje mnie zabić.
+
+355
+00:31:47,453 --> 00:31:49,662
+W końcu wymyśli sposób,
+
+356
+00:31:49,745 --> 00:31:53,495
+a gdy to się stanie,
+ktoś musi mnie zastąpić.
+
+357
+00:31:57,411 --> 00:31:59,286
+Dlatego sprowadziłem was tutaj.
+
+358
+00:31:59,370 --> 00:32:00,870
+Powiedz mi coś, Jacob.
+
+359
+00:32:00,953 --> 00:32:04,036
+Czemu mam pokutować za twój błąd?
+
+360
+00:32:04,119 --> 00:32:06,787
+Myślałeś, że możesz
+zabawić się moim życiem?
+
+361
+00:32:06,870 --> 00:32:09,994
+Świetnie mi się układało,
+zanim mnie tu ściągnąłeś.
+
+362
+00:32:10,078 --> 00:32:11,453
+Nieprawda.
+
+363
+00:32:14,912 --> 00:32:15,994
+Nikomu się nie układało.
+
+364
+00:32:17,912 --> 00:32:20,828
+Nie wyrwałem was
+ze szczęśliwej egzystencji.
+
+365
+00:32:20,912 --> 00:32:23,578
+Wszyscy byliście pełni wad.
+
+366
+00:32:28,203 --> 00:32:31,119
+Wybrałem was, bo byliście tacy jak ja.
+
+367
+00:32:31,703 --> 00:32:33,370
+Wszyscy byliście samotni.
+
+368
+00:32:34,994 --> 00:32:37,870
+Wszyscy szukaliście czegoś,
+czego nie mogliście znaleźć.
+
+369
+00:32:39,703 --> 00:32:40,578
+Wybrałem was,
+
+370
+00:32:40,662 --> 00:32:43,870
+bo potrzebowaliście tego miejsca,
+tak jak ono potrzebowało was.
+
+371
+00:32:44,495 --> 00:32:46,703
+Dlaczego skreśliłeś
+moje nazwisko ze ściany?
+
+372
+00:32:46,787 --> 00:32:48,620
+Bo stałaś się matką.
+
+373
+00:32:50,912 --> 00:32:55,203
+To tylko kreska zrobiona kredą.
+Praca może być twoja, jeśli chcesz.
+
+374
+00:33:00,244 --> 00:33:01,662
+Co to za praca?
+
+375
+00:33:04,036 --> 00:33:05,745
+W środku wyspy jest światło.
+
+376
+00:33:07,912 --> 00:33:10,703
+Trzeba pilnować, by nie zgasło.
+W ten sposób się je chroni.
+
+377
+00:33:10,787 --> 00:33:13,787
+Twój potworny kumpel mówił,
+że nie ma go przed czym chronić.
+
+378
+00:33:17,912 --> 00:33:20,286
+Trzeba je chronić przed nim.
+
+379
+00:33:21,495 --> 00:33:24,286
+Musicie zrobić to,
+czego ja nie potrafiłem...
+
+380
+00:33:25,453 --> 00:33:28,078
+- Czego nie byłem w stanie zrobić.
+- Mamy go zabić.
+
+381
+00:33:33,495 --> 00:33:34,953
+Czy to w ogóle możliwe?
+
+382
+00:33:35,036 --> 00:33:38,745
+Mam nadzieję,
+bo on na pewno spróbuje zabić was.
+
+383
+00:33:46,119 --> 00:33:47,870
+Jak dokonasz wyboru?
+
+384
+00:33:49,953 --> 00:33:51,662
+Nie będę wybierał, Hugo.
+
+385
+00:33:52,994 --> 00:33:56,370
+Chcę dać wam coś,
+czego mnie nigdy nie dano...
+
+386
+00:33:57,411 --> 00:33:59,078
+Wybór.
+
+387
+00:34:00,370 --> 00:34:03,411
+- A jeśli nikt się tego nie podejmie?
+- To źle się to skończy.
+
+388
+00:34:11,161 --> 00:34:12,703
+Ja to zrobię.
+
+389
+00:34:17,745 --> 00:34:19,328
+Dlatego tu jestem.
+
+390
+00:34:19,994 --> 00:34:21,328
+To...
+
+391
+00:34:22,661 --> 00:34:24,786
+To właśnie mam robić.
+
+392
+00:34:24,870 --> 00:34:27,036
+To pytanie, Jack?
+
+393
+00:34:32,370 --> 00:34:34,161
+Nie.
+
+394
+00:34:35,411 --> 00:34:36,370
+To dobrze.
+
+395
+00:34:40,036 --> 00:34:42,078
+Już pora.
+
+396
+00:34:52,703 --> 00:34:55,453
+Wiedziałem, że gość ma kompleks Boga.
+
+397
+00:34:56,703 --> 00:34:59,078
+- James.
+- Tak, wiem.
+
+398
+00:35:02,244 --> 00:35:04,453
+Cieszę się, że to nie ja.
+
+399
+00:35:06,703 --> 00:35:09,953
+Pamiętasz to bambusowe pole,
+na którym się ocknąłeś, gdy tu trafiłeś
+
+400
+00:35:12,411 --> 00:35:13,244
+Tak.
+
+401
+00:35:13,328 --> 00:35:15,828
+Za tym polem, po drugiej stronie wzgórza,
+
+402
+00:35:15,912 --> 00:35:19,453
+jest serce wyspy.
+Tam właśnie jest światło.
+
+403
+00:35:23,161 --> 00:35:26,745
+On chce się tam dostać.
+I właśnie to musisz chronić.
+
+404
+00:35:27,578 --> 00:35:29,662
+Za bambusami?
+
+405
+00:35:29,745 --> 00:35:32,620
+- Tam nic nie ma.
+- Owszem, jest, Jack.
+
+406
+00:35:34,328 --> 00:35:35,994
+Teraz będziesz w stanie tam trafić.
+
+407
+00:35:44,411 --> 00:35:46,244
+- Masz kubek?
+- Tak.
+
+408
+00:35:47,161 --> 00:35:48,328
+Mam tu gdzieś.
+
+409
+00:36:13,495 --> 00:36:14,828
+Wypij to.
+
+410
+00:36:22,536 --> 00:36:24,578
+Jak długo będę musiał wykonywać tę pracę?
+
+411
+00:36:25,536 --> 00:36:27,119
+Jak najdłużej.
+
+412
+00:36:59,745 --> 00:37:01,578
+Teraz jesteś taki, jak ja.
+
+413
+00:37:18,036 --> 00:37:21,119
+W porządku. To Jarrah i Hume.
+
+414
+00:37:21,662 --> 00:37:23,870
+A ta dama obok to Austen.
+
+415
+00:37:23,953 --> 00:37:26,620
+Miło było was gościć,
+ale wysyłamy was do okręgowego,
+
+416
+00:37:26,703 --> 00:37:29,244
+więc powodzenia i vaya con Dios.
+
+417
+00:37:35,203 --> 00:37:38,495
+- Możesz mnie wypuścić.
+- Czemu miałbym to zrobić?
+
+418
+00:37:38,578 --> 00:37:40,912
+Bo powiedziałam, że jestem niewinna...
+
+419
+00:37:42,994 --> 00:37:45,161
+- a ty mi wierzysz.
+- To bez znaczenia.
+
+420
+00:37:45,870 --> 00:37:47,787
+Nie mogę cię wypuścić. Jestem gliną.
+
+421
+00:37:49,370 --> 00:37:51,161
+Nie sprawiasz takiego wrażenia.
+
+422
+00:37:53,036 --> 00:37:54,161
+Miło było cię poznać.
+
+423
+00:38:04,411 --> 00:38:05,994
+1-F-21 odpowiada.
+
+424
+00:38:10,370 --> 00:38:11,453
+Pora uciekać.
+
+425
+00:38:11,536 --> 00:38:14,453
+- Co?
+- Powiedziałem, że pora uciekać.
+
+426
+00:38:15,662 --> 00:38:18,328
+- Jesteście gotowi?
+- Przepraszam, kim ty jesteś?
+
+427
+00:38:18,411 --> 00:38:20,495
+To świr, który oddał się w ręce glinom.
+
+428
+00:38:20,578 --> 00:38:24,453
+- Czemu to zrobiłeś?
+- Potrąciłem gościa na wózku.
+
+429
+00:38:24,536 --> 00:38:26,161
+Mówiłem, że świr.
+
+430
+00:38:26,244 --> 00:38:28,411
+Dobra, jestem świrem.
+
+431
+00:38:29,912 --> 00:38:31,620
+Ale chcecie stąd uciec czy nie?
+
+432
+00:38:33,078 --> 00:38:34,912
+Każesz kierowcy się zatrzymać?
+
+433
+00:38:34,994 --> 00:38:37,870
+Kierowca wie, gdzie się zatrzymać.
+A kiedy to się stanie,
+
+434
+00:38:37,953 --> 00:38:40,870
+- będziecie musieli mi zaufać.
+- Zaufać ci?
+
+435
+00:38:40,953 --> 00:38:42,662
+Zgadza się.
+
+436
+00:38:42,745 --> 00:38:44,453
+Bo jak was już uwolnię,
+
+437
+00:38:44,536 --> 00:38:47,662
+poproszę was o coś...
+
+438
+00:38:47,745 --> 00:38:50,119
+Musicie mi obiecać, że to zrobicie.
+
+439
+00:38:52,745 --> 00:38:55,161
+- Co wy na to?
+- Ależ oczywiście, że obiecuję.
+
+440
+00:38:57,536 --> 00:39:00,495
+- A ty?
+- Dobra. Niech będzie.
+
+441
+00:39:00,578 --> 00:39:01,912
+W porządku.
+
+442
+00:39:15,578 --> 00:39:16,953
+- Który to Hume?
+- To ja.
+
+443
+00:39:17,787 --> 00:39:19,161
+Gdzie twój kumpel z forsą?
+
+444
+00:39:19,244 --> 00:39:21,578
+Bo powiem, że zastrzeliłam was
+przy próbie ucieczki.
+
+445
+00:39:21,662 --> 00:39:23,994
+Bez obaw, zaraz tu będzie.
+
+446
+00:39:37,745 --> 00:39:39,370
+To on.
+
+447
+00:39:48,912 --> 00:39:50,994
+- Przepraszam za spóźnienie.
+- Nie szkodzi.
+
+448
+00:39:51,078 --> 00:39:52,536
+Nie mówiłeś, że będzie Ana Lucia.
+
+449
+00:39:52,620 --> 00:39:57,244
+- Znamy się, Grubasku?
+- Nie, nigdy się nie spotkaliśmy.
+
+450
+00:39:58,078 --> 00:40:01,328
+Nieważne. Tu są pieniążki.
+125 patyków, tak?
+
+451
+00:40:01,411 --> 00:40:02,912
+Zgadza się.
+
+452
+00:40:04,994 --> 00:40:06,620
+Miło było was nie poznać.
+
+453
+00:40:09,078 --> 00:40:11,411
+- Nie idzie z nami?
+- Nie jest jeszcze gotowa.
+
+454
+00:40:11,495 --> 00:40:13,703
+Przywiozłem Camaro.
+Kluczyki pod dywanikiem.
+
+455
+00:40:13,787 --> 00:40:15,745
+- Wszystko inne w bagażniku.
+- Dobra.
+
+456
+00:40:15,828 --> 00:40:18,912
+- Wiesz, gdzie ich wieziemy?
+- Oczywiście.
+
+457
+00:40:18,994 --> 00:40:22,328
+Dobra, zbieramy się.
+Ty jedziesz z nim, a ty ze mną.
+
+458
+00:40:24,787 --> 00:40:26,036
+Jak to jadę z tobą?
+
+459
+00:40:27,828 --> 00:40:31,328
+Jedziemy... na koncert.
+
+460
+00:40:40,495 --> 00:40:41,787
+Wsiadaj.
+
+461
+00:40:48,453 --> 00:40:52,244
+- Mogę o coś spytać?
+- Wal.
+
+462
+00:40:53,286 --> 00:40:56,328
+Skoro możesz zmienić się w dym,
+kiedy tylko chcesz,
+
+463
+00:40:56,411 --> 00:40:58,078
+czemu w ogóle chodzisz?
+
+464
+00:40:58,578 --> 00:41:01,536
+Lubię czuć ziemię pod stopami.
+
+465
+00:41:01,620 --> 00:41:04,119
+Przypomina mi to, że byłem człowiekiem.
+
+466
+00:41:05,328 --> 00:41:06,703
+To tutaj.
+
+467
+00:41:16,370 --> 00:41:18,036
+Chce ci się pić?
+
+468
+00:41:22,953 --> 00:41:26,411
+- To do tej studni wrzuciłem Desmonda.
+- W czym problem?
+
+469
+00:41:27,745 --> 00:41:31,745
+Wysłałem Sayida, żeby go zabił.
+Oczywiście tego nie zrobił.
+
+470
+00:41:38,244 --> 00:41:39,536
+Chyba ktoś mu pomógł.
+
+471
+00:41:42,078 --> 00:41:44,244
+Nie, Ben, to mnie ktoś pomógł.
+
+472
+00:41:47,078 --> 00:41:48,578
+Co powiedział ci Widmore?
+
+473
+00:41:53,453 --> 00:41:55,328
+Że Desmond jest zabezpieczeniem.
+
+474
+00:41:56,620 --> 00:41:59,119
+Ostatnią deską ratunku Jacoba,
+gdybym jakimś cudem
+
+475
+00:41:59,203 --> 00:42:01,411
+zabił tych jego ukochanych kandydatów.
+
+476
+00:42:01,495 --> 00:42:04,994
+Ostatnim sposobem zatrzymania mnie
+w tym miejscu na zawsze.
+
+477
+00:42:05,870 --> 00:42:09,620
+To dlaczego się cieszysz,
+że on jeszcze żyje?
+
+478
+00:42:10,745 --> 00:42:12,536
+Bo znajdę Desmonda.
+
+479
+00:42:13,620 --> 00:42:16,370
+A gdy go znajdę, pomoże mi zrobić coś,
+
+480
+00:42:16,453 --> 00:42:18,787
+czego sam nie mógłbym zrobić.
+
+481
+00:42:22,203 --> 00:42:24,119
+Zniszczę tę wyspę.
+
+482
+00:42:24,994 --> 00:42:26,912
+ZAGUBIENI
+
