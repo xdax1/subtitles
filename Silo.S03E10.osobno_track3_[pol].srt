@@ -1,0 +1,2636 @@
+﻿1
+00:00:11,428 --> 00:00:12,596
+Gdzie jesteś?
+
+2
+00:00:21,605 --> 00:00:22,981
+Troy?
+
+3
+00:00:26,318 --> 00:00:27,527
+Troy?
+
+4
+00:00:27,528 --> 00:00:28,820
+Oddychaj.
+
+5
+00:00:29,821 --> 00:00:31,782
+Oddychaj. Popatrz na mnie.
+
+6
+00:00:34,451 --> 00:00:35,994
+Oddychaj. Spokojnie.
+
+7
+00:00:36,787 --> 00:00:38,705
+Oddychaj, Troy. O tak.
+
+8
+00:00:39,706 --> 00:00:41,416
+Próbuj oddychać.
+
+9
+00:00:43,377 --> 00:00:45,337
+Spokojnie. Słyszysz mnie?
+
+10
+00:00:45,838 --> 00:00:48,674
+Musieliśmy zrobić szybką indukcję.
+Przepraszam.
+
+11
+00:00:49,341 --> 00:00:50,508
+Proszę pana.
+
+12
+00:00:50,509 --> 00:00:52,134
+O kurwa. Tak.
+
+13
+00:00:52,135 --> 00:00:54,262
+Twoja temperatura nie nadąża.
+
+14
+00:00:54,263 --> 00:00:56,556
+Zrobimy płukanie termiczne, dobrze?
+
+15
+00:00:56,557 --> 00:00:57,558
+Jak…
+
+16
+00:00:59,643 --> 00:01:00,726
+Jak długo?
+
+17
+00:01:00,727 --> 00:01:01,895
+Siedem lat.
+
+18
+00:01:02,604 --> 00:01:03,814
+No już. Zagryź.
+
+19
+00:01:05,691 --> 00:01:07,609
+Dobra. Zaczynamy.
+
+20
+00:01:10,112 --> 00:01:13,573
+Dobrze. Już za chwilę.
+
+21
+00:01:13,574 --> 00:01:16,451
+O tak. Dobrze.
+
+22
+00:01:17,703 --> 00:01:18,786
+Złap mu nogi.
+
+23
+00:01:18,787 --> 00:01:19,788
+Spokojnie.
+
+24
+00:01:21,874 --> 00:01:22,875
+Złap nogi.
+
+25
+00:02:18,472 --> 00:02:20,097
+Jak spałeś?
+
+26
+00:02:20,098 --> 00:02:22,892
+Problemem nie jest sen, tylko budzenie.
+
+27
+00:02:22,893 --> 00:02:24,520
+Wiem, przykro mi. Proszę.
+
+28
+00:02:26,480 --> 00:02:29,274
+- Musi być lepszy sposób.
+- Znajdziemy go.
+
+29
+00:02:32,611 --> 00:02:34,446
+To nagranie sprzed paru dni.
+
+30
+00:02:35,739 --> 00:02:37,782
+Co robisz w schronie?
+
+31
+00:02:37,783 --> 00:02:39,992
+Tata mnie tu wysłał. Powiedział…
+
+32
+00:02:39,993 --> 00:02:41,370
+Jak masz na imię?
+
+33
+00:02:42,913 --> 00:02:43,996
+Jimmy.
+
+34
+00:02:43,997 --> 00:02:46,791
+Twoim ojcem jest Russell Conroy, szef IT.
+
+35
+00:02:46,792 --> 00:02:47,876
+Który silos?
+
+36
+00:02:49,878 --> 00:02:51,547
+Co ci powiedział, Jimmy?
+
+37
+00:02:52,589 --> 00:02:54,716
+Żeby nikogo nie wpuszczać.
+
+38
+00:02:55,926 --> 00:02:57,636
+Jest z tobą ktoś dorosły?
+
+39
+00:02:58,303 --> 00:03:02,641
+Przyprowadził mnie Solo,
+ale wrócił walczyć z buntownikami.
+
+40
+00:03:05,102 --> 00:03:06,227
+Który silos?
+
+41
+00:03:06,228 --> 00:03:07,271
+Siedemnasty.
+
+42
+00:03:07,855 --> 00:03:10,982
+Zaczęło się od czyszczenia.
+Pogorszyło, gdy zniknął z oczu.
+
+43
+00:03:10,983 --> 00:03:13,359
+Myśleli, że można bezpiecznie wyjść.
+
+44
+00:03:13,360 --> 00:03:16,488
+Tak. Buntem dowodził szeryf.
+
+45
+00:03:16,989 --> 00:03:20,741
+Cień wysadził chyba most,
+żeby nie dopuścić ich do IT,
+
+46
+00:03:20,742 --> 00:03:22,536
+ale szeryf jakoś się dostał.
+
+47
+00:03:23,412 --> 00:03:26,664
+Zabrał szefa IT, ojca chłopaka, do schronu
+
+48
+00:03:26,665 --> 00:03:31,211
+i zagroził, że rozwali mu głowę,
+jeśli chłopak nie otworzy drzwi.
+
+49
+00:03:34,923 --> 00:03:36,175
+Nie otworzył ich.
+
+50
+00:03:36,967 --> 00:03:38,010
+Kurwa.
+
+51
+00:03:38,719 --> 00:03:40,178
+Kiedy to było?
+
+52
+00:03:40,179 --> 00:03:41,345
+Dwie godziny temu.
+
+53
+00:03:41,346 --> 00:03:43,556
+To powinno wywołać Zabezpieczenie.
+
+54
+00:03:43,557 --> 00:03:46,935
+Próbowaliśmy,
+ale nie dało się dostarczyć związku.
+
+55
+00:03:47,477 --> 00:03:49,645
+Nie ma spadku ciśnienia na linii.
+
+56
+00:03:49,646 --> 00:03:52,398
+Nie wiemy, czy to usterka mechaniczna…
+
+57
+00:03:52,399 --> 00:03:54,901
+Czy znaleźli rurę i ją zablokowali.
+
+58
+00:03:54,902 --> 00:03:56,528
+- Tak.
+- Kiedyś już tak było.
+
+59
+00:03:58,155 --> 00:04:00,740
+Tak czy siak, teraz wynik musi być inny.
+
+60
+00:04:00,741 --> 00:04:01,908
+Po to tu jestem.
+
+61
+00:04:01,909 --> 00:04:03,202
+Właśnie.
+
+62
+00:04:05,537 --> 00:04:06,997
+Dobrze się czujesz?
+
+63
+00:04:08,415 --> 00:04:09,707
+Tak.
+
+64
+00:04:09,708 --> 00:04:12,669
+- Mamy widok z góry?
+- Dział operacyjny wysłał drona.
+
+65
+00:04:18,716 --> 00:04:20,009
+I co?
+
+66
+00:04:20,010 --> 00:04:21,220
+Jeszcze nic.
+
+67
+00:04:22,721 --> 00:04:26,183
+Troy, to Susan,
+nasza główna operatorka dronów.
+
+68
+00:04:29,061 --> 00:04:30,478
+Jaki ładunek?
+
+69
+00:04:30,479 --> 00:04:33,524
+Trzydzieści litrów związku, 2000 pocisków.
+
+70
+00:04:46,828 --> 00:04:48,205
+Nie wiem.
+
+71
+00:04:59,383 --> 00:05:02,094
+Drzwi Silosu 17 się otwierają.
+
+72
+00:05:10,811 --> 00:05:11,895
+O nie.
+
+73
+00:05:28,495 --> 00:05:29,663
+Czekam na rozkaz.
+
+74
+00:05:35,752 --> 00:05:36,753
+Troy.
+
+75
+00:05:38,839 --> 00:05:42,133
+Niczego nie róbmy. Na razie.
+
+76
+00:05:42,134 --> 00:05:45,219
+Ale rośnie ryzyko
+kontaktu z innym silosem.
+
+77
+00:05:45,220 --> 00:05:47,597
+Spróbujmy zwabić ich do środka.
+
+78
+00:05:47,598 --> 00:05:51,475
+Puścimy linię przez drzwi schronu.
+Tak wdrożymy Zabezpieczenie.
+
+79
+00:05:51,476 --> 00:05:54,187
+Ich pompa nie działa.
+Woda zalała generator.
+
+80
+00:05:54,188 --> 00:05:55,771
+Nie możemy użyć drzwi.
+
+81
+00:05:55,772 --> 00:05:57,064
+Susan.
+
+82
+00:05:57,065 --> 00:06:00,276
+Odwołaj techników
+i zbierz wszystkich pilotów.
+
+83
+00:06:00,277 --> 00:06:03,906
+Wypuść drony. Dziesięć z pociskami.
+Dwadzieścia ze związkiem.
+
+84
+00:06:04,823 --> 00:06:08,117
+Na tyle wysoko,
+by zbiegowie ich nie zauważyli.
+
+85
+00:06:08,118 --> 00:06:12,288
+Dajcie znać, kiedy zbiegów będzie 9500,
+chyba że ktoś wyjdzie za nasyp.
+
+86
+00:06:12,289 --> 00:06:13,332
+Muszę coś zjeść.
+
+87
+00:06:43,820 --> 00:06:45,405
+Ale to paskudne.
+
+88
+00:06:46,573 --> 00:06:49,076
+Wiem. Do tego małe porcje.
+
+89
+00:06:52,871 --> 00:06:53,914
+Taki stary dowcip.
+
+90
+00:07:01,880 --> 00:07:03,381
+Nie jestem przekonany.
+
+91
+00:07:03,382 --> 00:07:05,633
+Zabezpieczenie w środku już odpada.
+
+92
+00:07:05,634 --> 00:07:08,386
+Wychodząc, dali nam drugą szansę.
+
+93
+00:07:08,387 --> 00:07:11,890
+Zabezpieczenia przeprowadza się
+pod ziemią, w silosie.
+
+94
+00:07:13,684 --> 00:07:14,768
+Są antyseptyczne.
+
+95
+00:07:15,269 --> 00:07:19,398
+Jeśli cię posłuchamy,
+do Zabezpieczenia dojdzie na zewnątrz.
+
+96
+00:07:19,982 --> 00:07:22,400
+Śmierć będzie wyjątkowo drastyczna.
+
+97
+00:07:22,401 --> 00:07:24,610
+- Na widoku.
+- Nie mamy wyboru.
+
+98
+00:07:24,611 --> 00:07:26,612
+Nie wiemy, jak zareagują nasi.
+
+99
+00:07:26,613 --> 00:07:30,950
+Niepokoi mnie możliwy wpływ traumy
+na morale i gotowość operacyjną.
+
+100
+00:07:30,951 --> 00:07:35,413
+Priorytetem, według Dyrektywy,
+jest zapobiec skażeniu między silosami.
+
+101
+00:07:35,414 --> 00:07:36,622
+Rozumiem to.
+
+102
+00:07:36,623 --> 00:07:38,249
+- Co?
+- Nie o to mi chodzi.
+
+103
+00:07:38,250 --> 00:07:39,542
+To najważniejsze.
+
+104
+00:07:39,543 --> 00:07:41,961
+- Nie o to mi…
+- Przepraszam pana.
+
+105
+00:07:41,962 --> 00:07:43,172
+Zbiegowie na nasypie.
+
+106
+00:07:43,755 --> 00:07:44,756
+O kurwa.
+
+107
+00:07:45,424 --> 00:07:47,341
+Hej, zadbam o twoich pilotów.
+
+108
+00:07:47,342 --> 00:07:48,343
+Obiecuję.
+
+109
+00:08:17,164 --> 00:08:19,291
+Jenkins, obserwuj szeryfa.
+
+110
+00:08:38,977 --> 00:08:40,312
+Ilu zbiegów?
+
+111
+00:08:41,395 --> 00:08:43,857
+9832.
+
+112
+00:08:46,026 --> 00:08:47,444
+Oto kolejność działań.
+
+113
+00:08:47,945 --> 00:08:50,447
+Grupa 1 zajmie się
+szeryfem i jego rodziną.
+
+114
+00:08:51,198 --> 00:08:54,743
+Grupa 2 rozpyli związek na rampie,
+by odciąć drogę powrotu.
+
+115
+00:08:55,619 --> 00:08:58,496
+Grupy 3 i 4 polecą naprzemiennie,
+
+116
+00:08:58,497 --> 00:09:00,874
+dopóki nie pokryją obszaru związkiem.
+
+117
+00:09:01,750 --> 00:09:04,794
+Grupy 5 i 6 będą
+atakować cele na rozkaz. Jasne?
+
+118
+00:09:04,795 --> 00:09:07,047
+- Tak jest.
+- Dobrze. Zaczynajcie.
+
+119
+00:09:12,970 --> 00:09:15,012
+- Zameldować się.
+- Grupa 1 gotowa.
+
+120
+00:09:15,013 --> 00:09:17,014
+Grupa 2 gotowa.
+
+121
+00:09:17,015 --> 00:09:18,641
+- Grupa 3 gotowa.
+- 4 gotowa.
+
+122
+00:09:18,642 --> 00:09:19,934
+Grupa 5 gotowa.
+
+123
+00:09:19,935 --> 00:09:20,936
+Grupa 6 gotowa.
+
+124
+00:09:29,361 --> 00:09:30,863
+Na twój znak, Susan.
+
+125
+00:09:33,740 --> 00:09:34,741
+Susan?
+
+126
+00:09:42,249 --> 00:09:43,250
+Proszę pana.
+
+127
+00:09:48,589 --> 00:09:53,926
+Kiedy zaatakujemy szeryfa z rodziną,
+reszta zbiegów spróbuje wrócić do silosu.
+
+128
+00:09:53,927 --> 00:09:55,887
+Na rampie będzie związek.
+
+129
+00:09:55,888 --> 00:09:58,140
+Ale jeśli pozwolimy im wrócić,
+
+130
+00:09:59,266 --> 00:10:00,684
+to więcej już nie wyjdą.
+
+131
+00:10:01,476 --> 00:10:03,352
+Zakończylibyśmy bunt,
+
+132
+00:10:03,353 --> 00:10:06,189
+wyeliminowali
+możliwość kontaktu między silosami
+
+133
+00:10:06,190 --> 00:10:08,901
+i wzmocnili nieomylność Paktu.
+
+134
+00:10:18,035 --> 00:10:20,078
+Zachować cele i przygotować atak.
+
+135
+00:10:28,253 --> 00:10:30,881
+Tam są kobiety i dzieci.
+
+136
+00:10:32,466 --> 00:10:33,717
+Nie zrobię tego.
+
+137
+00:10:48,899 --> 00:10:49,900
+Możesz odejść.
+
+138
+00:11:06,708 --> 00:11:09,211
+Zapisuję zmianę w dowództwie operacyjnym.
+
+139
+00:11:16,301 --> 00:11:19,595
+Mieszkańcy Silosu 17
+postanowili wyjść na zewnątrz.
+
+140
+00:11:19,596 --> 00:11:21,348
+Nie obejmuje ich już Pakt,
+
+141
+00:11:22,558 --> 00:11:24,893
+ale nadal obejmuje ich Dyrektywa.
+
+142
+00:11:25,853 --> 00:11:26,854
+Tak jest.
+
+143
+00:11:29,690 --> 00:11:33,693
+Grupy 1 i 2,
+rozpocząć działanie na mój rozkaz.
+
+144
+00:11:33,694 --> 00:11:35,529
+Grupa 2, wypuścić związek.
+
+145
+00:11:53,130 --> 00:11:54,214
+Pokażcie śluzę.
+
+146
+00:11:58,260 --> 00:12:00,637
+Grupa 1, atakować cele.
+
+147
+00:12:09,813 --> 00:12:10,814
+Do skutku.
+
+148
+00:12:26,205 --> 00:12:27,706
+Grupy 3 i 4, zaczynać.
+
+149
+00:12:39,593 --> 00:12:43,055
+Grupy 5 i 6, zejść na 150 metrów.
+Otworzyć ogień.
+
+150
+00:12:57,528 --> 00:12:58,529
+Termowizja.
+
+151
+00:13:17,089 --> 00:13:18,298
+Wyłączyć dźwięk.
+
+152
+00:13:39,111 --> 00:13:41,237
+W którą stronę wieje ten wiatr?
+
+153
+00:13:41,238 --> 00:13:44,657
+Grupa 3, powtórzyć nalot,
+południowo-wschodnia ćwiartka.
+
+154
+00:13:44,658 --> 00:13:46,869
+Grupa 5, widzicie? Zbiegowie na 2.00.
+
+155
+00:13:47,452 --> 00:13:48,620
+Możemy zbliżyć?
+
+156
+00:13:50,414 --> 00:13:51,582
+Ile zostało celów?
+
+157
+00:13:52,207 --> 00:13:54,750
+2453, sir.
+
+158
+00:13:54,751 --> 00:13:56,128
+Zmniejszmy tę liczbę.
+
+159
+00:15:21,129 --> 00:15:24,591
+Piloci, którzy złożyli meldunek,
+wydają się wręcz radośni.
+
+160
+00:15:25,259 --> 00:15:26,885
+Mogłem nie docenić ich…
+
+161
+00:15:27,970 --> 00:15:28,971
+Czego?
+
+162
+00:15:30,264 --> 00:15:31,348
+Nie wiem. Ich…
+
+163
+00:15:32,182 --> 00:15:33,600
+Jesteśmy zawodowcami.
+
+164
+00:15:34,393 --> 00:15:35,893
+Do tego się szkoliliśmy.
+
+165
+00:15:35,894 --> 00:15:39,439
+Tak. Ty jesteś kimś więcej, Troy.
+
+166
+00:15:40,357 --> 00:15:41,858
+Służę pani dyrektor.
+
+167
+00:15:41,859 --> 00:15:42,985
+Jak my wszyscy.
+
+168
+00:15:43,735 --> 00:15:44,987
+Doug. Randy.
+
+169
+00:15:47,447 --> 00:15:49,115
+Pani dyrektor.
+
+170
+00:15:49,116 --> 00:15:52,201
+Witaj, stary druhu. Minęło parę zmian.
+
+171
+00:15:52,202 --> 00:15:53,327
+Wyglądasz uroczo.
+
+172
+00:15:53,328 --> 00:15:57,457
+Czuję się fatalnie.
+Nigdy nie przywyknę do szybkiej indukcji.
+
+173
+00:15:57,958 --> 00:15:59,167
+Przepraszam.
+
+174
+00:15:59,168 --> 00:16:00,627
+Nie było wyboru.
+
+175
+00:16:01,128 --> 00:16:04,005
+Siadajcie, proszę.
+Obawiam się, że już jadłam.
+
+176
+00:16:04,006 --> 00:16:05,673
+Ale napijecie się herbaty?
+
+177
+00:16:05,674 --> 00:16:08,593
+Herbata. Byłoby cudownie.
+Miło z twojej strony.
+
+178
+00:16:08,594 --> 00:16:12,722
+Bohater dzisiejszego dnia
+zasługuje na szczególne względy.
+
+179
+00:16:12,723 --> 00:16:15,100
+Pozwólcie, że wam naleję.
+
+180
+00:16:16,268 --> 00:16:19,896
+Kiedy zaczynaliśmy tę długą,
+trudną przygodę, wiedziałam,
+
+181
+00:16:19,897 --> 00:16:23,567
+że nie przeżyłabym
+bez mojej popołudniowej herbatki.
+
+182
+00:16:24,401 --> 00:16:26,612
+Choć zapasy się kończą.
+
+183
+00:16:29,448 --> 00:16:30,449
+Troy.
+
+184
+00:16:31,491 --> 00:16:34,036
+Przyznaję ci wyróżnienie
+
+185
+00:16:34,661 --> 00:16:38,247
+za trzeźwość umysłu
+i innowacyjne zdolności przywódcze.
+
+186
+00:16:38,248 --> 00:16:41,293
+Dziękuję pani,
+ale spełniłem tylko swoje zadanie.
+
+187
+00:16:42,044 --> 00:16:43,628
+Ale skromny.
+
+188
+00:16:43,629 --> 00:16:45,087
+Mieliśmy już bunty,
+
+189
+00:16:45,088 --> 00:16:48,549
+ale taka masowa ucieczka
+jest niespotykana.
+
+190
+00:16:48,550 --> 00:16:52,888
+Twoje szybkie, zdecydowanie działanie
+zapobiegło katastrofie.
+
+191
+00:16:54,515 --> 00:16:56,974
+Jesteś pewny, że nie doszło do skażenia?
+
+192
+00:16:56,975 --> 00:17:00,978
+Pewny. 9835 zbiegów, każdy znaleziony.
+
+193
+00:17:00,979 --> 00:17:02,772
+Ile osób zostało w środku?
+
+194
+00:17:02,773 --> 00:17:04,023
+Nie więcej niż setka.
+
+195
+00:17:04,816 --> 00:17:07,318
+- Są zagrożeniem?
+- Stracili generator.
+
+196
+00:17:07,319 --> 00:17:10,488
+Nie mają w środku prądu,
+ogrzewania, chłodzenia…
+
+197
+00:17:10,489 --> 00:17:12,656
+W IT wciąż mają prąd z zewnątrz.
+
+198
+00:17:12,657 --> 00:17:16,203
+Ale żeby go odciąć,
+musielibyśmy wyłączyć cały sektor.
+
+199
+00:17:17,329 --> 00:17:20,206
+Nie. Bez generatora
+ich rośliny i inwentarz umrą.
+
+200
+00:17:20,207 --> 00:17:24,293
+A poziom wody gruntowej wzrośnie.
+Jeśli nie padną z głodu, to utoną.
+
+201
+00:17:24,294 --> 00:17:27,171
+A ten chłopiec zabarykadowany w IT?
+
+202
+00:17:27,172 --> 00:17:29,340
+- Nadal żyje?
+- Nie wiemy.
+
+203
+00:17:29,341 --> 00:17:32,969
+Nie miał już cennych informacji,
+więc odcięliśmy komunikację.
+
+204
+00:17:32,970 --> 00:17:37,139
+Dobrze. Niech uzbrojone drony
+przez trzy lata prowadzą obserwację
+
+205
+00:17:37,140 --> 00:17:39,392
+na wypadek kolejnej próby ucieczki.
+
+206
+00:17:39,393 --> 00:17:41,103
+Bezpieczniej przez pięć.
+
+207
+00:17:41,687 --> 00:17:42,855
+Dobrze.
+
+208
+00:17:43,897 --> 00:17:45,982
+A teraz porozmawiajmy o Susan.
+
+209
+00:17:45,983 --> 00:17:50,988
+Aresztowałeś ją, Troy,
+a ja na czas śledztwa wypuściłam.
+
+210
+00:17:52,573 --> 00:17:55,408
+- Ma pani takie prawo.
+- To mi nie wystarczy.
+
+211
+00:17:55,409 --> 00:17:57,703
+Poprosiłam cię tu, żebyś mnie przekonał.
+
+212
+00:18:00,539 --> 00:18:03,749
+W czasie zajścia
+była pod moim zwierzchnictwem,
+
+213
+00:18:03,750 --> 00:18:05,418
+co wynika z Dyrektywy.
+
+214
+00:18:05,419 --> 00:18:08,797
+- Ale co dokładnie zrobiła?
+- Odmówiła wykonania rozkazu.
+
+215
+00:18:09,798 --> 00:18:13,385
+I zakwestionowała moją taktykę
+przy podlegających jej pilotach.
+
+216
+00:18:13,969 --> 00:18:18,723
+Jej niesubordynacja zabrała nam czas
+i mogła wywołać opór, a nawet sprzeciw.
+
+217
+00:18:18,724 --> 00:18:21,726
+- Ale wszyscy zrobili swoje. Bez wahania.
+- Dobrze.
+
+218
+00:18:21,727 --> 00:18:23,936
+Ale zbiegowie weszli na nasyp.
+
+219
+00:18:23,937 --> 00:18:27,607
+Za parę minut byliby widoczni
+dla sześciu pozostałych silosów.
+
+220
+00:18:27,608 --> 00:18:29,150
+Liczyła się każda sekunda.
+
+221
+00:18:29,151 --> 00:18:31,862
+Jakie konsekwencje byłyby właściwe?
+
+222
+00:18:39,661 --> 00:18:42,371
+Mogę spytać, co zakłada Dyrektywa?
+
+223
+00:18:42,372 --> 00:18:43,707
+Neutralizację.
+
+224
+00:18:44,875 --> 00:18:47,585
+Ale obawiam się, że to niemożliwe.
+
+225
+00:18:47,586 --> 00:18:51,798
+Jej zachowanie było niedopuszczalne.
+Zgadzam się.
+
+226
+00:18:52,299 --> 00:18:54,967
+Ale umiejętności Susan
+odegrają kluczową rolę
+
+227
+00:18:54,968 --> 00:18:57,054
+pod koniec projektu.
+
+228
+00:18:58,222 --> 00:19:00,515
+Poza tym jest ważna dla mojej córki.
+
+229
+00:19:00,516 --> 00:19:04,060
+Myślę, że najlepiej ją chyba zdegradować
+
+230
+00:19:04,061 --> 00:19:05,562
+i ponownie uśpić.
+
+231
+00:19:06,313 --> 00:19:10,816
+Troy, mianowaliśmy cię na specjalistę
+właśnie na potrzeby tego typu wypadków.
+
+232
+00:19:10,817 --> 00:19:16,490
+W imieniu projektu
+dziękuję ci za znakomitą służbę.
+
+233
+00:19:24,665 --> 00:19:25,666
+W porządku?
+
+234
+00:19:27,501 --> 00:19:28,669
+Jest dyrektorką.
+
+235
+00:19:30,337 --> 00:19:34,466
+- To duży ciężar. Musisz wracać do komory.
+- Tak. Posłuchaj.
+
+236
+00:19:38,470 --> 00:19:39,471
+Pomówimy u ciebie?
+
+237
+00:19:44,309 --> 00:19:46,311
+Jest pewna kobieta.
+
+238
+00:19:47,312 --> 00:19:49,272
+W jakim dziale pracuje?
+
+239
+00:19:49,273 --> 00:19:50,523
+W żadnym.
+
+240
+00:19:50,524 --> 00:19:51,525
+Nie…
+
+241
+00:19:52,985 --> 00:19:54,736
+Jest chyba wspomnieniem.
+
+242
+00:19:57,114 --> 00:20:00,366
+Widziałem ją w przebłyskach,
+kiedy się budziłem.
+
+243
+00:20:00,367 --> 00:20:03,579
+Kiedy próbowałem je zapamiętać,
+umykały mi.
+
+244
+00:20:09,293 --> 00:20:11,336
+Czuję, że już ci o tym mówiłem.
+
+245
+00:20:12,462 --> 00:20:14,755
+Że widzę ją przy indukcji.
+
+246
+00:20:14,756 --> 00:20:16,258
+Powiedziałbym ci.
+
+247
+00:20:21,513 --> 00:20:24,433
+Ma jakiś związek z tym.
+
+248
+00:20:28,729 --> 00:20:30,105
+Kiedy to się stało?
+
+249
+00:20:32,107 --> 00:20:34,483
+- Nie wiem.
+- I nie wiesz, kim jest?
+
+250
+00:20:34,484 --> 00:20:36,737
+Nie. Miałem nadzieję, że ty może wiesz.
+
+251
+00:20:38,363 --> 00:20:39,865
+Nie. Przykro mi.
+
+252
+00:20:48,207 --> 00:20:50,583
+Masz dostęp do niektórych akt z…
+
+253
+00:20:50,584 --> 00:20:52,877
+- Troy.
+- Tak?
+
+254
+00:20:52,878 --> 00:20:57,340
+Celem i zamysłem projektu
+jest uwolnić nas od przeszłości.
+
+255
+00:20:57,341 --> 00:20:59,592
+Powinieneś odpuścić.
+
+256
+00:20:59,593 --> 00:21:01,553
+Skoro tak twierdzisz, Victor.
+
+257
+00:21:03,138 --> 00:21:05,848
+Nawet gdyby akta były i się zachowały,
+
+258
+00:21:05,849 --> 00:21:07,975
+według pani senator takich zapytań
+
+259
+00:21:07,976 --> 00:21:10,353
+- zakazuje Dyrektywa.
+- Dlatego liczę…
+
+260
+00:21:10,354 --> 00:21:12,356
+- Nie możesz…
+- …na twoją dyskrecję.
+
+261
+00:21:14,525 --> 00:21:17,652
+Dowiodłem swojej wartości
+dla projektu, prawda?
+
+262
+00:21:17,653 --> 00:21:19,320
+Tak. Bez wątpienia.
+
+263
+00:21:19,321 --> 00:21:21,990
+Więc proszę tylko o odpowiedź
+na jedno pytanie.
+
+264
+00:21:31,583 --> 00:21:32,584
+Proszę.
+
+265
+00:21:46,348 --> 00:21:48,392
+Będę musiał znaleźć pretekst,
+
+266
+00:21:50,269 --> 00:21:51,603
+żeby to zbadać.
+
+267
+00:21:57,192 --> 00:21:58,277
+Jeśli mi się uda…
+
+268
+00:22:00,737 --> 00:22:02,948
+powiem ci następnym razem.
+
+269
+00:22:04,825 --> 00:22:06,118
+Obiecuję.
+
+270
+00:22:36,356 --> 00:22:37,357
+Do zobaczenia.
+
+271
+00:22:51,997 --> 00:22:53,749
+Chyba że się schowam.
+
+272
+00:23:21,318 --> 00:23:23,070
+KIM ONA JEST?
+
+273
+00:23:37,084 --> 00:23:42,381
+KIM ONA JEST?
+
+274
+00:25:26,193 --> 00:25:27,653
+NA PODSTAWIE SERII KSIĄŻEK SILOS
+
+275
+00:25:29,154 --> 00:25:31,573
+SILOS
+
+276
+00:25:42,251 --> 00:25:43,710
+Chodźcie! Idziemy!
+
+277
+00:25:56,974 --> 00:25:59,517
+- Butle gotowe?
+- I załadowane.
+
+278
+00:25:59,518 --> 00:26:02,687
+Zbierz możliwie dużo agentów
+i zanieście je do kopalni.
+
+279
+00:26:02,688 --> 00:26:03,771
+Tak jest.
+
+280
+00:26:03,772 --> 00:26:05,273
+- Emerson.
+- Tak?
+
+281
+00:26:05,274 --> 00:26:07,359
+Dopilnuj, żeby ludzie to widzieli.
+
+282
+00:26:15,534 --> 00:26:16,785
+Kurwa.
+
+283
+00:26:24,960 --> 00:26:26,335
+Siadaj.
+
+284
+00:26:26,336 --> 00:26:28,796
+Jo, znasz mnie. Nie jestem zagrożeniem.
+
+285
+00:26:28,797 --> 00:26:30,591
+Chcę tylko zobaczyć syna.
+
+286
+00:26:31,091 --> 00:26:33,177
+- To wszystko.
+- Złóż wniosek.
+
+287
+00:26:33,969 --> 00:26:37,973
+Muszę pożegnać się z synem.
+
+288
+00:26:39,600 --> 00:26:41,351
+Chad, masz dzieci.
+
+289
+00:26:43,562 --> 00:26:44,605
+Proszę.
+
+290
+00:26:47,065 --> 00:26:48,066
+Zapytam.
+
+291
+00:27:02,956 --> 00:27:05,583
+Wiesz, próbowałam
+wyjaśnić to Camille, ale…
+
+292
+00:27:05,584 --> 00:27:07,461
+Wiem. Jest zawzięta.
+
+293
+00:27:08,212 --> 00:27:10,506
+Tak. Mało powiedziane.
+
+294
+00:27:19,056 --> 00:27:20,974
+Zrobiliśmy wszystko, co mogliśmy.
+
+295
+00:27:21,808 --> 00:27:24,770
+Musimy wierzyć, że im się uda.
+
+296
+00:27:25,771 --> 00:27:27,022
+A jeśli się nie uda?
+
+297
+00:27:33,111 --> 00:27:34,278
+Czekaj.
+
+298
+00:27:34,279 --> 00:27:37,990
+Możesz przestać.
+Jestem tu. Możesz zatrzymać odliczanie.
+
+299
+00:27:37,991 --> 00:27:41,245
+Moi agenci przeprowadzą kontrofensywę, jasne?
+
+300
+00:27:43,622 --> 00:27:44,914
+Mam to pod kontrolą!
+
+301
+00:27:44,915 --> 00:27:47,291
+Dostałaś niespotykaną swobodę,
+
+302
+00:27:47,292 --> 00:27:49,669
+ale okazja już minęła.
+
+303
+00:27:49,670 --> 00:27:51,295
+Nie…
+
+304
+00:27:51,296 --> 00:27:53,840
+Wpuszczamy gaz do kopalni.
+
+305
+00:27:53,841 --> 00:27:56,509
+Buntownicy za parę minut zginą. Zobaczysz.
+
+306
+00:27:56,510 --> 00:27:58,303
+Możesz to obejrzeć na ekranach.
+
+307
+00:28:00,389 --> 00:28:01,639
+No…
+
+308
+00:28:01,640 --> 00:28:04,517
+Przynajmniej pozwól nam spróbować, dobrze?
+
+309
+00:28:04,518 --> 00:28:06,061
+Pozwól nam spróbować!
+
+310
+00:28:17,906 --> 00:28:19,532
+ZATRZYMANIE – RESET
+
+311
+00:28:19,533 --> 00:28:20,826
+RESET ODLICZANIA
+
+312
+00:28:22,369 --> 00:28:23,662
+Macie pięć minut.
+
+313
+00:28:27,249 --> 00:28:28,542
+To za mało.
+
+314
+00:28:31,795 --> 00:28:32,880
+To za mało.
+
+315
+00:28:34,006 --> 00:28:36,216
+- To za…
+- Macie pięć minut.
+
+316
+00:28:51,356 --> 00:28:54,108
+Główne i poboczne pompy są aktywowane.
+
+317
+00:28:54,109 --> 00:28:56,611
+- Zawory?
+- Główny i grupowy otwarte.
+
+318
+00:28:56,612 --> 00:29:00,073
+- Zawór silosu gotowy.
+- Rozpocząć zwiększanie ciśnienia.
+
+319
+00:29:02,034 --> 00:29:03,202
+To za mało.
+
+320
+00:29:05,245 --> 00:29:07,163
+Idziemy! Szybko!
+
+321
+00:29:07,164 --> 00:29:08,707
+Daj mi to!
+
+322
+00:29:14,463 --> 00:29:15,631
+Uwaga!
+
+323
+00:29:20,761 --> 00:29:22,303
+- Jesteś cała?
+- Tak!
+
+324
+00:29:22,304 --> 00:29:24,723
+Widzę wylewkę! Daj mi pręt!
+
+325
+00:29:31,813 --> 00:29:33,232
+Szybko!
+
+326
+00:29:34,024 --> 00:29:35,358
+Agenci!
+
+327
+00:29:35,359 --> 00:29:37,318
+- Kurwa! Teddy!
+- Co?
+
+328
+00:29:37,319 --> 00:29:40,531
+Spowolnij tych agentów.
+Nash, Hoover, ze mną.
+
+329
+00:29:49,581 --> 00:29:51,625
+O Boże. No już.
+
+330
+00:29:54,169 --> 00:29:55,170
+O kurwa.
+
+331
+00:30:06,223 --> 00:30:08,433
+Rzućcie te zbiorniki!
+
+332
+00:30:20,153 --> 00:30:21,238
+Zostaw mnie!
+
+333
+00:30:22,865 --> 00:30:23,907
+Zostaw mnie!
+
+334
+00:30:25,117 --> 00:30:28,996
+- Nie ruszać się!
+- Już. Ruszajcie dalej!
+
+335
+00:30:37,462 --> 00:30:38,714
+Shirl, latarka.
+
+336
+00:30:41,967 --> 00:30:43,093
+Widzę ją.
+
+337
+00:30:44,553 --> 00:30:45,554
+Trzymaj.
+
+338
+00:30:46,597 --> 00:30:48,723
+Agenci są prawie na miejscu.
+
+339
+00:30:48,724 --> 00:30:50,224
+Są pra…
+
+340
+00:30:50,225 --> 00:30:55,022
+Nie rób tego, dobrze?
+Proszę, nie rób tego!
+
+341
+00:30:57,566 --> 00:30:58,942
+Powiedz coś, kurwa!
+
+342
+00:30:59,943 --> 00:31:01,153
+Powiedz coś!
+
+343
+00:31:06,033 --> 00:31:07,492
+Dwie minuty 15.
+
+344
+00:31:15,459 --> 00:31:16,752
+Tatusiu!
+
+345
+00:31:17,920 --> 00:31:19,421
+Anthony!
+
+346
+00:31:36,230 --> 00:31:37,231
+Dalej!
+
+347
+00:31:42,736 --> 00:31:44,696
+- No już!
+- Knox?
+
+348
+00:31:47,115 --> 00:31:49,575
+Shirl, chodź tu. Potrzebuję cię.
+
+349
+00:31:49,576 --> 00:31:51,869
+Gaz jest prawie na miejscu.
+
+350
+00:31:51,870 --> 00:31:54,914
+Rozumiesz? Buntownicy zginą. Natychmiast.
+
+351
+00:31:54,915 --> 00:31:58,417
+Potrzebujemy dwóch minut.
+
+352
+00:31:58,418 --> 00:32:00,045
+Dwie minuty, proszę!
+
+353
+00:32:02,756 --> 00:32:03,966
+Camille,
+
+354
+00:32:05,217 --> 00:32:08,929
+twoja porażka sprawiła,
+że Zabezpieczenie jest konieczne.
+
+355
+00:32:12,724 --> 00:32:13,767
+Kurwa!
+
+356
+00:32:30,033 --> 00:32:31,034
+Hej, Anthony.
+
+357
+00:32:31,660 --> 00:32:33,328
+Ona nie chce cię skrzywdzić.
+
+358
+00:32:34,371 --> 00:32:35,455
+Rozumiesz?
+
+359
+00:32:42,421 --> 00:32:43,922
+Gdzie jest mamusia?
+
+360
+00:32:46,133 --> 00:32:47,885
+Mamusia jest w pracy.
+
+361
+00:33:27,925 --> 00:33:30,176
+Widział to pan?
+
+362
+00:33:30,177 --> 00:33:32,429
+- Potknęła się.
+- Nie. Proszę patrzeć.
+
+363
+00:33:43,899 --> 00:33:44,900
+Tlen.
+
+364
+00:33:46,735 --> 00:33:48,695
+To tylko tlen. Maksimum ciśnienia!
+
+365
+00:33:53,367 --> 00:33:54,368
+Dalej.
+
+366
+00:34:02,251 --> 00:34:03,669
+Emerson, jest bezpiecznie?
+
+367
+00:34:06,421 --> 00:34:09,507
+Potwórz. Emerson, czy jest bezpiecznie?
+
+368
+00:34:10,842 --> 00:34:12,553
+No już.
+
+369
+00:34:22,728 --> 00:34:24,022
+Maksymalne ciśnienie.
+
+370
+00:34:25,315 --> 00:34:26,859
+Rozpocząć Zabezpieczenie.
+
+371
+00:34:28,025 --> 00:34:29,276
+Na mój znak.
+
+372
+00:34:29,277 --> 00:34:32,906
+- Za trzy, dwa, jeden.
+- Proszę, czekaj. Zaczekaj.
+
+373
+00:34:33,866 --> 00:34:35,242
+Proszę, nie.
+
+374
+00:34:55,137 --> 00:34:56,262
+Co się stało?
+
+375
+00:34:56,263 --> 00:34:58,390
+Ciśnienie nie spada.
+
+376
+00:34:59,266 --> 00:35:01,893
+- Sprawdź.
+- Spadło na sekundę,
+
+377
+00:35:01,894 --> 00:35:04,854
+a potem wróciło do maksimum.
+
+378
+00:35:04,855 --> 00:35:06,315
+Zabezpieczenie nie działa.
+
+379
+00:35:18,327 --> 00:35:19,411
+Jest bezpiecznie.
+
+380
+00:35:27,711 --> 00:35:28,754
+Przyjęłam.
+
+381
+00:35:36,845 --> 00:35:37,846
+O kurwa.
+
+382
+00:35:55,489 --> 00:35:56,823
+Kurwa.
+
+383
+00:35:58,450 --> 00:36:00,994
+Proszę pana, musimy zmniejszyć ciśnienie.
+
+384
+00:36:03,038 --> 00:36:04,039
+Proszę pana!
+
+385
+00:36:09,837 --> 00:36:11,046
+Zmniejsz ciśnienie.
+
+386
+00:36:18,762 --> 00:36:23,141
+- Gdzie Zabezpieczenie zawiodło?
+- Zawór silosu działał.
+
+387
+00:36:24,142 --> 00:36:25,227
+Gdzieś dalej.
+
+388
+00:36:31,692 --> 00:36:32,901
+Zatkali rurę.
+
+389
+00:36:36,989 --> 00:36:38,156
+Zatkali rurę.
+
+390
+00:36:51,336 --> 00:36:57,759
+Wyślijcie uzbrojony dron nad Silos 18.
+
+391
+00:36:59,553 --> 00:37:01,180
+Jeśli ktoś spróbuje wyjść,
+
+392
+00:37:02,931 --> 00:37:04,016
+to go zabijcie.
+
+393
+00:37:12,357 --> 00:37:13,525
+Muszę zostać sam.
+
+394
+00:37:16,528 --> 00:37:17,613
+Wyjdźcie.
+
+395
+00:37:19,198 --> 00:37:20,199
+Już!
+
+396
+00:37:34,838 --> 00:37:36,840
+To był sprytny podstęp.
+
+397
+00:37:40,969 --> 00:37:42,804
+Nie byłam pewna, czy się uda.
+
+398
+00:37:46,600 --> 00:37:48,519
+Twoje wskaźniki były stabilne.
+
+399
+00:37:49,770 --> 00:37:52,147
+Nic nie wskazywało na zdradę.
+
+400
+00:37:52,940 --> 00:37:55,275
+Wybrałeś mnie, bo umiem kłamać, prawda?
+
+401
+00:37:58,737 --> 00:38:00,364
+Czemu okłamałaś mnie?
+
+402
+00:38:08,163 --> 00:38:10,206
+Nie znałam odpowiedzi na pytanie.
+
+403
+00:38:10,207 --> 00:38:11,750
+Jakie pytanie?
+
+404
+00:38:12,459 --> 00:38:13,794
+Dlaczego?
+
+405
+00:38:14,795 --> 00:38:16,964
+Dlaczego możecie nas zabić?
+
+406
+00:38:20,092 --> 00:38:21,343
+Kto je zadał?
+
+407
+00:38:29,226 --> 00:38:30,435
+Juliette Nichols.
+
+408
+00:38:39,069 --> 00:38:42,906
+Gatunek ludzki
+był w końcowej fazie autodestrukcji.
+
+409
+00:38:47,911 --> 00:38:52,540
+Silos był ostatnią nadzieją,
+by zapewnić przetrwanie gatunku.
+
+410
+00:38:52,541 --> 00:38:58,130
+Jak zapewnić przetrwanie,
+mordując tysiące ludzi naraz?
+
+411
+00:39:00,174 --> 00:39:04,595
+Kwestionowanie przesłanek Założycieli…
+
+412
+00:39:07,389 --> 00:39:09,474
+- jest naruszeniem…
+- Naruszeniem?
+
+413
+00:39:10,684 --> 00:39:13,687
+Ludzie chcą wolności, więc ich zabijasz.
+Naruszeniem?
+
+414
+00:40:19,378 --> 00:40:21,379
+Nikt nie wchodzi ani nie wychodzi.
+
+415
+00:40:21,380 --> 00:40:23,089
+- Tak jest.
+- Idziemy.
+
+416
+00:40:23,090 --> 00:40:24,674
+Hej, do tyłu.
+
+417
+00:40:24,675 --> 00:40:27,468
+- Nie podchodzić do więźniów.
+- Już nimi nie są.
+
+418
+00:40:27,469 --> 00:40:29,762
+- Co się stało?
+- Zatkaliśmy rurę.
+
+419
+00:40:29,763 --> 00:40:31,639
+Agenci mieli was zatrzymać.
+
+420
+00:40:31,640 --> 00:40:35,852
+- Dostali rozkaz, by zmienić front.
+- Od kogo? Nikt nie ma takiej władzy.
+
+421
+00:40:35,853 --> 00:40:37,271
+To był mój rozkaz.
+
+422
+00:40:50,075 --> 00:40:52,244
+Nikt nie będzie czyścić. Możecie odejść.
+
+423
+00:40:55,622 --> 00:40:56,873
+Mamusiu!
+
+424
+00:40:56,874 --> 00:40:57,875
+Anthony.
+
+425
+00:41:00,210 --> 00:41:01,378
+Wszystko dobrze?
+
+426
+00:41:06,800 --> 00:41:07,801
+Wszystko dobrze.
+
+427
+00:41:08,760 --> 00:41:09,761
+W porządku?
+
+428
+00:41:11,388 --> 00:41:13,223
+Dostawa wody jest bezpieczna.
+
+429
+00:41:14,516 --> 00:41:15,559
+Udało się nam.
+
+430
+00:41:17,436 --> 00:41:18,729
+Wiecie, co dziś jest?
+
+431
+00:41:20,439 --> 00:41:21,648
+Dzień Wolności.
+
+432
+00:41:26,153 --> 00:41:28,530
+Nasz pierwszy prawdziwy Dzień Wolności.
+
+433
+00:41:29,031 --> 00:41:31,742
+Nie mogę przestać myśleć,
+że już byśmy nie żyli,
+
+434
+00:41:32,701 --> 00:41:34,077
+gdyby nie tamten…
+
+435
+00:41:35,621 --> 00:41:37,039
+tamten sukinsyn.
+
+436
+00:41:57,184 --> 00:41:58,310
+Tak?
+
+437
+00:42:00,187 --> 00:42:01,437
+Słucham pana.
+
+438
+00:42:01,438 --> 00:42:04,232
+Niech obudzą Troya, proszę.
+
+439
+00:42:04,233 --> 00:42:05,317
+Tak jest.
+
+440
+00:42:06,235 --> 00:42:07,319
+Dzięki, Chloe.
+
+441
+00:43:07,171 --> 00:43:10,299
+POUFNY PLIK
+
+442
+00:44:45,978 --> 00:44:47,354
+Hej, tu Jules.
+
+443
+00:44:48,689 --> 00:44:49,773
+Ktoś mnie słyszy?
+
+444
+00:44:53,235 --> 00:44:54,528
+Jules?
+
+445
+00:44:55,737 --> 00:44:57,781
+Dobrze słyszeć twój głos.
+
+446
+00:44:58,407 --> 00:44:59,575
+Hej, Lukas.
+
+447
+00:45:00,409 --> 00:45:02,327
+Twój głos też dobrze słyszeć.
+
+448
+00:45:02,911 --> 00:45:04,830
+Jak u was? Wszystko w porządku?
+
+449
+00:45:07,332 --> 00:45:08,959
+Dochodzę do siebie. Co…
+
+450
+00:45:09,543 --> 00:45:12,379
+Ważne, że zapobiegłaś Zabezpieczeniu.
+
+451
+00:45:12,963 --> 00:45:16,716
+Nie ja, tylko Knox, Shirley, Walker i…
+
+452
+00:45:16,717 --> 00:45:20,511
+Każdy pomógł. Nawet Camille.
+Więc tak, jesteśmy bezpieczni.
+
+453
+00:45:20,512 --> 00:45:21,596
+Tak myślę.
+
+454
+00:45:21,597 --> 00:45:23,098
+Przynajmniej na razie.
+
+455
+00:45:24,016 --> 00:45:26,017
+I o ile nie wyjdziecie.
+
+456
+00:45:26,018 --> 00:45:29,438
+Ani nie wróci to, co mnie postrzeliło…
+
+457
+00:45:30,480 --> 00:45:33,442
+Sprowadzę was wszystkich tutaj, obiecuję.
+
+458
+00:45:35,485 --> 00:45:36,903
+Wiem.
+
+459
+00:45:36,904 --> 00:45:38,571
+Ale wiem też…
+
+460
+00:45:38,572 --> 00:45:40,282
+…że nie dzisiaj.
+
+461
+00:45:40,866 --> 00:45:41,950
+Jasne.
+
+462
+00:45:45,871 --> 00:45:47,122
+Tęskniłem za tobą.
+
+463
+00:46:00,302 --> 00:46:04,097
+I mam więcej wiedzy o wszechświecie,
+którą chciałbym cię zanudzić…
+
+464
+00:46:05,390 --> 00:46:08,352
+Nie mogę się doczekać,
+aż mnie nią zanudzisz.
+
+465
+00:46:15,150 --> 00:46:16,902
+Muszę coś najpierw zrobić.
+
+466
+00:46:17,694 --> 00:46:21,740
+Nie mogę przestać myśleć
+o tamtych drzwiach w strefie kopalnej.
+
+467
+00:46:23,909 --> 00:46:25,077
+Muszę tam pójść.
+
+468
+00:46:26,286 --> 00:46:27,788
+Zobaczyć, dokąd prowadzą.
+
+469
+00:46:39,716 --> 00:46:41,426
+Hej. Słyszysz mnie?
+
+470
+00:46:42,427 --> 00:46:44,221
+Cześć.
+
+471
+00:46:44,888 --> 00:46:47,766
+A oto i on. Widzę cię.
+
+472
+00:46:50,811 --> 00:46:52,688
+Hola, powoli.
+
+473
+00:46:53,355 --> 00:46:56,899
+Jestem Phil i mam zadanie cię powitać.
+Wiesz, kim jesteś?
+
+474
+00:46:56,900 --> 00:46:58,526
+- Jak masz na imię?
+- Troy.
+
+475
+00:46:58,527 --> 00:47:01,446
+Troy. Świetnie, Troy. Czym się zajmujesz?
+
+476
+00:47:02,197 --> 00:47:03,781
+Jestem specjalistą.
+
+477
+00:47:03,782 --> 00:47:05,157
+Idealnie.
+
+478
+00:47:05,158 --> 00:47:08,870
+Od twojego ostatniego zadania
+minęło 35 lat.
+
+479
+00:47:08,871 --> 00:47:13,666
+Ale musieliśmy wykonać szybką indukcję.
+Wciąż masz bardzo niską temperaturę.
+
+480
+00:47:13,667 --> 00:47:15,751
+Zrobimy płukanie termiczne, dobrze?
+
+481
+00:47:15,752 --> 00:47:17,086
+- Kurwa.
+- Wiem.
+
+482
+00:47:17,087 --> 00:47:20,798
+Możesz się położyć? Trzymam cię.
+Połóż się. Całkiem.
+
+483
+00:47:20,799 --> 00:47:23,552
+Chcesz coś do gryzienia? Proszę.
+
+484
+00:47:31,810 --> 00:47:32,811
+Gdzie jest Victor?
+
+485
+00:47:33,812 --> 00:47:36,857
+Tego nie wiem.
+Ogarnia pewnie jakąś sytuację.
+
+486
+00:47:37,482 --> 00:47:38,775
+Jaką sytuację?
+
+487
+00:47:40,110 --> 00:47:41,904
+Powinniśmy wiedzieć, nie?
+
+488
+00:47:42,404 --> 00:47:45,114
+To nas widzicie jako pierwszych.
+
+489
+00:47:45,115 --> 00:47:47,992
+Moglibyśmy szybko was poinformować.
+
+490
+00:47:47,993 --> 00:47:53,999
+Hej. Może wspomnij komuś na górze,
+że nie jesteśmy tylko małpkami od krio.
+
+491
+00:47:54,791 --> 00:47:59,587
+Zajmujemy się odmrażaniem,
+nagłymi przypadkami medycznymi.
+
+492
+00:47:59,588 --> 00:48:01,380
+Jesteśmy profesjonalistami.
+
+493
+00:48:01,381 --> 00:48:06,469
+Wiem, że pracujesz z wieloma zmianami.
+Ale wierz mi, nasza, J-7, jest najlepsza.
+
+494
+00:48:06,470 --> 00:48:09,514
+Świetni ludzie, świetna chemia,
+mnóstwo inicjatywy.
+
+495
+00:48:09,515 --> 00:48:12,517
+Szef bywa fiutem,
+ale próbuje nas tylko pilnować,
+
+496
+00:48:12,518 --> 00:48:14,810
+żebyśmy dawali Silosowi 110%.
+
+497
+00:48:14,811 --> 00:48:18,856
+I mamy super imprezy. Zapraszam.
+Ludzie chętnie poznają gościa, który…
+
+498
+00:48:18,857 --> 00:48:22,778
+Troy. Joel, szef zmiany J-7.
+Odprowadzę cię do końca.
+
+499
+00:48:23,362 --> 00:48:24,363
+Dzięki, Phil.
+
+500
+00:48:27,115 --> 00:48:32,579
+Zaczęliśmy zmianę pięć miesięcy temu.
+Po dwóch Silos 18 się zdestabilizował.
+
+501
+00:48:33,080 --> 00:48:36,290
+Po tym, jak szeryfka,
+Juliette Nichols, wyszła czyścić.
+
+502
+00:48:36,291 --> 00:48:41,129
+Jakoś zdobyła dobrą taśmę,
+dotarła do Silosu 17 i z powrotem.
+
+503
+00:48:44,258 --> 00:48:48,595
+Victor szykował Zabezpieczenie,
+kiedy szefowa IT dołączyła do buntowników.
+
+504
+00:48:49,471 --> 00:48:51,974
+Kupiła im czas, żeby zatkali rurę.
+
+505
+00:48:54,977 --> 00:48:58,397
+- Gdzie jest Victor?
+- Próbują go znaleźć.
+
+506
+00:48:59,231 --> 00:49:03,025
+Obserwuje ich uzbrojony dron
+i przygotowujemy się na wypadek,
+
+507
+00:49:03,026 --> 00:49:05,820
+gdybyś zarządził
+zewnętrzne Zabezpieczenie.
+
+508
+00:49:05,821 --> 00:49:08,739
+- Zewnętrzne?
+- Takie jak w przypadku 17.
+
+509
+00:49:08,740 --> 00:49:09,741
+Tak je nazywamy.
+
+510
+00:49:11,159 --> 00:49:13,077
+Ta Nichols nie jest głupia.
+
+511
+00:49:13,078 --> 00:49:16,373
+Jeśli widziała, co zaszło w 17,
+nie pozwoli ludziom wyjść.
+
+512
+00:49:17,374 --> 00:49:18,375
+Tak.
+
+513
+00:49:20,544 --> 00:49:21,545
+Dział operacyjny.
+
+514
+00:49:22,212 --> 00:49:23,213
+Tak.
+
+515
+00:49:24,506 --> 00:49:25,507
+Dobrze.
+
+516
+00:49:26,008 --> 00:49:28,719
+Troy, Victor prosi cię do siebie.
+
+517
+00:49:29,803 --> 00:49:31,638
+Daj znać, jeśli coś się zmieni.
+
+518
+00:49:32,222 --> 00:49:33,265
+Jasne.
+
+519
+00:49:37,019 --> 00:49:39,020
+Utrzyma tylu ludzi, nie?
+
+520
+00:49:39,021 --> 00:49:40,397
+Zobaczymy.
+
+521
+00:49:51,283 --> 00:49:52,576
+Victor mnie wezwał.
+
+522
+00:49:53,327 --> 00:49:55,204
+- Ja cię wezwałem.
+- Henry.
+
+523
+00:49:56,121 --> 00:49:57,538
+To twoja zmiana?
+
+524
+00:49:57,539 --> 00:50:00,124
+Nie. Jestem po szybkiej indukcji, jak ty.
+
+525
+00:50:00,125 --> 00:50:02,044
+Po co im ktoś z bezpieczeństwa?
+
+526
+00:50:16,058 --> 00:50:17,059
+Kurwa.
+
+527
+00:50:22,064 --> 00:50:24,775
+- To się nie może wydać.
+- Oczywiście.
+
+528
+00:50:29,696 --> 00:50:30,739
+Wszystko dobrze?
+
+529
+00:50:31,865 --> 00:50:34,242
+Tak. Po prostu…
+
+530
+00:50:34,243 --> 00:50:35,994
+nie wiem, co powiedzieć.
+
+531
+00:50:37,538 --> 00:50:39,164
+Założyciel się zabija.
+
+532
+00:50:40,791 --> 00:50:42,292
+To nie byle, kurwa, co.
+
+533
+00:50:42,876 --> 00:50:45,254
+- Zostawił list?
+- Nie znalazłem żadnego.
+
+534
+00:50:46,004 --> 00:50:50,759
+Ale jego ostatnim poleceniem, zanim…
+było cię obudzić.
+
+535
+00:50:51,760 --> 00:50:56,348
+Pomyślałem więc, że może masz pomysł,
+co mogło go trapić.
+
+536
+00:51:00,185 --> 00:51:03,437
+Wiele razy współpracowaliście.
+
+537
+00:51:03,438 --> 00:51:07,192
+Wydawało się prawie, że chciał być
+na tych samych zmianach co ty.
+
+538
+00:51:12,406 --> 00:51:13,949
+Nie mam pojęcia.
+
+539
+00:51:14,783 --> 00:51:16,660
+Czasem miałem wrażenie, że…
+
+540
+00:51:18,453 --> 00:51:22,123
+znał mnie z dawnych czasów,
+choć nie mógł nic powiedzieć.
+
+541
+00:51:22,124 --> 00:51:23,208
+Nie mógł.
+
+542
+00:51:35,053 --> 00:51:39,308
+Był dobrym człowiekiem.
+Lubiłem go. Po prostu…
+
+543
+00:51:39,975 --> 00:51:42,686
+Nie wiem, czy tak naprawdę go znałem.
+
+544
+00:52:09,546 --> 00:52:10,589
+W porządku?
+
+545
+00:52:12,716 --> 00:52:15,260
+- Ponoć nie lubisz wody.
+- Bo nie lubię.
+
+546
+00:52:15,969 --> 00:52:17,679
+A od czasu 17 jej nienawidzę.
+
+547
+00:52:20,891 --> 00:52:23,936
+Lukas mówił,
+że poszedł na lewo od koparki, więc…
+
+548
+00:52:26,188 --> 00:52:27,189
+- Tak?
+- Dobra.
+
+549
+00:52:42,996 --> 00:52:45,290
+Dobra, chodźmy.
+
+550
+00:52:54,925 --> 00:52:57,385
+Joel, muszę posłuchać nagrania rozmowy
+
+551
+00:52:57,386 --> 00:52:58,845
+Victora i Camille Sims.
+
+552
+00:52:58,846 --> 00:53:00,764
+- Już.
+- Kto jest w inżynierii?
+
+553
+00:53:01,348 --> 00:53:03,891
+- Dowiem się.
+- Niech będą w gotowości.
+
+554
+00:53:03,892 --> 00:53:06,687
+- Jakoś wdrożymy Zabezpieczenie.
+- Proszę pana.
+
+555
+00:53:09,147 --> 00:53:10,148
+Troy.
+
+556
+00:53:11,191 --> 00:53:13,943
+Przy schronie w 18 pojawiła się aktywność.
+
+557
+00:53:13,944 --> 00:53:14,945
+Naprawdę?
+
+558
+00:53:16,029 --> 00:53:17,489
+- Pokaż.
+- Robi się.
+
+559
+00:53:32,171 --> 00:53:34,840
+To co teraz?
+
+560
+00:53:37,176 --> 00:53:40,596
+Lukas mówił, że tylko ich dotknął.
+
+561
+00:53:48,562 --> 00:53:49,896
+Juliette Nichols.
+
+562
+00:53:49,897 --> 00:53:52,649
+Nie próbuj wchodzić dalej.
+
+563
+00:53:53,358 --> 00:53:54,359
+Dlaczego?
+
+564
+00:53:54,860 --> 00:53:56,486
+Czego się tak boisz?
+
+565
+00:53:57,196 --> 00:53:59,030
+Wróć nad poziom koparki…
+
+566
+00:53:59,031 --> 00:54:01,825
+i nie próbuj wchodzić dalej.
+
+567
+00:54:03,035 --> 00:54:04,661
+A jeśli nie posłuchamy?
+
+568
+00:54:05,204 --> 00:54:08,122
+Zakończymy wszelkie życie
+w waszym silosie.
+
+569
+00:54:08,123 --> 00:54:11,417
+Już próbowaliście. Na marne.
+Wiemy, że nie przestaniecie.
+
+570
+00:54:11,418 --> 00:54:12,419
+Więc…
+
+571
+00:54:13,128 --> 00:54:14,630
+co mamy do stracenia?
+
+572
+00:54:27,309 --> 00:54:31,396
+Jeśli nie będziecie próbować
+skontaktować się z innym silosem,
+
+573
+00:54:32,147 --> 00:54:33,982
+nie będzie Zabezpieczenia.
+
+574
+00:54:34,900 --> 00:54:36,360
+Oferujesz nam układ?
+
+575
+00:54:40,489 --> 00:54:41,782
+Kompromis.
+
+576
+00:54:42,407 --> 00:54:43,867
+Kompromis?
+
+577
+00:54:47,496 --> 00:54:48,497
+To uczciwe.
+
+578
+00:54:51,625 --> 00:54:52,626
+Zgadzamy się.
+
+579
+00:54:59,716 --> 00:55:01,635
+Dobra. Chodźmy.
+
+580
+00:55:49,391 --> 00:55:51,643
+Czekaj. Co to było? Zatrzymasz się?
+
+581
+00:55:56,356 --> 00:55:58,024
+Co to, kurwa, było?
+
+582
+00:55:58,025 --> 00:56:01,153
+- Chyba nie wierzysz, że przestaną?
+- Jasne, że nie.
+
+583
+00:56:03,572 --> 00:56:04,573
+Dobra.
+
+584
+00:56:05,449 --> 00:56:07,408
+Wiemy, że Zabezpieczenie odpada.
+
+585
+00:56:07,409 --> 00:56:09,452
+Ale zrobią coś innego.
+
+586
+00:56:09,453 --> 00:56:11,871
+Jeśli zaatakują z góry, to ich zobaczymy.
+
+587
+00:56:11,872 --> 00:56:13,373
+Mogą się wwiercić.
+
+588
+00:56:13,999 --> 00:56:16,667
+Dostarczyć truciznę
+przez dziurę w ścianie.
+
+589
+00:56:16,668 --> 00:56:18,336
+Do końca byśmy nie wiedzieli.
+
+590
+00:56:18,337 --> 00:56:22,965
+To może być coś łatwiejszego.
+Mogą wpuścić truciznę przez te drzwi.
+
+591
+00:56:22,966 --> 00:56:26,511
+- Możemy je zespawać.
+- Albo ustawić strażników z bronią.
+
+592
+00:56:26,512 --> 00:56:30,431
+Nie. Wszystkie inne silosy
+mierzą się z tym samym zagrożeniem.
+
+593
+00:56:30,432 --> 00:56:31,849
+- Chcesz je ostrzec?
+- Nie.
+
+594
+00:56:31,850 --> 00:56:33,309
+Zakazali nam tego.
+
+595
+00:56:33,310 --> 00:56:35,144
+I tak nie mielibyśmy jak.
+
+596
+00:56:35,145 --> 00:56:37,980
+Słuchajcie. Musimy
+skupić się na przetrwaniu.
+
+597
+00:56:37,981 --> 00:56:38,982
+Prawda?
+
+598
+00:56:40,651 --> 00:56:42,319
+Tego po nas oczekują.
+
+599
+00:56:46,532 --> 00:56:50,953
+Oczekują, że przygotujemy się
+do samoobrony, prawda?
+
+600
+00:56:51,662 --> 00:56:56,458
+Czyli nie będą przygotowani,
+żeby bronić się przed nami.
+
+601
+00:56:58,710 --> 00:57:03,048
+Więc jeśli dotrzemy do nich pierwsi,
+możemy ochronić wszystkich.
+
+602
+00:57:08,095 --> 00:57:09,930
+Musimy zniszczyć Silos 1.
+
+603
+00:57:41,044 --> 00:57:44,089
+ZAKODOWANA WIADOMOŚĆ
+ODKODUJ
+
+604
+00:57:46,049 --> 00:57:47,050
+Cześć, Troy.
+
+605
+00:57:49,428 --> 00:57:52,514
+Wiesz już, że porzuciłem swoją zmianę.
+
+606
+00:57:54,016 --> 00:57:55,225
+Na zawsze.
+
+607
+00:58:01,190 --> 00:58:03,066
+Nie musisz znać wszystkich powodów.
+
+608
+00:58:05,777 --> 00:58:07,196
+Powiem tylko,
+
+609
+00:58:07,988 --> 00:58:11,241
+że kiedy Zabezpieczenie w Silosie 18
+się nie powiodło,
+
+610
+00:58:13,160 --> 00:58:14,328
+zdałem sobie sprawę…
+
+611
+00:58:16,413 --> 00:58:17,581
+że przede wszystkim…
+
+612
+00:58:19,708 --> 00:58:21,084
+poczułem ulgę.
+
+613
+00:58:27,716 --> 00:58:28,884
+Ostatnio
+
+614
+00:58:29,927 --> 00:58:31,678
+spytałeś mnie o pewną kobietę.
+
+615
+00:58:33,514 --> 00:58:35,265
+I złożyłem ci obietnicę.
+
+616
+00:58:38,101 --> 00:58:40,312
+Nazywa się Helen Drew.
+
+617
+00:59:14,012 --> 00:59:15,389
+Helen Drew.
+
+618
+01:00:04,313 --> 01:00:06,315
+Napisy: Marzena Falkowska
+
