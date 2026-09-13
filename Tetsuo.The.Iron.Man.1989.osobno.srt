@@ -1,0 +1,129 @@
+{151}{198}T³umaczenie: Fingolfin <fingolfin@go2.pl>|Synchro do wersji 700MB/23,976fps: Vampire
+{203}{362}Kaijyu Theater przedstawia
+{496}{617}Cykl "Potwory zwyk³ych rozmiarów"
+{5972}{6100}Film Shinya Tsukamoto
+{8491}{8614}W roli g³ównej Tomorou Taguchi
+{10443}{10812}TETSUO
+{10879}{10926}CZ£OWIEK Z ¯ELAZA
+{11985}{12032}- Halo.|- Halo.
+{12100}{12162}- Halo.|- Halo.
+{12241}{12307}- Halo.|- Halo.
+{12340}{12413}- Halo.|- Halo.
+{12440}{12519}- Halo.|- Halo.
+{12547}{12620}- Halo.|- Halo.
+{12646}{12720}- Halo.|- Halo.
+{12972}{13054}- Halo, halo.
+{13087}{13131}- Halo.
+{13207}{13276}- Wszystko w porz¹dku?|- Tak.
+{13278}{13342}Od tamtej pory...
+{13344}{13400}Kiedy myœlê o wypadku...
+{13420}{13474}Czujê coœ dziwnego...
+{13528}{13582}Tak...
+{23014}{23084}No chodŸ ChodŸ!
+{23099}{23132}Przestañ!
+{23278}{23301}ChodŸ!
+{23525}{23564}Przestañ!
+{30762}{30811}Co robisz?
+{30887}{30930}Co siê dzieje?
+{30980}{31006}Nic.
+{31037}{31066}Nic.
+{35635}{35677}Obiecaj...
+{35696}{35746}Obiecaj...
+{35768}{35800}...¿e nigdy mnie nie opuœcisz. Dobrze?
+{36120}{36164}Co siê dzieje?
+{37664}{37715}Nie! Nie otwieraj drzwi!
+{37717}{37803}Nie spodoba ci siê to...|Nie otwieraj!
+{37945}{38016}Daj spokój... Pozwól mi wejœæ...
+{38038}{38096}Niczego siê nie bojê...
+{38097}{38168}Nie! Nie ma mowy!
+{38212}{38309}Co siê dzieje?
+{38323}{38410}Jak to siê do diab³a sta³o?
+{38448}{38517}Hej, otwieraj!
+{38519}{38573}Nie! Znienawidzisz mnie!
+{38575}{38623}Nie otworzê.
+{38625}{38695}Mówi³am ci, ¿e niczego siê nie bojê.
+{38908}{38958}A to?
+{38960}{39038}Nie, nie mogê ci tego pokazaæ.
+{39103}{39165}To kara. W³aœnie tak.
+{39167}{39230}To w³aœnie tak.
+{39634}{39711}ChodŸ. Wszystko w porz¹dku.
+{39916}{39982}Nie zostawiaj mnie samej.
+{40382}{40428}Mówi³am ci, ¿e niczego siê nie bojê.
+{41208}{41260}Niech to!
+{42416}{42481}"Wszystko w porz¹dku", tak?
+{44691}{44789}Chcesz siê pobawiæ œwidrem, suko?
+{51526}{51572}Co to kurwa jest?
+{51603}{51660}To niewiarygodne.
+{51704}{51809}Jak to siê tam znalaz³o?
+{51894}{51969}W twoim mózgu tkwi kawa³ek metalu.
+{52027}{52084}Nie mogê uwierzyæ, ¿e wci¹¿ ¿yjesz.
+{52171}{52208}Powiedzmy...
+{52248}{52334}¿e to dzie³o sztuki.
+{52395}{52448}Umrzesz, jeœli to wyci¹gnê.
+{52471}{52566}Myœl o tym jak o ozdobie.
+{53275}{53320}Naprawione.
+{57152}{57206}Znów to zrobi³eœ.
+{57226}{57277}Od³o¿enie s³uchawki nic ci nie da.
+{57279}{57353}Wiem o tobie wszystko.
+{57375}{57448}Nie uciekniesz przede mn¹.
+{57477}{57580}Zdychaj metalowa bestio! Zdychaj! Giñ!
+{59141}{59261}Nic ci nie jest? W porz¹dku? Czy ty...
+{59803}{59913}On nas obserwuje! Patrzy...
+{60676}{60763}Kochanie, on na nas patrzy.
+{67549}{67632}Niewiarygodne!|Nie umar³eœ!
+{67761}{67787}Dawno siê nie widzieliœmy...
+{67914}{67983}Nied³ugo nawet twój mózg...
+{67971}{68032}obróci sie w metal.
+{68035}{68107}Pozwól, ¿e poka¿e ci coœ naprawdê ciekawego...
+{68108}{68134}nowy swiat!
+{71784}{71807}No chodŸ!
+{71863}{71927}Hej, no dalej!
+{72276}{72313}Dalej!
+{75609}{75651}Hej, synu...
+{76102}{76128}Nie...
+{76707}{76770}Nie... nie... nie!
+{76772}{76857}Nie... nie... nie... nie!
+{76860}{76900}Nie... nie!
+{76903}{76968}Nie... nie... nie!
+{76970}{77024}Nie... nie!
+{77510}{77639}Nie... nie!
+{84461}{84486}Dalej!
+{84705}{84772}Widzisz ca³¹ t¹ rdzê na moim ciele?
+{84799}{84871}Mój metalowy implant by³ zardzewia³y...
+{84872}{84959}rdza po³¹czy³a siê z komórkami.
+{84998}{85072}Metalowa golarka, której u¿y³eœ...
+{85074}{85136}by³a nowa i niezardzewia³a.
+{85348}{85395}Wykoñczê ciê!
+{85665}{85772}Nie. Nie...
+{86096}{86144}Pierdol siê!
+{86146}{86235}Lepiej, gdybyœ by³ ¿a³osnym kawa³kiem metalu...
+{86255}{86311}przez resztê ¿ycia.
+{86979}{87032}Cholera! Chcesz zardzewieæ na œmieræ?
+{87192}{87286}Przestañ!
+{92565}{92672}Czujê siê wspaniale!
+{92714}{92792}A gdyby zamieniæ w metal ca³y œwiat?
+{92792}{92851}Ty i ja.
+{92880}{92909}Pewnie.
+{92911}{92984}Mo¿emy ca³y œwiat pokryæ rdz¹...
+{92986}{93060}i rozbiæ go w kosmiczny py³.
+{93089}{93139}Brzmi nieŸle.
+{93275}{93397}Nasza mi³oœæ po³o¿y kres tej pieprzonej planecie.
+{93457}{93550}Rozwalmy ich!
+{95109}{95169}Wyst¹pili:
+{95192}{95215}Mê¿czyzna ... Tomorowo Taguchi
+{95216}{95234}Kobieta ...  Kei Fujiwara
+{95235}{95256}Kobieta w okularach ... Nobu Kanaoka
+{95256}{95277}Fetyszysta ... Shinya Tsukamoto.
+{95293}{95318}Doktor ... Naomasa Musaka
+{95336}{95367}W³óczêga: Renji Ishibashi
+{95435}{95516}Scenariusz, dekoracje, monta¿,|efekty specjalne ... Shinya Tsukamoto
+{95516}{95546}Kostiumy ... Kei Fujiwara
+{95554}{95592}Zdjêcia: ... Shinya Tsukamoto, Kei Fujiwara
+{95592}{95616}Muzyka ... Chu Ishikawa
+{95617}{95654}Interpretacja ... Mitsuhiro Ozaki
+{95654}{95754}DŸwiêk ... Asahi Sound Studio
+{96369}{96438}Re¿yseria ... Shinya Tsukamoto
+{96688}{96740}KONIEC GRY
+{96818}{96961}Pierwsze wydanie kinowe (c) 1992 Kaijyu Theatre
+
+
