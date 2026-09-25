@@ -72,21 +72,21 @@ Tom?
 
 18
 00:02:12,666 --> 00:02:14,125
-W North Caldwell
+<i>W North Caldwell</i>
 
 19
 00:02:14,208 --> 00:02:19,208
-w wyniku wybuchu przesłanej do domu bomby
+{\an8}w wyniku wybuchu przesłanej do domu bomby
 zginął w sobotę menedżer ds. reklamy.
 
 20
 00:02:19,291 --> 00:02:24,000
-Władze nie znają motywu zamachu,
-którego ofiarą padł 50-letni Tom Mosser.
+{\an8}<i>Władze nie znają motywu zamachu,</i>
+<i>którego ofiarą padł 50-letni Tom Mosser.</i>
 
 21
 00:02:24,083 --> 00:02:27,666
-Władze podejrzewają tzw. Unabombera,
+{\an8}Władze podejrzewają tzw. Unabombera,
 
 22
 00:02:27,750 --> 00:02:30,916
@@ -95,31 +95,31 @@ w ciągu ostatnich 16 lat.
 
 23
 00:02:31,000 --> 00:02:35,166
-W 15 atakach zginęły dwie osoby,
-a 23 zostały ranne.
+<i>W 15 atakach zginęły dwie osoby,</i>
+<i>a 23 zostały ranne.</i>
 
 24
 00:02:35,250 --> 00:02:38,166
-Celem Unabombera
-często były linie lotnicze,
+<i>Celem Unabombera</i>
+<i>często były linie lotnicze,</i>
 
 25
 00:02:38,250 --> 00:02:40,541
-sklepy komputerowe, a nawet uczelnie.
+<i>sklepy komputerowe, a nawet uczelnie.</i>
 
 26
 00:02:40,625 --> 00:02:41,875
-Eksperci uważają,
+<i>Eksperci uważają,</i>
 
 27
 00:02:41,958 --> 00:02:45,625
-że za wszystkie zamachy od 1978 roku
-odpowiada ta sama osoba.
+<i>że za wszystkie zamachy od 1978 roku</i>
+<i>odpowiada ta sama osoba.</i>
 
 28
 00:02:45,708 --> 00:02:50,041
-Każdy z nich był wymierzony
-w pracowników sektora nauki i technologii.
+<i>Każdy z nich był wymierzony</i>
+<i>w pracowników sektora nauki i technologii.</i>
 
 29
 00:03:00,250 --> 00:03:03,625
@@ -132,7 +132,7 @@ I JEGO PRZYSZŁOŚĆ
 
 31
 00:03:07,416 --> 00:03:10,541
-- Jo, jesteś na pozycji?
+<i>- Jo, jesteś na pozycji?</i>
 - Zwarta i gotowa.
 
 32
@@ -145,7 +145,7 @@ Na Piątej 75.
 
 34
 00:03:16,333 --> 00:03:20,208
-Ponoć wybraliśmy The Post,
+Ponoć wybraliśmy <i>The Post</i>,
 bo nikt w San Francisco go nie czyta.
 
 35
@@ -154,42 +154,42 @@ Dzisiaj czytają.
 
 36
 00:03:22,416 --> 00:03:25,666
-The Washington Post i The New York Times
+<i>The Washington Post </i>i <i>The New York Times</i>
 
 37
 00:03:25,750 --> 00:03:28,833
-opublikowały dziś manifest Unabombera.
+<i>opublikowały dziś manifest Unabombera.</i>
 
 38
 00:03:28,916 --> 00:03:33,458
-Zamachowiec nazwał go „Społeczeństwo
-przemysłowe i jego przyszłość”.
+<i>Zamachowiec nazwał go „Społeczeństwo</i>
+<i>przemysłowe i jego przyszłość”.</i>
 
 39
 00:03:33,541 --> 00:03:37,625
-Wzywa w nim do buntu
-przeciwko „systemowi przemysłowemu”.
+<i>Wzywa w nim do buntu</i>
+<i>przeciwko „systemowi przemysłowemu”.</i>
 
 40
 00:03:37,708 --> 00:03:39,833
-Wydawca Timesa napisał:
+{\an8}Wydawca <i>Timesa </i>napisał:
 
 41
 00:03:39,916 --> 00:03:43,208
-„Oddajemy nasze strony człowiekowi,
+{\an8}„Oddajemy nasze strony człowiekowi,
 który zabijał ludzi.
 
 42
 00:03:43,291 --> 00:03:45,708
-Ale jestem pewny, że to słuszna decyzja”.
+<i>Ale jestem pewny, że to słuszna decyzja”.</i>
 
 43
 00:03:45,791 --> 00:03:48,583
-Co z zarzutami, że FBI ulega terroryście?
+<i>Co z zarzutami, że FBI ulega terroryście?</i>
 
 44
 00:03:49,416 --> 00:03:52,958
-Robimy, co w naszej mocy,
+{\an8}Robimy, co w naszej mocy,
 by złapać tego mordercę.
 
 45
@@ -262,8 +262,8 @@ Stul pysk.
 
 61
 00:05:06,208 --> 00:05:09,666
-Ewakuować wszystkich z 5. ulicy.
-Saperzy w gotowości.
+<i>Ewakuować wszystkich z 5. ulicy.</i>
+<i>Saperzy w gotowości.</i>
 
 62
 00:05:09,750 --> 00:05:10,958
@@ -402,11 +402,11 @@ i zacząć od nowa?
 
 93
 00:07:15,916 --> 00:07:17,583
-KOLEGIUM HARVARDA
+{\an8}KOLEGIUM HARVARDA
 
 94
 00:07:17,666 --> 00:07:21,500
-W książce Hermana Melville’a, Moby Dick,
+{\an8}W książce Hermana Melville’a, <i>Moby Dick</i>,
 
 95
 00:07:21,583 --> 00:07:22,958
@@ -453,17 +453,17 @@ On nie widzi żadnych obrazów.
 
 105
 00:08:04,000 --> 00:08:05,958
-Widzi natomiast
+<i>Widzi natomiast</i>
 
 106
 00:08:06,750 --> 00:08:11,166
-bryłkę złota,
-za którą mógłby kupić tysiąc cygar.
+<i>bryłkę złota,</i>
+<i>za którą mógłby kupić tysiąc cygar.</i>
 
 107
 00:08:13,125 --> 00:08:17,083
 Pewnie zastanawiacie się:
-„Po cholerę gada o Mobym Dicku?
+„Po cholerę gada o <i>Mobym Dicku</i>?
 
 108
 00:08:17,166 --> 00:08:19,791
@@ -471,16 +471,16 @@ Przecież to zajęcia z psychologii”.
 
 109
 00:08:21,125 --> 00:08:24,916
-Za to możecie winić Hermana Melville’a.
+<i>Za to możecie winić Hermana Melville’a.</i>
 
 110
 00:08:25,000 --> 00:08:27,250
-Bo był takim geniuszem,
+<i>Bo był takim geniuszem,</i>
 
 111
 00:08:27,333 --> 00:08:33,291
-że nieświadomie stworzył
-najpotężniejsze narzędzie w psychologii.
+<i>że nieświadomie stworzył</i>
+<i>najpotężniejsze narzędzie w psychologii.</i>
 
 112
 00:08:33,375 --> 00:08:35,500
@@ -504,7 +504,7 @@ Ten chłopiec.
 
 117
 00:08:51,500 --> 00:08:53,875
-Czy ten chłopiec jest samotny?
+<i>Czy ten chłopiec jest samotny?</i>
 
 118
 00:08:53,958 --> 00:08:55,458
@@ -512,12 +512,12 @@ Czy coś mu grozi?
 
 119
 00:08:57,041 --> 00:09:00,500
-A może po prostu czeka,
-aż tata skończy pracę,
+<i>A może po prostu czeka,</i>
+<i>aż tata skończy pracę,</i>
 
 120
 00:09:00,583 --> 00:09:03,416
-żeby mogli pograć w piłkę na słońcu?
+<i>żeby mogli pograć w piłkę na słońcu?</i>
 
 121
 00:09:03,500 --> 00:09:04,833
@@ -525,11 +525,11 @@ STUDIA NAD OSOBOWOŚCIĄ
 
 122
 00:09:04,916 --> 00:09:06,541
-Analiza odpowiedzi
+<i>Analiza odpowiedzi</i>
 
 123
 00:09:07,333 --> 00:09:08,875
-pozwala nam określić,
+<i>pozwala nam określić,</i>
 
 124
 00:09:09,833 --> 00:09:11,875
@@ -609,7 +609,7 @@ To pytania do klubu dyskusyjnego.
 
 141
 00:10:19,875 --> 00:10:21,375
-Przepraszam, to…
+<i>Przepraszam, to…</i>
 
 142
 00:10:21,458 --> 00:10:23,958
@@ -833,7 +833,7 @@ Będzie z tym jakiś problem?
 
 195
 00:13:44,875 --> 00:13:46,625
-Wykluczone.
+<i>Wykluczone.</i>
 
 196
 00:13:46,708 --> 00:13:48,375
@@ -846,8 +846,8 @@ Powinieneś się uczyć,
 
 198
 00:13:51,875 --> 00:13:55,041
-a nie marnować czas
-na te filozoficzne bzdury.
+<i>a nie marnować czas</i>
+<i>na te filozoficzne bzdury.</i>
 
 199
 00:13:55,125 --> 00:13:57,708
@@ -867,12 +867,12 @@ Ważne są pieniądze.
 
 203
 00:14:04,416 --> 00:14:06,875
-Z dyplomem z Harvardu i dobrymi ocenami…
+<i>Z dyplomem z Harvardu i dobrymi ocenami…</i>
 
 204
 00:14:06,958 --> 00:14:09,041
 - Tato…
-- Nie! Dość tego.
+<i>- Nie! Dość tego.</i>
 
 205
 00:14:14,958 --> 00:14:16,541
@@ -880,7 +880,7 @@ Przykro mi, kochanie.
 
 206
 00:14:16,625 --> 00:14:19,250
-Ojciec ma dziś zły humor.
+<i>Ojciec ma dziś zły humor.</i>
 
 207
 00:14:19,333 --> 00:14:20,916
@@ -901,11 +901,11 @@ Brat chce z tobą porozmawiać.
 
 211
 00:14:34,250 --> 00:14:35,083
-Cześć, Teddy!
+<i>Cześć, Teddy!</i>
 
 212
 00:14:36,375 --> 00:14:38,291
-Dobrze się bawisz w szkole?
+<i>Dobrze się bawisz w szkole?</i>
 
 213
 00:14:38,791 --> 00:14:41,333
@@ -940,8 +940,8 @@ do nauki przedmiotów, których nienawidzą”.
 
 220
 00:15:06,666 --> 00:15:10,458
-Chcę listę wszystkich uczniów Sylvan
-z lat 1950-1970.
+<i>Chcę listę wszystkich uczniów Sylvan</i>
+<i>z lat 1950-1970.</i>
 
 221
 00:15:10,541 --> 00:15:12,833
@@ -949,7 +949,7 @@ Wpadniesz do biura, żeby to sprawdzić?
 
 222
 00:15:12,916 --> 00:15:15,666
-Jest sobota. Dzieciaki mają mecz.
+<i>Jest sobota. Dzieciaki mają mecz.</i>
 
 223
 00:15:16,958 --> 00:15:17,791
@@ -965,8 +965,8 @@ Gorąca linia zespołu UNABOM.
 
 226
 00:15:35,375 --> 00:15:39,333
-Dzień dobry, tu agentka Tess Vu.
-Dzwonię z centrali w Waszyngtonie.
+<i>Dzień dobry, tu agentka Tess Vu.</i>
+<i>Dzwonię z centrali w Waszyngtonie.</i>
 
 227
 00:15:40,083 --> 00:15:41,166
@@ -1000,7 +1000,7 @@ ZGNIŁA RODZINA ZAWSZE ZEPSUTA
 
 234
 00:16:16,125 --> 00:16:18,333
-Do Waszyngtonu zadzwonił informator.
+<i>Do Waszyngtonu zadzwonił informator.</i>
 
 235
 00:16:18,416 --> 00:16:21,875
@@ -1022,7 +1022,7 @@ Archaiczne zwroty, temat, gramatyka…
 
 239
 00:16:32,125 --> 00:16:34,041
-Może zadzwonimy do Penthouse’a?
+Może zadzwonimy do <i>Penthouse’a</i>?
 
 240
 00:16:34,125 --> 00:16:36,083
@@ -1757,8 +1757,8 @@ najgroźniejszego przestępcę w Ameryce.
 
 409
 00:27:44,416 --> 00:27:47,541
-Swoją ostatnią ofiarę
-zabił zaledwie miesiąc temu.
+<i>Swoją ostatnią ofiarę</i>
+<i>zabił zaledwie miesiąc temu.</i>
 
 410
 00:27:47,625 --> 00:27:52,625
@@ -1767,7 +1767,7 @@ przed potencjalnie zabójczymi przesyłkami.
 
 411
 00:27:52,708 --> 00:27:54,291
-To koc antyodłamkowy.
+{\an8}To koc antyodłamkowy.
 
 412
 00:27:54,375 --> 00:27:58,250
@@ -1779,12 +1779,12 @@ Koc stłumi wybuch.
 
 414
 00:28:00,500 --> 00:28:03,833
-By pokazać siłę bomb,
-śledczy skonstruowali replikę
+<i>By pokazać siłę bomb,</i>
+<i>śledczy skonstruowali replikę</i>
 
 415
 00:28:03,916 --> 00:28:05,916
-o podobnej mocy.
+<i>o podobnej mocy.</i>
 
 416
 00:28:10,958 --> 00:28:15,125
@@ -2022,7 +2022,7 @@ Kiedy zacznie się walka, nie poddawaj się.
 
 471
 00:31:25,000 --> 00:31:26,916
-Gotowy na drugą rundę, Kemosabe?
+Gotowy na drugą rundę, <i>Kemosabe</i>?
 
 472
 00:31:28,041 --> 00:31:31,541
@@ -2091,7 +2091,7 @@ Mówię o tobie.
 
 487
 00:32:27,416 --> 00:32:29,333
-Czytałeś Scientific American?
+Czytałeś <i>Scientific American</i>?
 
 488
 00:32:29,416 --> 00:32:30,750
@@ -2530,16 +2530,16 @@ Lincoln.
 
 587
 00:39:10,833 --> 00:39:13,041
-Dean Kaplan, zostaw wiadomość.
+<i>Dean Kaplan, zostaw wiadomość.</i>
 
 588
 00:39:14,375 --> 00:39:17,083
-Kap, przepraszam, że się uniosłam.
+<i>Kap, przepraszam, że się uniosłam.</i>
 
 589
 00:39:17,708 --> 00:39:22,041
-Wezmę kilka dni wolnego.
-Może spędzę trochę czasu na łonie natury.
+<i>Wezmę kilka dni wolnego.</i>
+<i>Może spędzę trochę czasu na łonie natury.</i>
 
 590
 00:39:51,500 --> 00:39:55,958
@@ -2547,7 +2547,7 @@ POSTERUNEK STRAŻY LEŚNEJ
 
 591
 00:40:02,125 --> 00:40:03,375
-Dziwny facet.
+<i>Dziwny facet.</i>
 
 592
 00:40:03,458 --> 00:40:07,125
@@ -3234,7 +3234,7 @@ Jaki to był film? „Oni już tu są!”
 
 753
 00:57:28,791 --> 00:57:32,458
-Inwazja porywaczy ciał.
+<i>Inwazja porywaczy ciał.</i>
 Właśnie. Jesteś jednym z nich.
 
 754
@@ -3247,25 +3247,25 @@ O czym ty mówisz?
 
 756
 00:57:47,583 --> 00:57:49,916
-Dotknęła mnie. Miała otwarte usta.
+<i>Dotknęła mnie. Miała otwarte usta.</i>
 
 757
 00:57:52,166 --> 00:57:54,791
-To nie było dobre ani złe, po prostu…
+<i>To nie było dobre ani złe, po prostu…</i>
 
 758
 00:57:55,333 --> 00:57:56,625
-Po prostu czułem…
+<i>Po prostu czułem…</i>
 
 759
 00:57:57,500 --> 00:58:00,708
-że nie należymy nawet
-do tego samego gatunku.
+<i>że nie należymy nawet</i>
+<i>do tego samego gatunku.</i>
 
 760
 00:58:01,375 --> 00:58:04,500
-Jakby ona była człowiekiem,
-a ja Marsjaninem.
+<i>Jakby ona była człowiekiem,</i>
+<i>a ja Marsjaninem.</i>
 
 761
 00:58:04,583 --> 00:58:06,000
@@ -3285,19 +3285,19 @@ Dalej jest lepiej.
 
 765
 00:58:16,958 --> 00:58:19,375
-Czasem czuję, że nigdzie nie pasuję.
+<i>Czasem czuję, że nigdzie nie pasuję.</i>
 
 766
 00:58:20,041 --> 00:58:22,833
-Ani do rodziny, ani do rówieśników.
+<i>Ani do rodziny, ani do rówieśników.</i>
 
 767
 00:58:24,125 --> 00:58:26,541
-Nawet do tego parszywego ciała.
+<i>Nawet do tego parszywego ciała.</i>
 
 768
 00:58:27,791 --> 00:58:29,708
-Chyba coś jest ze mną nie tak.
+<i>Chyba coś jest ze mną nie tak.</i>
 
 769
 00:58:29,791 --> 00:58:31,833
@@ -3751,13 +3751,13 @@ Muszę gdzieś zadzwonić.
 
 876
 01:07:23,958 --> 01:07:25,333
-- Mówi Kaplan.
+<i>- Mówi Kaplan.</i>
 - Kap.
 
 877
 01:07:26,500 --> 01:07:29,583
 - Mam go.
-- Nie mów, że szukałaś Kaczynskiego.
+<i>- Nie mów, że szukałaś Kaczynskiego.</i>
 
 878
 01:07:29,666 --> 01:07:33,541
@@ -3770,7 +3770,7 @@ To brudnopis.
 
 880
 01:07:36,166 --> 01:07:37,541
-Czego?
+<i>Czego?</i>
 
 881
 01:07:39,833 --> 01:07:41,791
@@ -4071,8 +4071,8 @@ Puszczą to za godzinę.
 
 950
 01:13:57,375 --> 01:14:01,833
-Ludzie mają prawo wiedzieć.
-To najdroższe śledztwo w historii USA.
+<i>Ludzie mają prawo wiedzieć.</i>
+<i>To najdroższe śledztwo w historii USA.</i>
 
 951
 01:14:01,916 --> 01:14:04,708
@@ -4090,12 +4090,12 @@ dziesiątek agentów federalnych.
 
 954
 01:14:13,750 --> 01:14:17,375
-Rząd USA nie dyktuje nam,
-o czym mamy informować.
+<i>Rząd USA nie dyktuje nam,</i>
+<i>o czym mamy informować.</i>
 
 955
 01:14:17,458 --> 01:14:18,875
-- Puszczamy to.
+<i>- Puszczamy to.</i>
 - Chwila.
 
 956
@@ -4109,8 +4109,8 @@ Coś lepszego.
 
 958
 01:14:24,916 --> 01:14:27,458
-Co może być lepsze
-niż nazwisko Unabombera?
+<i>Co może być lepsze</i>
+<i>niż nazwisko Unabombera?</i>
 
 959
 01:14:28,833 --> 01:14:30,208
@@ -4118,7 +4118,7 @@ To, jak go znaleźliśmy.
 
 960
 01:14:32,708 --> 01:14:34,000
-Potrzebuję więcej.
+<i>Potrzebuję więcej.</i>
 
 961
 01:14:39,333 --> 01:14:41,208
@@ -4131,8 +4131,8 @@ musimy zawrzeć umowę.
 
 963
 01:14:45,583 --> 01:14:49,541
-Jeśli to faktycznie takie dobre,
-to nie ma sprawy. Macie moje słowo.
+<i>Jeśli to faktycznie takie dobre,</i>
+<i>to nie ma sprawy. Macie moje słowo.</i>
 
 964
 01:14:52,166 --> 01:14:53,708
@@ -4148,8 +4148,8 @@ Umowa stoi?
 
 967
 01:15:00,833 --> 01:15:04,166
-Damy wam czas do końca dnia.
-Potem musimy to puścić.
+<i>Damy wam czas do końca dnia.</i>
+<i>Potem musimy to puścić.</i>
 
 968
 01:15:11,375 --> 01:15:13,333
@@ -4190,12 +4190,12 @@ badali tajemnice ludzkiego umysłu.
 
 977
 01:17:18,458 --> 01:17:20,958
-Nazywali go phren.
+Nazywali go <i>phren</i>.
 
 978
 01:17:22,125 --> 01:17:25,083
 Jeśli był złamany albo rozdwojony,
-mówili schizo.
+mówili <i>schizo</i>.
 
 979
 01:17:26,375 --> 01:17:30,958
@@ -4253,17 +4253,17 @@ jest radykalna zmiana zachowania.
 
 991
 01:18:18,625 --> 01:18:19,666
-Nie skończyłem.
+<i>Nie skończyłem.</i>
 
 992
 01:18:19,750 --> 01:18:22,166
-- Ludzie to istoty społeczne.
-- Do rzeczy.
+<i>- Ludzie to istoty społeczne.</i>
+<i>- Do rzeczy.</i>
 
 993
 01:18:22,250 --> 01:18:25,208
-- Łamie pan zasady.
-- Do rzeczy, debilu!
+<i>- Łamie pan zasady.</i>
+<i>- Do rzeczy, debilu!</i>
 
 994
 01:18:27,875 --> 01:18:29,500
@@ -4283,12 +4283,12 @@ A on?
 
 998
 01:18:38,083 --> 01:18:39,791
-Jesteś niewolnikiem zasad!
+<i>Jesteś niewolnikiem zasad!</i>
 
 999
 01:18:39,875 --> 01:18:43,291
-Szwankującym trybikiem
-w autorytarnej maszynie!
+<i>Szwankującym trybikiem</i>
+<i>w autorytarnej maszynie!</i>
 
 1000
 01:18:46,250 --> 01:18:49,041
@@ -4301,15 +4301,15 @@ To wtedy, gdy pacjent czuje,
 
 1002
 01:18:56,708 --> 01:18:59,666
-Jednostka powinna unikać społeczeństwa?
+<i>Jednostka powinna unikać społeczeństwa?</i>
 
 1003
 01:18:59,750 --> 01:19:02,583
-Skąd ty bierzesz te pomysły?
+<i>Skąd ty bierzesz te pomysły?</i>
 
 1004
 01:19:04,541 --> 01:19:05,875
-Spadają z nieba.
+<i>Spadają z nieba.</i>
 
 1005
 01:19:09,708 --> 01:19:12,375
@@ -4331,29 +4331,29 @@ ma specjalne znaczenie.
 
 1009
 01:19:22,041 --> 01:19:25,791
-Uczymy dzieci matematyki,
-choć nie chcą się jej uczyć. Dlaczego?
+<i>Uczymy dzieci matematyki,</i>
+<i>choć nie chcą się jej uczyć. Dlaczego?</i>
 
 1010
 01:19:25,875 --> 01:19:29,041
-Bo potrzeba nam więcej techników.
+<i>Bo potrzeba nam więcej techników.</i>
 
 1011
 01:19:29,625 --> 01:19:31,958
-Czemu każą nam mieszkać w akademikach?
+<i>Czemu każą nam mieszkać w akademikach?</i>
 
 1012
 01:19:32,041 --> 01:19:35,458
-Żebyśmy czuli się swobodnie
-wciśnięci do fabryki.
+<i>Żebyśmy czuli się swobodnie</i>
+<i>wciśnięci do fabryki.</i>
 
 1013
 01:19:35,541 --> 01:19:37,250
-A jeśli tego nie widzisz,
+<i>A jeśli tego nie widzisz,</i>
 
 1014
 01:19:38,083 --> 01:19:40,500
-to chyba znaczy, że jestem wyjątkowy.
+<i>to chyba znaczy, że jestem wyjątkowy.</i>
 
 1015
 01:19:45,625 --> 01:19:48,083
@@ -4501,7 +4501,7 @@ Ted, jesteś tam?
 
 1048
 01:22:40,208 --> 01:22:43,291
-Dlaczego więc nauka nas nie uszczęśliwia?
+<i>Dlaczego więc nauka nas nie uszczęśliwia?</i>
 
 1049
 01:22:43,375 --> 01:22:45,458
@@ -4600,7 +4600,7 @@ Ręce za plecy.
 
 1071
 01:24:08,291 --> 01:24:09,291
-Przydaje się pan,
+<i>Przydaje się pan,</i>
 
 1072
 01:24:09,375 --> 01:24:12,583
@@ -4886,51 +4886,51 @@ TED KACZYNSKI POPEŁNIŁ SAMOBÓJSTWO W 2023.
 
 1137
 01:31:29,416 --> 01:31:30,750
-Ted: To się nagrywa?
+{\an8}<i>Ted: To się nagrywa?</i>
 
 1138
 01:31:30,833 --> 01:31:32,083
-- Tak.
-- Ted: Dobrze.
+{\an8}<i>- Tak.</i>
+<i>- Ted: Dobrze.</i>
 
 1139
 01:31:33,458 --> 01:31:36,250
-- Porozmawiamy nieoficjalnie?
-- Ted: Słucham?
+{\an8}<i>- Porozmawiamy nieoficjalnie?</i>
+<i>- Ted: Słucham?</i>
 
 1140
 01:31:36,333 --> 01:31:40,208
-- Mam wyłączyć nagrywanie?
-- Ted: Nie, nie trzeba.
+{\an8}<i>- Mam wyłączyć nagrywanie?</i>
+<i>- Ted: Nie, nie trzeba.</i>
 
 1141
 01:31:40,291 --> 01:31:43,083
-Ted: Dostaję listy od ludzi,
+{\an8}<i>Ted: Dostaję listy od ludzi,</i>
 
 1142
 01:31:43,166 --> 01:31:47,291
-którzy uważają mnie
-za jakąś kultową postać.
+{\an8}<i>którzy uważają mnie</i>
+<i>za jakąś kultową postać.</i>
 
 1143
 01:31:47,375 --> 01:31:53,625
-Osobiście wolę, by przedstawiano mnie
-w prawdziwym świetle.
+{\an8}<i>Osobiście wolę, by przedstawiano mnie</i>
+<i>w prawdziwym świetle.</i>
 
 1144
 01:31:53,708 --> 01:32:00,166
-Jeśli mogę być symbolem
-promującym działalność rewolucyjną,
+{\an8}<i>Jeśli mogę być symbolem</i>
+<i>promującym działalność rewolucyjną,</i>
 
 1145
 01:32:00,250 --> 01:32:05,583
-to dobrze, bo moim zdaniem
-najważniejsza jest likwidacja
+{\an8}<i>to dobrze, bo moim zdaniem</i>
+<i>najważniejsza jest likwidacja</i>
 
 1146
 01:32:05,666 --> 01:32:08,916
-systemu przemysłowego
-wszelkimi niezbędnymi środkami.
+{\an8}<i>systemu przemysłowego</i>
+<i>wszelkimi niezbędnymi środkami.</i>
 
 1147
 01:37:34,708 --> 01:37:39,708
