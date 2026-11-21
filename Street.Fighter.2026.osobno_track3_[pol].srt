@@ -1,0 +1,4849 @@
+﻿1
+00:01:09,120 --> 00:01:10,944
+Ryu! Znalazłem cię!
+
+2
+00:01:11,365 --> 00:01:12,365
+Wszystko gra?
+
+3
+00:01:13,454 --> 00:01:14,976
+Tak, nic mi nie jest.
+
+4
+00:01:15,060 --> 00:01:16,824
+Czego słuchasz? Oddawaj!
+
+5
+00:01:16,908 --> 00:01:17,643
+Nie, nie!
+
+6
+00:01:17,727 --> 00:01:20,100
+Co z tobą, Ken?
+
+7
+00:01:20,188 --> 00:01:21,573
+Zobaczmy, co mamy.
+
+8
+00:01:23,854 --> 00:01:25,798
+Żartujesz?
+
+9
+00:01:26,270 --> 00:01:29,990
+Zaraz walczysz z Sagatem o mistrzostwo
+świata, a słuchasz tego?
+
+10
+00:01:30,074 --> 00:01:32,001
+Tak, Ken. Lubię tę piosenkę.
+
+11
+00:01:32,085 --> 00:01:33,685
+Uspokaja mnie.
+
+12
+00:01:33,790 --> 00:01:35,482
+Właśnie w tym problem.
+
+13
+00:01:35,773 --> 00:01:37,061
+Wystarczy, Ken!
+
+14
+00:01:38,038 --> 00:01:39,038
+Oto i on.
+
+15
+00:01:39,721 --> 00:01:42,064
+Lekkomyślny głupcze.
+
+16
+00:01:42,148 --> 00:01:43,035
+Hej.
+
+17
+00:01:43,119 --> 00:01:45,481
+Życie to walka.
+
+18
+00:01:45,565 --> 00:01:47,994
+Walka to życie.
+
+19
+00:02:03,399 --> 00:02:05,877
+Dawaj, Ryu, dasz radę!
+
+20
+00:02:06,280 --> 00:02:08,049
+Prawda, mistrzu Gouken?
+
+21
+00:02:55,097 --> 00:02:57,559
+Mroczne Hado, Ryu.
+
+22
+00:02:57,643 --> 00:02:59,181
+Nie poddawaj mu się.
+
+23
+00:03:16,257 --> 00:03:18,317
+Co? Stawimy czoła!
+
+24
+00:03:31,954 --> 00:03:34,760
+Wygramy tę walkę!
+
+25
+00:03:42,231 --> 00:03:44,760
+Co to było, mistrzu?
+
+26
+00:03:45,420 --> 00:03:46,497
+Ciemność, Ken.
+
+27
+00:03:46,801 --> 00:03:49,063
+Przebudziło się wielkie zagrożenie.
+
+28
+00:03:49,147 --> 00:03:50,526
+Wyczuwam je.
+
+29
+00:03:51,156 --> 00:03:54,671
+Wiem, że boli cię,
+że nie zaproszono cię do walki,
+
+30
+00:03:54,755 --> 00:03:58,063
+ale wielkość nie zawsze
+rodzi się na ringu.
+
+31
+00:03:58,759 --> 00:04:00,913
+Czeka cię większe powołanie.
+
+32
+00:04:01,832 --> 00:04:03,909
+Masz chronić swojego brata.
+
+33
+00:04:04,553 --> 00:04:06,160
+Mam go chronić?
+
+34
+00:04:06,244 --> 00:04:10,971
+To najlepszy wojownik na świecie.
+Przed czym miałbym go chronić?
+
+35
+00:04:11,055 --> 00:04:13,020
+Przed nim samym.
+
+36
+00:04:15,387 --> 00:04:18,154
+Ryu, przebudź się.
+
+37
+00:04:21,864 --> 00:04:23,229
+Runda pierwsza.
+
+38
+00:04:32,956 --> 00:04:36,874
+Minęło sześć lat od pierwszego
+Turnieju Wojowników Świata,
+
+39
+00:04:36,958 --> 00:04:40,830
+w którym debiutant Ryu
+zapisał się w historii.
+
+40
+00:04:42,080 --> 00:04:46,312
+Ale opowieść o Ryu
+nie byłaby pełna bez Kena,
+
+41
+00:04:46,787 --> 00:04:50,884
+najlepszego przyjaciela z dzieciństwa
+i partnera treningowego.
+
+42
+00:04:50,968 --> 00:04:54,767
+U szczytu formy wróżono im
+przyszłość w świecie walki.
+
+43
+00:04:54,851 --> 00:04:57,335
+Ryu wyrósł z tragedii i mroku.
+
+44
+00:04:57,579 --> 00:05:01,185
+Jako małe dziecko stracił
+rodziców i został sierotą.
+
+45
+00:05:01,269 --> 00:05:03,913
+Ken został porzucony w inny sposób.
+
+46
+00:05:03,997 --> 00:05:08,342
+Urodzony w bogactwie i uprzywilejowany,
+Ken ciągle pakował się w kłopoty.
+
+47
+00:05:08,426 --> 00:05:10,893
+Po wyrzuceniu z niezliczonych internatów
+
+48
+00:05:10,977 --> 00:05:14,039
+rodzina wysłała go do Japonii.
+
+49
+00:05:14,604 --> 00:05:17,681
+Tam mistrz Gouken przygarnął Kena i Ryu,
+
+50
+00:05:18,008 --> 00:05:21,678
+wychował tych zagubionych
+chłopców jak własne dzieci
+
+51
+00:05:21,762 --> 00:05:24,900
+i stali się prawdziwymi,
+nierozłącznymi braćmi.
+
+52
+00:05:24,984 --> 00:05:28,446
+Ciężko trenowali i jeszcze
+ciężej się bawili.
+
+53
+00:05:31,327 --> 00:05:32,327
+Zaraz umrę!
+
+54
+00:05:32,572 --> 00:05:35,301
+Złaź ze mnie! Żartujesz sobie?
+
+55
+00:05:35,498 --> 00:05:36,912
+Złaź ze mnie!
+
+56
+00:05:37,673 --> 00:05:39,265
+Mogę to sobie zatrzymać?
+
+57
+00:05:39,349 --> 00:05:44,936
+Ach, młodość! Lecz krótko po tym, jak Ryu
+został mistrzem świata, nadeszła tragedia.
+
+58
+00:05:45,020 --> 00:05:47,787
+Znaleziono ciało zamordowanego
+mistrza Goukena.
+
+59
+00:05:47,871 --> 00:05:50,748
+Ten wstrząs rozdzielił chłopców na dobre.
+
+60
+00:05:50,832 --> 00:05:53,417
+Przenieśmy się do roku 1993.
+
+61
+00:05:53,501 --> 00:05:56,651
+Ryu zniknął z życia publicznego,
+a Ken stał się
+
+62
+00:05:56,735 --> 00:05:59,398
+showmanem żądnym sławy, lekceważonym.
+
+63
+00:05:59,482 --> 00:06:02,529
+- Dan!
+- Nie mówiłem, żebyś wyłączył to gówno?
+
+64
+00:06:02,613 --> 00:06:05,239
+Spokojnie!
+
+65
+00:06:05,373 --> 00:06:08,732
+- Spokojnie. Zamknij się, Dan!
+- Dobra, głęboki wdech. Jeszcze raz.
+
+66
+00:06:08,816 --> 00:06:09,816
+Usiądź.
+
+67
+00:06:10,434 --> 00:06:11,417
+Chodź tu.
+
+68
+00:06:11,501 --> 00:06:13,278
+Proszę usiąść.
+
+69
+00:06:13,362 --> 00:06:15,285
+Spokojnie. Nie, nie, nie!
+
+70
+00:06:15,672 --> 00:06:17,883
+Daj mu spokój, dobra?
+
+71
+00:06:18,207 --> 00:06:20,322
+Pamiętasz, kim jesteś?
+
+72
+00:06:21,143 --> 00:06:24,187
+Jesteś Kenem Mastersem,
+najlepszym mistrzem walki.
+
+73
+00:06:24,271 --> 00:06:26,738
+Hala jest wyprzedana, tłum
+
+74
+00:06:26,822 --> 00:06:30,574
+a tysiące gadżetów znikają z półek,
+
+75
+00:06:30,849 --> 00:06:33,445
+żeby tylko na ciebie popatrzeć.
+
+76
+00:06:33,962 --> 00:06:37,116
+Wiesz, dziś dzwonili do mnie z Taco Bell.
+
+77
+00:06:37,377 --> 00:06:41,648
+Chcą nazwać twoim imieniem
+własną Gordita Supreme.
+
+78
+00:06:43,570 --> 00:06:45,570
+Jesteś na szczycie, młody.
+
+79
+00:06:46,398 --> 00:06:47,860
+Ludzie cię kochają.
+
+80
+00:06:49,483 --> 00:06:50,483
+Naprawdę?
+
+81
+00:06:51,460 --> 00:06:54,680
+Jak to „naprawdę”?
+Właśnie skandują twoje imię.
+
+82
+00:06:54,764 --> 00:06:58,376
+Kochają cię, bo dajesz im to, czego chcą.
+
+83
+00:07:01,036 --> 00:07:03,095
+– Daję. – Nie dajesz im, czego chcą.
+
+84
+00:07:03,179 --> 00:07:07,410
+My dajemy ludziom to, czego
+chcą. Właśnie to im dajemy.
+
+85
+00:07:07,848 --> 00:07:09,934
+Oglądacie MTV.
+
+86
+00:07:10,282 --> 00:07:12,401
+Co? Jestem Kenem Mastersem.
+
+87
+00:07:12,489 --> 00:07:16,135
+Tak wygląda mój dzień.
+Te rzeczy są niebezpieczne.
+
+88
+00:07:16,219 --> 00:07:18,757
+Mam ich nie używać? Nie zarabiać?
+
+89
+00:07:21,730 --> 00:07:24,594
+Dan to mój najbliższy
+przyjaciel i menedżer.
+
+90
+00:07:24,678 --> 00:07:27,601
+Kto obstawia samochód, idioto? Głupek.
+
+91
+00:07:28,003 --> 00:07:32,113
+Bum! Co lepszego niż podbój
+świata z najlepszym przyjacielem?
+
+92
+00:07:34,410 --> 00:07:38,945
+Ken, wszyscy się zastanawiają,
+czy jeszcze kiedyś zawalczysz na serio.
+
+93
+00:07:39,029 --> 00:07:42,330
+Wszystkie moje walki są prawdziwe.
+Dlatego piję Joe Colę, mała.
+
+94
+00:07:42,414 --> 00:07:44,763
+W przyszłym tygodniu walczę z
+niedźwiedziem polarnym w zoo w San Diego.
+
+95
+00:07:44,847 --> 00:07:47,600
+- Nienawidzę niedźwiedzi!
+- Zawsze wybieram Duracell.
+
+96
+00:07:47,684 --> 00:07:50,299
+Jeśli będzie turniej, daj mi znać.
+
+97
+00:07:50,640 --> 00:07:51,648
+Wygrałeś!
+
+98
+00:08:00,689 --> 00:08:02,812
+Ale bolało.
+
+99
+00:08:03,883 --> 00:08:06,479
+Stary, spadamy.
+Ta impreza jest beznadziejna.
+
+100
+00:08:06,563 --> 00:08:09,466
+O czym ty mówisz? Jest zajebiście.
+To prawdziwy klub.
+
+101
+00:08:09,550 --> 00:08:11,888
+Chodźmy do Liquid.
+Z tyłu jest więcej piwa.
+
+102
+00:08:11,972 --> 00:08:14,342
+Co jest? No chodź.
+
+103
+00:08:14,426 --> 00:08:17,195
+Serio, po co w ogóle tu przyszliśmy?
+
+104
+00:08:30,742 --> 00:08:35,740
+Petrus! No! Wystrzel mnie w kosmos!
+
+105
+00:08:38,262 --> 00:08:41,956
+Dawaj, Ken, zróbmy to.
+
+106
+00:08:51,362 --> 00:08:53,772
+Co się dzieje?
+
+107
+00:09:03,682 --> 00:09:05,332
+Śpij dobrze, młody.
+
+108
+00:09:38,582 --> 00:09:41,074
+To wciąż za mało.
+
+109
+00:09:41,158 --> 00:09:42,158
+Mój panie!
+
+110
+00:09:44,256 --> 00:09:47,256
+Przynajmniej lepiej niż ostatnim razem.
+
+111
+00:09:50,921 --> 00:09:52,152
+Popatrz na mnie.
+
+112
+00:09:53,059 --> 00:09:54,323
+Jestem za mały.
+
+113
+00:09:56,110 --> 00:09:58,805
+Moje ciało jest słabe.
+
+114
+00:09:59,275 --> 00:10:04,734
+Musimy uwolnić pełnię mocy psychicznej.
+
+115
+00:10:04,818 --> 00:10:07,592
+Jak mam to zrobić z tą słabą kiełbasą?
+
+116
+00:10:07,676 --> 00:10:09,259
+Co to za energia, którą mnie pan karmi?
+
+117
+00:10:09,343 --> 00:10:14,728
+Mój panie, pozyskaliśmy ją od
+najsilniejszych ludzi w całym Metro Lao.
+
+118
+00:10:15,529 --> 00:10:21,184
+Wciąż ci powtarzam: sprowadź
+wojownika o najwyższej mocy.
+
+119
+00:10:23,470 --> 00:10:25,799
+Moc Hado.
+
+120
+00:10:26,881 --> 00:10:29,650
+Od dawna jej szukam. Potrzebuję jej.
+
+121
+00:10:30,277 --> 00:10:32,204
+Muszę go znaleźć.
+
+122
+00:10:33,240 --> 00:10:34,240
+Ryu.
+
+123
+00:10:38,047 --> 00:10:41,554
+On by się nadawał.
+
+124
+00:10:54,830 --> 00:10:55,830
+Nowy plan.
+
+125
+00:10:56,177 --> 00:10:59,157
+Nie, odłóż kij, Yuli.
+
+126
+00:10:59,314 --> 00:11:01,083
+Zastawimy małą pułapkę.
+
+127
+00:11:06,723 --> 00:11:09,569
+Obudźcie tego pieprzonego prezentera.
+
+128
+00:11:25,608 --> 00:11:27,650
+O nie, proszę!
+
+129
+00:11:27,734 --> 00:11:29,606
+Dopiero co odrosły mi paznokcie!
+
+130
+00:11:29,690 --> 00:11:31,767
+Masz szczęście, Don Savage.
+
+131
+00:11:32,001 --> 00:11:34,386
+Wybaczam ci to, co wygadywałeś.
+
+132
+00:11:34,698 --> 00:11:36,006
+O Boże, naprawdę?
+
+133
+00:11:36,679 --> 00:11:39,064
+Dziękuję! Pod jednym warunkiem.
+
+134
+00:11:39,255 --> 00:11:42,423
+Wszystko, pani Cammy! Ucałuję pani buty!
+
+135
+00:11:42,507 --> 00:11:44,045
+I jeszcze je wylizę!
+
+136
+00:11:47,985 --> 00:11:50,974
+Organizujemy turniej,
+żeby wyciągnąć Ryu z ukrycia.
+
+137
+00:11:51,058 --> 00:11:53,510
+Wracasz więc na antenę.
+
+138
+00:11:53,594 --> 00:11:55,270
+Masz scenariusz. Au!
+
+139
+00:11:55,470 --> 00:11:58,624
+Bierz się do roboty. Co jest, do cholery?
+
+140
+00:11:59,623 --> 00:12:02,330
+I żadnego ostrego ruchania.
+
+141
+00:12:05,362 --> 00:12:07,934
+Żadnego ostrego ruchania.
+
+142
+00:12:08,595 --> 00:12:10,540
+Tak jest, proszę pani.
+
+143
+00:12:14,189 --> 00:12:19,231
+Dobra, wróciłem! Oglądacie Combat News!
+
+144
+00:12:21,397 --> 00:12:26,408
+Na żywo: najświeższe i najlepsze
+wiadomości ze świata sportów walki.
+
+145
+00:12:26,492 --> 00:12:28,733
+Mogę... tylko dla jasności,
+
+146
+00:12:29,649 --> 00:12:31,111
+Bardzo przepraszam.
+
+147
+00:12:31,796 --> 00:12:37,177
+Lord Bison jest bardzo, bardzo
+męski i ma odpowiednio śmiały gust,
+
+148
+00:12:37,324 --> 00:12:42,320
+wbrew tym bzdurkom, które
+palnąłem kilka miesięcy temu.
+
+149
+00:12:42,451 --> 00:12:45,749
+Brałem nowe leki i chcę przeprosić.
+
+150
+00:12:46,880 --> 00:12:47,899
+Pilna wiadomość!
+
+151
+00:12:47,983 --> 00:12:51,032
+Lord Bison chce zorganizować drugi
+
+152
+00:12:51,193 --> 00:12:54,731
+Turniej Wojowników Świata
+w pięknym Metro Lao!
+
+153
+00:12:55,687 --> 00:12:59,905
+Czy Ryu, obecny mistrz,
+wróci bronić honoru?
+
+154
+00:13:00,663 --> 00:13:04,110
+A co z Kenem Mastersem,
+dawnym partnerem treningowym Ryu?
+
+155
+00:13:04,194 --> 00:13:06,116
+Czy Ryu i Ken w końcu zawalczą?
+
+156
+00:13:06,200 --> 00:13:08,443
+Kto wygra tę walkę na śmierć i życie?
+
+157
+00:13:08,527 --> 00:13:11,850
+Lord Bison chce odpowiedzieć
+na te pytania i wiele
+
+158
+00:13:11,934 --> 00:13:14,239
+więcej. Ken Masters?
+
+159
+00:13:14,323 --> 00:13:16,904
+To palant. Skopałbym mu tyłek.
+
+160
+00:13:16,988 --> 00:13:20,630
+Żartujesz? To przegryw, jak jego stary.
+
+161
+00:13:37,253 --> 00:13:39,715
+Więc to moja największa pułapka.
+
+162
+00:13:39,923 --> 00:13:41,769
+Naprawdę rozczarowujące.
+
+163
+00:13:43,146 --> 00:13:44,146
+Ken.
+
+164
+00:13:44,773 --> 00:13:46,317
+Kenzo. Kendrick.
+
+165
+00:13:46,401 --> 00:13:49,023
+Alarm! Ale gorąca Azjatka!
+
+166
+00:13:49,107 --> 00:13:50,279
+Cześć.
+
+167
+00:13:51,927 --> 00:13:53,581
+Ratunku! Pomóżcie!
+
+168
+00:13:54,101 --> 00:13:55,160
+Czemu? Pomocy!
+
+169
+00:13:55,244 --> 00:13:57,167
+Zaraz, już cię widziałem.
+
+170
+00:13:57,483 --> 00:13:58,848
+Byłeś na mojej walce.
+
+171
+00:13:58,932 --> 00:14:01,102
+Odciągnijcie go!
+
+172
+00:14:03,046 --> 00:14:04,046
+Co tu robisz?
+
+173
+00:14:05,470 --> 00:14:07,778
+Jestem Chun-Li. Om saha namah.
+
+174
+00:14:12,311 --> 00:14:15,717
+Szukam najlepszych wojowników na świecie,
+
+175
+00:14:17,017 --> 00:14:20,709
+by walczyli w drugim
+Turnieju Wojowników Świata.
+
+176
+00:14:22,880 --> 00:14:28,188
+Zaproszenie to najwyższy zaszczyt
+dla prawdziwego adepta sztuk walki.
+
+177
+00:14:33,016 --> 00:14:38,324
+Lord Bison urządza to wielkie
+wydarzenie w swoim Królewskim Koloseum.
+
+178
+00:14:40,380 --> 00:14:44,930
+Najzacieklejsi,
+najsilniejsi i najgroźniejsi,
+
+179
+00:14:45,159 --> 00:14:49,076
+najstraszniejsi wojownicy
+już szykują się do walki.
+
+180
+00:14:49,160 --> 00:14:50,794
+Wygrałaś!
+
+181
+00:14:50,878 --> 00:14:52,055
+Idealnie!
+
+182
+00:14:52,743 --> 00:14:54,051
+Ośmiu wojowników.
+
+183
+00:14:54,652 --> 00:14:55,652
+Bez zasad.
+
+184
+00:14:56,181 --> 00:14:57,573
+Liczy się tylko...
+
+185
+00:14:58,559 --> 00:15:00,328
+kto zostanie na nogach.
+
+186
+00:15:00,770 --> 00:15:02,600
+Mistrz świata.
+
+187
+00:15:06,810 --> 00:15:08,911
+Ken, zawalczysz?
+
+188
+00:15:14,498 --> 00:15:16,426
+Słyszałem, że wraca to gówno.
+
+189
+00:15:16,510 --> 00:15:18,587
+Nie jestem już dzieciakiem.
+
+190
+00:15:19,176 --> 00:15:21,894
+Masz lepsze zajęcia?
+Nie jesteś już wojownikiem.
+
+191
+00:15:21,978 --> 00:15:23,670
+Jesteś tylko atrakcją.
+
+192
+00:15:24,306 --> 00:15:28,438
+Atrakcją? Inni wojownicy śmieją
+się na dźwięk twojego imienia.
+
+193
+00:15:28,522 --> 00:15:31,008
+Kiedyś ci zależało. Honor coś znaczył.
+
+194
+00:15:31,092 --> 00:15:32,092
+Co się stało?
+
+195
+00:15:34,097 --> 00:15:37,194
+Dawaj! No dalej!
+
+196
+00:15:37,744 --> 00:15:39,239
+Na co czekasz?
+
+197
+00:15:41,943 --> 00:15:42,943
+Ryu!
+
+198
+00:15:43,325 --> 00:15:44,479
+Ryu się pojawi?
+
+199
+00:15:45,840 --> 00:15:48,956
+Ostatni raz widziałeś go
+przed jego zniknięciem.
+
+200
+00:15:49,040 --> 00:15:50,194
+Sam mi powiedz.
+
+201
+00:16:08,989 --> 00:16:11,527
+Każda miska czegoś mnie uczy. Ty.
+
+202
+00:16:13,023 --> 00:16:15,912
+Ale wyjątkowe. Hej, to...
+
+203
+00:16:18,117 --> 00:16:19,889
+Dziękuję. Dziękuję.
+
+204
+00:16:20,445 --> 00:16:21,445
+Pyszne.
+
+205
+00:16:22,241 --> 00:16:23,870
+Ciekawy zapach.
+
+206
+00:16:24,847 --> 00:16:27,220
+Bardzo intensywny.
+
+207
+00:16:27,728 --> 00:16:33,036
+Jesz zupę ze sfermentowanego gołębia,
+według przepisu mojego mistrza.
+
+208
+00:16:33,510 --> 00:16:37,298
+Może usiądziesz? Chyba
+zaraz... Jestem pełna.
+
+209
+00:16:38,204 --> 00:16:39,465
+Ale smaczne.
+
+210
+00:16:44,329 --> 00:16:45,329
+Nie...
+
+211
+00:16:55,649 --> 00:16:57,495
+Jestem gotów na kolację.
+
+212
+00:17:18,484 --> 00:17:20,824
+Wiem, że pana zawiodłem,
+
+213
+00:17:20,908 --> 00:17:25,139
+ale tym razem będzie pan ze
+mnie dumny, mistrzu Gouken.
+
+214
+00:17:28,966 --> 00:17:30,958
+Będzie pan ze mnie dumny.
+
+215
+00:17:34,129 --> 00:17:35,667
+Wygram cały turniej.
+
+216
+00:17:42,568 --> 00:17:46,901
+I nic nie możesz zrobić,
+żeby mnie powstrzymać!
+
+217
+00:17:55,991 --> 00:17:57,968
+Jeszcze nie wyszłam.
+
+218
+00:17:59,862 --> 00:18:00,729
+Nie wyszłaś?
+
+219
+00:18:00,813 --> 00:18:01,813
+Nie.
+
+220
+00:18:01,941 --> 00:18:04,291
+Mówiłam, że dam ci upragnioną sławę,
+
+221
+00:18:04,375 --> 00:18:06,386
+a ty po prostu sobie poszedłeś.
+
+222
+00:18:06,470 --> 00:18:09,044
+Myślałem.
+
+223
+00:18:10,929 --> 00:18:12,733
+Przyjmuję zaproszenie.
+
+224
+00:18:14,378 --> 00:18:17,228
+Pod jednym warunkiem.
+Zachowajmy profesjonalizm.
+
+225
+00:18:17,312 --> 00:18:20,833
+Na 48 godzin przed walką
+ślubuję wstrzemięźliwość.
+
+226
+00:18:20,917 --> 00:18:21,917
+Pakuj się.
+
+227
+00:18:31,097 --> 00:18:32,840
+Hej, idioto!
+
+228
+00:18:33,444 --> 00:18:36,675
+Ta twoja zupa dla bezdomnych jest do dupy.
+
+229
+00:18:41,112 --> 00:18:43,620
+Każdy ma inny smak.
+
+230
+00:18:43,704 --> 00:18:48,473
+To widać po tym, jak każdy makaron
+powstaje dzięki powtarzaniu
+
+231
+00:18:48,692 --> 00:18:51,615
+i dopracowywaniu... Zamknij się, suko!
+
+232
+00:18:57,858 --> 00:19:00,267
+Ale dziwak!
+
+233
+00:19:30,555 --> 00:19:32,017
+Jak mnie znalazłaś?
+
+234
+00:19:34,939 --> 00:19:36,926
+Płacą nam za szukanie mistrzów.
+
+235
+00:19:37,010 --> 00:19:40,093
+Nawet jeśli się pogubili?
+
+236
+00:19:43,870 --> 00:19:46,485
+Mój szef organizuje drugi turniej.
+
+237
+00:19:47,291 --> 00:19:49,291
+Najlepsi wojownicy świata.
+
+238
+00:19:50,430 --> 00:19:54,589
+Chcemy, żebyś tam był,
+Ryu, i bronił tytułu.
+
+239
+00:19:54,673 --> 00:19:56,549
+Droga, którą teraz idę,
+
+240
+00:19:57,533 --> 00:19:59,314
+nie prowadzi do walki.
+
+241
+00:20:00,930 --> 00:20:04,464
+Te ręce... kiedyś niszczyły.
+
+242
+00:20:08,020 --> 00:20:10,866
+Teraz służą tylko do robienia ramenu.
+
+243
+00:20:14,147 --> 00:20:16,916
+To najgłupsza rzecz, jaką słyszałam.
+
+244
+00:20:18,254 --> 00:20:20,408
+Czemu tego nie zablokowałeś?
+
+245
+00:20:22,049 --> 00:20:23,696
+Mówię ci,
+
+246
+00:20:25,258 --> 00:20:26,839
+już nie walczę.
+
+247
+00:20:27,462 --> 00:20:28,924
+Złożyłem obietnicę.
+
+248
+00:20:30,556 --> 00:20:34,106
+Ryu, nie do tego jesteś stworzony.
+
+249
+00:20:34,787 --> 00:20:37,903
+Uciekasz przed sobą. Nie, nie.
+
+250
+00:20:38,472 --> 00:20:40,472
+Ile razy mam ci powtarzać?
+
+251
+00:20:40,648 --> 00:20:43,030
+To już nie ja.
+
+252
+00:20:48,539 --> 00:20:51,065
+Ciekawe, co powiedziałby twój mistrz,
+
+253
+00:20:51,149 --> 00:20:53,534
+gdyby zobaczył, kim się stałeś.
+
+254
+00:20:58,025 --> 00:21:00,102
+Mistrz Gouken powiedziałby,
+
+255
+00:21:00,610 --> 00:21:03,456
+że zastanawianie się to strata czasu.
+
+256
+00:21:05,309 --> 00:21:08,332
+Ryu, nie poddawaj się ciemności.
+
+257
+00:21:13,230 --> 00:21:16,538
+Nie jestem już chłopcem
+sprzed sześciu lat.
+
+258
+00:21:18,091 --> 00:21:19,860
+Może teraz Ken zostanie
+
+259
+00:21:20,900 --> 00:21:24,131
+mistrzem. Przyjął zaproszenie Lorda Bison.
+
+260
+00:21:25,640 --> 00:21:28,178
+Właśnie jedzie do Metro Lao City.
+
+261
+00:21:41,641 --> 00:21:44,852
+Dłużej się nie ukryjesz, Ryu.
+
+262
+00:21:46,252 --> 00:21:49,586
+Tak jak ja pragniesz dominacji.
+
+263
+00:21:50,362 --> 00:21:53,901
+Walcz ze mną albo zniszczę
+
+264
+00:21:54,637 --> 00:21:57,597
+zwycięzcę turnieju.
+
+265
+00:21:57,977 --> 00:21:58,977
+Hakuba...
+
+266
+00:22:28,835 --> 00:22:32,395
+Na pewno dobrze było
+zabrać mistrza Goukena?
+
+267
+00:22:32,479 --> 00:22:35,305
+Przyjechaliśmy oddać mu hołd.
+
+268
+00:22:35,389 --> 00:22:37,081
+Broń go za cenę życia.
+
+269
+00:22:50,459 --> 00:22:52,424
+No proszę.
+
+270
+00:22:54,229 --> 00:22:55,323
+Co tu robisz?
+
+271
+00:22:55,944 --> 00:22:58,027
+Toyota też startuje w turnieju?
+
+272
+00:22:58,111 --> 00:23:01,388
+Guile! Aleś się spasł.
+
+273
+00:23:01,766 --> 00:23:03,644
+Nie powinieneś smarować samolotu?
+
+274
+00:23:03,728 --> 00:23:05,284
+Nie naprawiam ich.
+
+275
+00:23:05,733 --> 00:23:07,991
+Ja nimi latam, cycku.
+
+276
+00:23:08,746 --> 00:23:10,284
+Co innego słyszałem.
+
+277
+00:23:15,060 --> 00:23:16,245
+Big Dow!
+
+278
+00:23:17,743 --> 00:23:20,952
+Kyle, ależ z ciebie siłacz.
+
+279
+00:23:21,036 --> 00:23:22,173
+Żyły aż wychodzą.
+
+280
+00:23:22,257 --> 00:23:24,149
+Ćwicz dalej nogi,
+
+281
+00:23:24,233 --> 00:23:27,144
+to może kiedyś urosną jak twoje ręce.
+
+282
+00:23:27,228 --> 00:23:28,228
+Bicky!
+
+283
+00:23:28,596 --> 00:23:33,264
+Nie zauważyłem cię. Dalej udajesz Azjatę,
+żeby sprzedawać lekcje karate?
+
+284
+00:23:33,348 --> 00:23:35,943
+Skąd miałbyś wiedzieć, ty 1/18 Chińczyku.
+
+285
+00:23:36,027 --> 00:23:38,449
+Kiedy pozbędziesz się tej pijawki?
+
+286
+00:23:38,533 --> 00:23:40,001
+Wysysa z ciebie życie.
+
+287
+00:23:40,085 --> 00:23:41,683
+Nikt nikomu nie obciąga.
+
+288
+00:23:41,767 --> 00:23:43,802
+Ja mu nie, on mnie też nie.
+
+289
+00:23:43,886 --> 00:23:46,960
+- Jesteśmy partnerami.
+- Kyle, nie dręcz słabszych. Nie przystoi.
+
+290
+00:23:47,044 --> 00:23:48,984
+Skupmy się na turnieju.
+
+291
+00:23:49,137 --> 00:23:50,906
+Tobie łatwo się skupić.
+
+292
+00:23:51,246 --> 00:23:52,554
+Ryu nie startuje.
+
+293
+00:23:57,937 --> 00:24:01,399
+Masz szczęście,
+że dzieli nas tyle powietrza.
+
+294
+00:24:16,575 --> 00:24:23,035
+Dziwne. Naprawdę dziwne,
+że to zrobił... Hej, chodźmy.
+
+295
+00:24:24,076 --> 00:24:26,483
+Nie waż się dać mu wejść sobie do głowy.
+
+296
+00:24:26,567 --> 00:24:29,316
+Odbiło mu. Ma kompleksy.
+
+297
+00:24:34,550 --> 00:24:36,580
+Jest lepszy od ciebie, co?
+
+298
+00:25:14,145 --> 00:25:15,991
+Pora się zbierać, dupku.
+
+299
+00:25:28,665 --> 00:25:31,338
+Dobrze cię widzieć, stary przyjacielu.
+
+300
+00:25:31,422 --> 00:25:32,422
+Przyjaciel?
+
+301
+00:25:37,401 --> 00:25:38,992
+Akuma! Nie!
+
+302
+00:26:01,817 --> 00:26:05,077
+Nie, mistrzu, proszę się odsunąć.
+
+303
+00:26:09,830 --> 00:26:11,546
+Nie po ciebie, Gouken.
+
+304
+00:26:11,630 --> 00:26:15,418
+Gouken, przyszedłem po mistrza,
+
+305
+00:26:17,247 --> 00:26:22,078
+Ryu. Jeśli chcesz go ocalić, walcz ze mną!
+
+306
+00:26:26,679 --> 00:26:30,632
+Ryu, nie poddawaj się ciemności.
+
+307
+00:26:32,386 --> 00:26:34,172
+Mój brat, Gouken,
+
+308
+00:26:34,725 --> 00:26:37,075
+cię powstrzymuje.
+
+309
+00:26:46,216 --> 00:26:47,723
+Ryu! Na co czekasz?
+
+310
+00:26:49,880 --> 00:26:50,880
+Zrób to!
+
+311
+00:26:52,547 --> 00:26:54,825
+Zrób to!
+
+312
+00:26:55,343 --> 00:26:57,035
+Wciąż jesteś chłopcem.
+
+313
+00:26:58,392 --> 00:27:01,930
+Nienawiść w twoim sercu
+jest jeszcze za słaba.
+
+314
+00:27:02,345 --> 00:27:04,518
+Niech to cię zmotywuje!
+
+315
+00:27:11,942 --> 00:27:14,535
+Nie! Proszę mi wybaczyć, mistrzu.
+
+316
+00:27:24,591 --> 00:27:27,328
+Kurwa, Ryu! Mogłeś go powstrzymać!
+
+317
+00:27:41,543 --> 00:27:43,050
+Wciąż lekkomyślny. Co tu?
+
+318
+00:27:43,134 --> 00:27:46,835
+Ken, posłuchaj. Nie możesz
+walczyć w tym turnieju.
+
+319
+00:27:46,919 --> 00:27:49,040
+Nie możesz go wygrać.
+
+320
+00:27:49,837 --> 00:27:51,801
+Nie widziałem cię od sześciu lat.
+
+321
+00:27:51,885 --> 00:27:54,266
+Sześć lat! Zjawiasz się i mówisz mi, że...
+
+322
+00:27:54,350 --> 00:27:56,965
+Nie... Nie chcę tego słuchać, Ken.
+
+323
+00:28:11,437 --> 00:28:13,318
+Wiedziałem, że ego nie da rady.
+
+324
+00:28:13,402 --> 00:28:15,479
+Moje ego? Czego nie zniosę?
+
+325
+00:28:17,834 --> 00:28:19,168
+Siadaj.
+
+326
+00:28:32,752 --> 00:28:35,066
+Nie zniesiesz myśli, że naprawdę zawalczę
+
+327
+00:28:35,150 --> 00:28:37,569
+i udowodnię wszystkim,
+że zawsze byłem lepszy.
+
+328
+00:28:37,653 --> 00:28:38,053
+Nie, Ken.
+
+329
+00:28:38,137 --> 00:28:41,906
+Walka narazi cię na śmiertelne
+niebezpieczeństwo.
+
+330
+00:28:42,090 --> 00:28:43,213
+Masz tupet.
+
+331
+00:28:59,023 --> 00:29:00,786
+Nie, nie rób tego.
+
+332
+00:29:01,243 --> 00:29:02,948
+Nie rób tego.
+
+333
+00:29:03,583 --> 00:29:05,357
+Posłuchasz mnie wreszcie, Ken?
+
+334
+00:29:05,441 --> 00:29:06,842
+Głupie skarpety.
+
+335
+00:29:09,306 --> 00:29:10,306
+Wiesz, ty...
+
+336
+00:29:11,344 --> 00:29:14,722
+Nie rozumiesz, jakie
+niebezpieczeństwo niesie ten turniej.
+
+337
+00:29:14,806 --> 00:29:19,011
+Muszę tylko wiedzieć,
+że wygram ten turniej.
+
+338
+00:29:19,095 --> 00:29:20,966
+Tym razem przegrasz!
+
+339
+00:29:22,056 --> 00:29:24,956
+Czy choć raz mnie posłuchasz, Ken?
+
+340
+00:29:25,040 --> 00:29:29,166
+Wreszcie udowodnię swoją wartość!
+Nie powstrzymasz mnie!
+
+341
+00:29:29,250 --> 00:29:31,293
+Nic! Kenneth!
+
+342
+00:29:31,443 --> 00:29:34,180
+Wyłącz Skinemax! Mój klucz nie działa!
+
+343
+00:29:34,264 --> 00:29:35,264
+Dobra.
+
+344
+00:29:36,470 --> 00:29:37,470
+Dobra.
+
+345
+00:29:37,709 --> 00:29:41,167
+Dobrze. Ken! Dobra. Na litość boską, Ken!
+
+346
+00:29:41,332 --> 00:29:43,583
+- Skończyłem.
+- Dobra. Riri?
+
+347
+00:29:44,070 --> 00:29:45,806
+Nie dajesz mi wyboru, Ken.
+
+348
+00:29:45,890 --> 00:29:47,044
+Jakiego wyboru?
+
+349
+00:29:47,449 --> 00:29:50,911
+Nie możesz wystartować.
+Lista jest zamknięta.
+
+350
+00:29:51,800 --> 00:29:53,262
+Nie ma cię na niej.
+
+351
+00:29:53,434 --> 00:29:56,685
+Dan, spakuj moje rzeczy
+i zabierz mistrza Goukena.
+
+352
+00:29:56,769 --> 00:29:58,220
+Zmieniamy hotel.
+
+353
+00:29:58,533 --> 00:30:01,562
+Czemu nie zmieni hotelu?
+Łatwiej niż ja... Dan!
+
+354
+00:30:01,646 --> 00:30:03,642
+Dobra, miło było cię widzieć, Ryu.
+
+355
+00:30:03,726 --> 00:30:07,472
+Dzięki, Dan. Ależ miło znów być razem.
+
+356
+00:30:39,607 --> 00:30:43,376
+Centrala Interpolu do agentki
+Chun-Li, zgłoś się.
+
+357
+00:30:43,831 --> 00:30:47,600
+Powtarzam, centrala Interpolu
+do agentki Chun-Li.
+
+358
+00:30:47,864 --> 00:30:49,459
+Chun, odezwij się. Tu Marvin.
+
+359
+00:30:49,543 --> 00:30:51,568
+Martwię się o ciebie. Odbierz, proszę.
+
+360
+00:30:51,652 --> 00:30:52,615
+Tu Mar...
+
+361
+00:30:52,699 --> 00:30:54,468
+Marvin, powiedz coś dobrego.
+
+362
+00:30:54,552 --> 00:30:58,077
+Dzięki Bogu. Słyszałem,
+że Ryu nie ma na liście zawodników.
+
+363
+00:30:58,161 --> 00:31:00,917
+Co robimy? Pracuję nad tym.
+
+364
+00:31:01,164 --> 00:31:03,099
+Turniej nie zaczyna się już jutro?
+
+365
+00:31:03,183 --> 00:31:06,343
+Tak, potrzebujemy wsparcia
+szybciej, niż myśleliśmy.
+
+366
+00:31:06,427 --> 00:31:07,739
+Co ze wsparciem?
+
+367
+00:31:07,870 --> 00:31:12,180
+Wiesz, z czym mam tu do czynienia?
+Niestety, wszyscy w biurze są bezużyteczni,
+
+368
+00:31:12,264 --> 00:31:14,341
+ale daję z siebie wszystko.
+
+369
+00:31:14,510 --> 00:31:18,130
+Stryker wie, że zwłoka odbierze
+nam jedyną szansę na Bisona?
+
+370
+00:31:18,214 --> 00:31:21,338
+Ten drań zaraz uruchomi
+jakąś broń psychiczną.
+
+371
+00:31:21,422 --> 00:31:22,444
+No dobra, wiesz co?
+
+372
+00:31:22,528 --> 00:31:27,014
+Stryker nie dowierzał
+w tę broń psychiczną i...
+
+373
+00:31:27,356 --> 00:31:31,893
+chciał namacalnych dowodów.
+To słowa Strykera, nie moje.
+
+374
+00:31:32,235 --> 00:31:33,938
+Wierzę ci.
+
+375
+00:31:35,669 --> 00:31:37,900
+Zawsze ci wierzyłem, Chun-Li.
+
+376
+00:31:38,272 --> 00:31:41,136
+Sama muszę zlikwidować Bisona.
+
+377
+00:31:41,318 --> 00:31:42,813
+Co? Nie! Nie.
+
+378
+00:31:43,415 --> 00:31:46,184
+Proszę, nie rób niczego pochopnego.
+
+379
+00:31:47,510 --> 00:31:48,752
+Zaraz, piłaś?
+
+380
+00:31:49,165 --> 00:31:53,319
+Obiecaj, że po alkoholu
+nie będziesz ćwiczyć nunchaku.
+
+381
+00:32:00,726 --> 00:32:02,549
+Pomoc jest w drodze.
+
+382
+00:33:17,796 --> 00:33:19,246
+Obserwujesz?
+
+383
+00:33:20,376 --> 00:33:22,286
+Witaj, Ozeki.
+
+384
+00:33:23,626 --> 00:33:29,486
+Dziwne. Tylko bliscy przyjaciele
+mogą mówić do mnie „Ozeki”.
+
+385
+00:33:40,966 --> 00:33:42,716
+Skrzynkę nieszczęść...
+
+386
+00:33:43,656 --> 00:33:48,006
+Czy mógłbym ją dostać? Ha, ha, ha.
+
+387
+00:33:51,126 --> 00:33:52,972
+Nie jestem aż tak głupi.
+
+388
+00:33:58,356 --> 00:34:01,582
+Demon pojawia się przed tym,
+kto zostaje mistrzem.
+
+389
+00:34:01,666 --> 00:34:04,996
+Gdy demon opuści świat
+duchów, nadchodzi...
+
+390
+00:34:08,736 --> 00:34:12,966
+Nie sądzę, żebyś był
+w stanie rzucić mi wyzwanie.
+
+391
+00:34:13,546 --> 00:34:17,156
+W porządku, jeśli tak jest.
+
+392
+00:34:19,096 --> 00:34:22,222
+Musimy walczyć, jeśli...
+
+393
+00:34:22,306 --> 00:34:26,196
+Jeśli wygrasz, oddam ci
+swoje miejsce w turnieju.
+
+394
+00:36:59,243 --> 00:37:03,404
+Ucisz ten cholerny hałas, zanim ogłuchnę!
+
+395
+00:37:04,820 --> 00:37:07,606
+No proszę, jaki z ciebie żałosny robak.
+
+396
+00:37:07,690 --> 00:37:09,869
+Właź natychmiast na antenę.
+
+397
+00:37:10,483 --> 00:37:12,329
+Oczywiście, proszę pani.
+
+398
+00:37:15,480 --> 00:37:18,785
+Combat News. Don Savage.
+
+399
+00:37:21,228 --> 00:37:23,257
+Pilne wiadomości!
+
+400
+00:37:23,488 --> 00:37:27,454
+Gdy najlepsi uliczni wojownicy
+świata zbierają się przed turniejem,
+
+401
+00:37:27,538 --> 00:37:31,244
+dowiedziałem się,
+że czeka nas wymarzona walka.
+
+402
+00:37:31,475 --> 00:37:34,148
+Ryu kontra Ken Masters!
+
+403
+00:37:45,880 --> 00:37:50,578
+Wiesz, tych pamiątek nie można
+tak po prostu zabrać do domu?
+
+404
+00:37:50,662 --> 00:37:53,277
+Mój najlepszy przyjaciel, Charlie.
+
+405
+00:37:53,464 --> 00:37:56,156
+Za darmo! Stawiam wszystkim drinki!
+
+406
+00:37:57,199 --> 00:38:00,375
+Ale wtopa, kochasiu. Kto to, do cholery?
+
+407
+00:38:01,647 --> 00:38:03,622
+Jak się nazywałeś? Doug?
+
+408
+00:38:04,020 --> 00:38:05,020
+Valentin.
+
+409
+00:38:05,592 --> 00:38:07,141
+Niezły masz styl.
+
+410
+00:38:07,225 --> 00:38:09,715
+Jakbyś chciał rozwinąć swoją markę,
+
+411
+00:38:09,799 --> 00:38:13,592
+daj znać. Z Kenem robiliśmy
+przełomowe rzeczy.
+
+412
+00:38:13,740 --> 00:38:14,740
+Na przykład?
+
+413
+00:38:14,980 --> 00:38:16,518
+Obijanie samochodów?
+
+414
+00:38:16,939 --> 00:38:18,879
+Zwierzęta też. Groźne.
+
+415
+00:38:18,963 --> 00:38:20,430
+Pandy.
+
+416
+00:38:24,190 --> 00:38:26,383
+Zaraz zrobi się ciekawie.
+
+417
+00:38:26,467 --> 00:38:29,547
+Pięć, sześć, siedem, osiem reklam!
+
+418
+00:38:31,166 --> 00:38:33,091
+Nie ma mowy! Ken, chodź!
+
+419
+00:38:33,175 --> 00:38:34,459
+Chcesz tego? Zapomnij.
+
+420
+00:38:34,543 --> 00:38:37,244
+On nie wie, prawda?
+
+421
+00:38:37,850 --> 00:38:41,334
+Klasyka. Zamknij się, Guile!
+Dawaj na siłowanie, Dan!
+
+422
+00:38:41,418 --> 00:38:45,223
+Słuchaj, stary, wyszło na to, że
+
+423
+00:38:45,778 --> 00:38:48,195
+Ryu jest w turnieju. Fajnie, nie?
+
+424
+00:38:48,279 --> 00:38:50,145
+Mówisz serio?
+
+425
+00:38:50,553 --> 00:38:52,938
+Tak. I dopiero teraz mi mówisz?
+
+426
+00:38:53,214 --> 00:38:56,603
+Dlatego go tu zaprosiłem,
+żebyśmy wyjaśnili sobie różnice.
+
+427
+00:38:56,687 --> 00:38:58,963
+Wyjaśnimy to przy Shirley Temple.
+
+428
+00:38:59,047 --> 00:39:00,563
+Wiem, lubisz te drinki.
+
+429
+00:39:00,647 --> 00:39:02,196
+Lubisz je, co? No lubisz.
+
+430
+00:39:02,280 --> 00:39:04,848
+Tak! Dan, to niedorzeczne.
+
+431
+00:39:04,932 --> 00:39:08,502
+To nie absurd. Wszyscy byliśmy
+uczniami tego samego mistrza.
+
+432
+00:39:08,586 --> 00:39:11,432
+Powinniśmy trzymać się razem, prawda?
+
+433
+00:39:40,045 --> 00:39:41,814
+Co jest, przystojniaku?
+
+434
+00:39:41,980 --> 00:39:43,563
+Masz ochotę na zabawę?
+
+435
+00:39:43,647 --> 00:39:46,253
+Nie założyłem koszulki na darmo.
+
+436
+00:39:48,618 --> 00:39:50,233
+Co, jestem dzieckiem?
+
+437
+00:39:54,647 --> 00:39:57,710
+Ty idioto! Wszedłeś na H4!
+
+438
+00:40:01,967 --> 00:40:03,597
+Kto teraz jest dzieckiem? Ty!
+
+439
+00:40:03,681 --> 00:40:05,169
+Ja? Zaraz cię zabiję!
+
+440
+00:40:05,253 --> 00:40:06,253
+No tak...
+
+441
+00:40:09,001 --> 00:40:10,118
+No, dawaj!
+
+442
+00:40:10,202 --> 00:40:11,971
+Uwolnijcie moich ludzi!
+
+443
+00:40:15,609 --> 00:40:16,884
+Patrzcie na tych cieniasów.
+
+444
+00:40:16,968 --> 00:40:21,192
+Myślałem, że Bison sprowadzi
+mi świeże mięso do obicia.
+
+445
+00:40:21,276 --> 00:40:24,542
+Nie miałem na myśli seksu.
+
+446
+00:40:32,705 --> 00:40:34,859
+Chcesz rozwinąć swoją markę?
+
+447
+00:40:36,110 --> 00:40:37,341
+Zostańmy z tyłu.
+
+448
+00:40:39,410 --> 00:40:41,451
+Gorog lubi rozróbę przed walką.
+
+449
+00:40:41,535 --> 00:40:44,943
+Zjeżdżaj stąd, amerykański bohaterze!
+
+450
+00:40:45,027 --> 00:40:46,719
+Zmień fryzjera, stary.
+
+451
+00:40:48,310 --> 00:40:52,815
+Gotów na ogień Śiwy?
+
+452
+00:40:52,899 --> 00:40:55,579
+Pora krwawić!
+
+453
+00:40:59,549 --> 00:41:02,811
+Hej, hej! Przykucnij!
+
+454
+00:41:03,200 --> 00:41:04,277
+Masz za swoje!
+
+455
+00:41:05,560 --> 00:41:06,560
+Świetnie.
+
+456
+00:41:07,076 --> 00:41:08,538
+Więcej dla tatusia.
+
+457
+00:41:09,675 --> 00:41:10,906
+No, zaczyna się!
+
+458
+00:41:22,647 --> 00:41:25,262
+Pośpiech prowadzi tylko do błędów.
+
+459
+00:41:28,910 --> 00:41:30,788
+Twoja porażka będzie szybka.
+
+460
+00:41:30,872 --> 00:41:32,948
+Widzisz tego chudego Hindusa?
+
+461
+00:41:33,032 --> 00:41:36,307
+Byłem z nim na misji pokojowej w 1986.
+
+462
+00:41:36,391 --> 00:41:38,074
+Dobry człowiek. Naprawdę dobry.
+
+463
+00:41:38,158 --> 00:41:40,083
+Dobrze cię widzieć, stary!
+
+464
+00:41:40,167 --> 00:41:41,552
+Co słychać, stary?
+
+465
+00:41:46,873 --> 00:41:50,094
+To nie konkurs piękności, Vega.
+
+466
+00:41:52,064 --> 00:41:53,295
+Ale gdyby był...
+
+467
+00:42:14,412 --> 00:42:16,200
+Ale mu kutas oberwie!
+
+468
+00:42:19,136 --> 00:42:21,954
+Technika Żelaznego Krocza, fiucie!
+
+469
+00:42:22,485 --> 00:42:23,732
+Stawiam drinki!
+
+470
+00:42:29,272 --> 00:42:33,195
+Mogę cię prać codziennie,
+jeśli chcesz, podrywaczu.
+
+471
+00:42:38,168 --> 00:42:39,937
+Nie, póki ja tu jestem.
+
+472
+00:42:40,107 --> 00:42:41,946
+Masz, gaduło.
+
+473
+00:42:47,920 --> 00:42:49,062
+Ken, za tobą!
+
+474
+00:42:52,020 --> 00:42:53,558
+Mam dla ciebie radę.
+
+475
+00:42:55,167 --> 00:42:57,167
+Wracaj do domu, dziwolągu.
+
+476
+00:42:57,422 --> 00:42:58,868
+Dziwoląg, powiadasz?
+
+477
+00:42:58,952 --> 00:43:01,996
+Załóż rodzinę! No już,
+
+478
+00:43:08,458 --> 00:43:11,455
+serio, nawet nie pamiętam,
+czemu się bijemy.
+
+479
+00:43:11,539 --> 00:43:13,645
+To absurd. Nic do ciebie nie mam.
+
+480
+00:43:13,729 --> 00:43:17,699
+Zniszczyłeś mi wołowinę!
+87 uncji, nie była tania!
+
+481
+00:43:17,783 --> 00:43:21,507
+Odłóżmy to do jutra.
+Rozejrzyj się, nikogo tu nie ma.
+
+482
+00:43:21,591 --> 00:43:22,822
+Co ty w ogóle...
+
+483
+00:43:33,207 --> 00:43:36,765
+Jestem o wiele silniejszy od ciebie.
+
+484
+00:43:40,855 --> 00:43:43,484
+O kurwa.
+
+485
+00:43:44,111 --> 00:43:46,871
+Świetna forma. Dotknij ziemi.
+
+486
+00:44:01,707 --> 00:44:03,399
+Nienawidzę przegrywać.
+
+487
+00:44:19,780 --> 00:44:21,318
+Podchodźcie, bliżej!
+
+488
+00:44:22,311 --> 00:44:25,384
+Dawaj! Hej, hej, spokojnie!
+
+489
+00:44:36,139 --> 00:44:41,053
+Co tu się, kurwa, dzieje?
+Mamy to pod kontrolą.
+
+490
+00:44:41,270 --> 00:44:44,686
+Centrala, oni mają walczyć
+dopiero za osiem godzin.
+
+491
+00:44:44,770 --> 00:44:45,770
+Świetnie.
+
+492
+00:44:46,019 --> 00:44:48,287
+Zaraz, brakuje jednego. Gdzie jest Ryu?
+
+493
+00:44:48,371 --> 00:44:50,036
+Jedzie do Iglicy.
+
+494
+00:44:51,032 --> 00:44:52,494
+Kto tak zdecydował?
+
+495
+00:44:54,182 --> 00:44:55,182
+Lord Bison.
+
+496
+00:44:56,038 --> 00:44:58,859
+Poprosił, żebyś też się z nim spotkała,
+
+497
+00:44:58,943 --> 00:45:00,481
+jutro z samego rana.
+
+498
+00:45:04,710 --> 00:45:06,787
+Wciąż gadał o twoich udach.
+
+499
+00:45:12,783 --> 00:45:14,937
+Nie wiem, co w nich takiego.
+
+500
+00:45:18,760 --> 00:45:21,606
+Nie stój jak kołek, idiotko! Chodźmy!
+
+501
+00:45:39,308 --> 00:45:42,784
+Proszę pana, to zaszczyt
+wreszcie pana poznać.
+
+502
+00:45:42,868 --> 00:45:45,022
+Dalej proszę nie podchodzić.
+
+503
+00:45:46,326 --> 00:45:48,115
+O, coś panu upadło.
+
+504
+00:45:48,199 --> 00:45:49,404
+Julie?
+
+505
+00:45:50,038 --> 00:45:54,428
+Nie, Venom, moja mała kobro.
+
+506
+00:45:57,863 --> 00:46:01,108
+Nareszcie. W końcu
+się spotykamy, panno Lee.
+
+507
+00:46:01,192 --> 00:46:02,956
+Prowadzi pani dziennik?
+
+508
+00:46:03,040 --> 00:46:06,138
+Nie, proszę pana. Szkoda.
+
+509
+00:46:07,057 --> 00:46:10,396
+Ciekawe, co to w tobie obudzi.
+
+510
+00:46:10,656 --> 00:46:15,538
+Tylko ty dokonałaś niemożliwego.
+Sprowadź mi Ryu.
+
+511
+00:46:15,895 --> 00:46:20,391
+Mój panie, oddałabym
+życie za to, w co wierzę.
+
+512
+00:46:21,358 --> 00:46:24,697
+Ale zadziorna. Słyszałeś, Chun-Li?
+
+513
+00:46:29,394 --> 00:46:31,744
+Słyszałem tę sukę.
+
+514
+00:46:46,845 --> 00:46:48,601
+Jest w tobie głęboki smutek.
+
+515
+00:46:48,685 --> 00:46:54,282
+Ale masz też wielki potencjał.
+
+516
+00:46:54,789 --> 00:46:55,789
+Dziękuję.
+
+517
+00:46:58,568 --> 00:47:01,698
+Dostrzegam w tobie coś wyjątkowego.
+
+518
+00:47:04,687 --> 00:47:06,072
+Zasługujesz na to.
+
+519
+00:47:06,394 --> 00:47:09,348
+Jesteś gotowa przyjąć znak.
+
+520
+00:47:09,722 --> 00:47:11,568
+To niezwykle hojny gest.
+
+521
+00:47:21,529 --> 00:47:22,807
+Jesteś gotowa?
+
+522
+00:47:22,891 --> 00:47:23,649
+Tak.
+
+523
+00:47:23,733 --> 00:47:25,303
+Dobrze.
+
+524
+00:47:51,233 --> 00:47:54,152
+Tak dobrze. To już prawie koniec.
+
+525
+00:48:01,759 --> 00:48:04,605
+Pogódź się ze swoim mrokiem, dziecko.
+
+526
+00:48:06,422 --> 00:48:07,422
+Chodź tu.
+
+527
+00:48:16,456 --> 00:48:18,918
+Możemy razem budować przyszłość.
+
+528
+00:48:19,272 --> 00:48:24,950
+Ośmiu malarzy stworzyło
+to arcydzieło, ale...
+
+529
+00:48:25,567 --> 00:48:30,875
+w przeciwieństwie do nich, wymagam
+od ciebie bezwzględnej lojalności.
+
+530
+00:48:35,661 --> 00:48:36,775
+Ufam ci.
+
+531
+00:48:37,297 --> 00:48:41,143
+Na rozpoczęcie turnieju
+zasiądziesz ze mną w loży.
+
+532
+00:48:58,191 --> 00:48:59,576
+Tak. Uwielbiam ją.
+
+533
+00:49:02,574 --> 00:49:05,957
+Uważaj w tym swoim głupim stroju.
+
+534
+00:49:06,366 --> 00:49:10,109
+Łatwo o plamy.
+
+535
+00:49:10,193 --> 00:49:11,193
+Peleryna!
+
+536
+00:49:11,291 --> 00:49:12,291
+Tak jest!
+
+537
+00:49:31,005 --> 00:49:36,729
+Ryu, przemierzyłem wiele krain
+w poszukiwaniu godnego przeciwnika.
+
+538
+00:49:36,813 --> 00:49:40,582
+Jesteś o krok od wypełnienia
+swego przeznaczenia.
+
+539
+00:49:40,707 --> 00:49:44,617
+Poddaj się zazdrości i nienawiści.
+
+540
+00:49:45,350 --> 00:49:50,832
+Mistrzu, pomóż mi.
+
+541
+00:49:51,128 --> 00:49:54,205
+Nigdy nie zapominaj, czego cię nauczono.
+
+542
+00:49:56,673 --> 00:50:03,127
+Ostatecznym celem adeptów Ansatsukin
+jest opanowanie świętego Hado.
+
+543
+00:50:03,740 --> 00:50:09,929
+To moc płynąca z dyscypliny
+i poświęcenia. Moc światła.
+
+544
+00:50:11,300 --> 00:50:16,028
+Ale uważaj, bo można też
+uwolnić mroczniejszą moc...
+
+545
+00:50:16,586 --> 00:50:19,045
+Żądzę zabijania.
+
+546
+00:50:23,104 --> 00:50:27,566
+Mój brat Akuma pragnął być
+lepszym wojownikiem ode mnie...
+
+547
+00:50:28,289 --> 00:50:31,107
+...i skusiło go to zło.
+
+548
+00:50:33,224 --> 00:50:38,637
+Zatruło mu duszę i zmieniło go w demona.
+
+549
+00:50:42,859 --> 00:50:47,460
+Nie pozwól, by spotkał cię
+ten sam los. Jeszcze raz!
+
+550
+00:51:18,170 --> 00:51:24,844
+Pamiętaj, zawiść jest ziarnem,
+z którego wyrasta zło.
+
+551
+00:51:56,457 --> 00:51:59,475
+Ryu, wszystko w porządku?
+
+552
+00:52:00,971 --> 00:52:01,971
+Wiem.
+
+553
+00:52:02,186 --> 00:52:04,648
+Nie jest dobrze. Czekaj, czekaj.
+
+554
+00:52:07,363 --> 00:52:10,409
+Zejdziesz tam i dasz ludziom to,
+czego chcą, prawda?
+
+555
+00:52:10,493 --> 00:52:12,570
+Chyba byłbyś ze mnie dumny.
+
+556
+00:52:14,390 --> 00:52:15,580
+Ani trochę.
+
+557
+00:52:22,097 --> 00:52:24,272
+No jasne. Żartujesz?
+
+558
+00:52:25,171 --> 00:52:26,171
+Kocha cię.
+
+559
+00:52:26,592 --> 00:52:28,207
+Zrobiłbyś wszystko...
+
+560
+00:52:31,768 --> 00:52:34,614
+Dzięki. Jesteś świetnym przyjacielem.
+
+561
+00:52:34,939 --> 00:52:35,745
+Jestem.
+
+562
+00:52:35,829 --> 00:52:37,683
+Kocham cię.
+
+563
+00:52:40,772 --> 00:52:42,818
+Załóż koszulę do takich
+
+564
+00:52:42,902 --> 00:52:44,135
+emocjonalnych rozmów.
+
+565
+00:52:44,219 --> 00:52:46,450
+Wychowałem się w zimnym domu.
+
+566
+00:52:47,865 --> 00:52:49,836
+Chcesz, żeby był z ciebie dumny?
+
+567
+00:52:49,920 --> 00:52:53,151
+To zejdź tam i wygraj dla nas ten turniej.
+
+568
+00:53:10,821 --> 00:53:16,609
+Witamy na Turnieju Wojowników Świata 1993!
+
+569
+00:53:17,096 --> 00:53:22,673
+Nazywam się Don Savage.
+Będę gospodarzem i sędzią!
+
+570
+00:53:23,980 --> 00:53:27,803
+Zebrali się tu najlepsi wojownicy świata,
+
+571
+00:53:27,889 --> 00:53:32,697
+ale tylko jeden zostanie
+mistrzem świata Street Fightera!
+
+572
+00:53:48,034 --> 00:53:50,419
+Chun-Li. Do usług, piękna pani.
+
+573
+00:53:50,959 --> 00:53:52,651
+Zgodnie z życzeniem...
+
+574
+00:53:52,818 --> 00:53:55,126
+...większa swoboda ruchów nóg.
+
+575
+00:53:55,277 --> 00:53:56,526
+Nie mogłem się oprzeć.
+
+576
+00:53:56,610 --> 00:53:58,586
+O Boże...
+
+577
+00:54:01,054 --> 00:54:03,207
+co stało się z twoją ręką?
+
+578
+00:54:03,469 --> 00:54:06,876
+Przyjęłam znak,
+żeby dowieść lojalności. Widzisz?
+
+579
+00:54:06,960 --> 00:54:09,400
+To bardzo...
+
+580
+00:54:10,760 --> 00:54:14,899
+Chun-Li, masz zbierać
+informacje. Nic więcej.
+
+581
+00:54:14,983 --> 00:54:17,584
+Mój plan działa. Jesteśmy blisko.
+
+582
+00:54:17,882 --> 00:54:22,039
+Chun, wiesz, że zrobiłbym
+dla ciebie wszystko...
+
+583
+00:54:22,581 --> 00:54:29,581
+ale twoje osobiste zaangażowanie
+w tę sprawę jest problemem.
+
+584
+00:54:37,090 --> 00:54:39,509
+To potwór, który zabił mojego ojca.
+
+585
+00:54:39,593 --> 00:54:43,014
+Jedź.
+
+586
+00:54:47,533 --> 00:54:50,268
+Dobra.
+
+587
+00:54:52,685 --> 00:54:55,454
+Zabierzmy cię na zaplecze. Nie, nie.
+
+588
+00:55:15,116 --> 00:55:18,499
+Podeszwy stóp są jak bramy.
+
+589
+00:55:18,583 --> 00:55:24,682
+To część ciała, która nas podtrzymuje,
+a jednak żyje w cieniu.
+
+590
+00:55:27,305 --> 00:55:28,305
+Proszę...
+
+591
+00:55:33,020 --> 00:55:34,635
+zjedz ze mną ślimaki.
+
+592
+00:55:38,145 --> 00:55:39,530
+Nie jestem głodny.
+
+593
+00:55:43,069 --> 00:55:44,932
+Ale nalegam.
+
+594
+00:55:53,280 --> 00:55:56,896
+Wiem, że się na mnie wściekniesz,
+ale to chyba po prostu musiało się stać.
+
+595
+00:55:56,980 --> 00:55:58,380
+Trzymaj się ode
+
+596
+00:56:00,580 --> 00:56:01,657
+mnie z daleka.
+
+597
+00:56:03,978 --> 00:56:06,824
+Agentko Lee, dobrze się pani spisała.
+
+598
+00:56:07,413 --> 00:56:09,413
+Stryker, co to ma znaczyć?
+
+599
+00:56:09,965 --> 00:56:11,968
+- Zabieramy cię.
+- Nie zatrzymasz mnie.
+
+600
+00:56:12,052 --> 00:56:14,514
+Tylko ja mogę aresztować Bisona.
+
+601
+00:56:14,941 --> 00:56:16,543
+On mi ufa.
+
+602
+00:56:16,627 --> 00:56:18,340
+Wysączy Ryu, by się wzmocnić
+
+603
+00:56:18,424 --> 00:56:20,411
+mocą psychiczną. Nie dotykaj mnie!
+
+604
+00:56:20,495 --> 00:56:23,157
+- Przepraszam!
+- Właśnie potwierdzasz moje słowa.
+
+605
+00:56:23,241 --> 00:56:24,650
+Straciłaś rozum.
+
+606
+00:56:24,734 --> 00:56:27,396
+Przegapimy tę szansę, a on urośnie w siłę.
+
+607
+00:56:27,480 --> 00:56:30,190
+Czas ucieka. Muszę wrócić, nim mnie spalą.
+
+608
+00:56:30,274 --> 00:56:32,277
+To nie twoja decyzja!
+
+609
+00:56:32,361 --> 00:56:33,658
+Zaślepiło cię twoje...
+
+610
+00:56:33,742 --> 00:56:36,127
+Spróbuj mnie powstrzymać, suko!
+
+611
+00:56:45,517 --> 00:56:48,286
+Żałosny jesteś. Jestem taki żałosny.
+
+612
+00:56:48,990 --> 00:56:50,087
+To moja kara.
+
+613
+00:56:51,650 --> 00:56:53,496
+Co mam właściwie zrobić?
+
+614
+00:57:00,024 --> 00:57:01,406
+Witamy ponownie!
+
+615
+00:57:01,490 --> 00:57:04,289
+Widzieliście tę walkę na otwarcie?
+
+616
+00:57:04,373 --> 00:57:07,045
+I tak nikt tu nie przestrzega zasad.
+
+617
+00:57:07,129 --> 00:57:10,606
+Kto przegapił: Vega rozgromił Kyle'a.
+
+618
+00:57:10,690 --> 00:57:12,296
+No popatrzcie na niego.
+
+619
+00:57:12,380 --> 00:57:16,896
+Ten seksowny hiszpański chłoptaś tańczy.
+
+620
+00:57:16,980 --> 00:57:20,186
+Kyle, zamknij się! W pierwszej
+rundzie cię znokautowali!
+
+621
+00:57:20,270 --> 00:57:22,276
+Co my tu wyprawiamy? Żadnych zasad!
+
+622
+00:57:22,360 --> 00:57:23,456
+Któraś tam runda.
+
+623
+00:57:23,540 --> 00:57:25,696
+Jesteś pizdą i przegrałeś. Nie jęcz.
+
+624
+00:57:25,780 --> 00:57:28,716
+Nie jęczę. Muszę krzyczeć,
+bo masz megafon.
+
+625
+00:57:28,800 --> 00:57:30,596
+Dalej, ludzie! No już!
+
+626
+00:57:30,680 --> 00:57:35,496
+Tak! A teraz kolejna walka,
+na którą czekaliście!
+
+627
+00:57:35,580 --> 00:57:38,485
+Przystojny, ale głupi jak but.
+
+628
+00:57:38,621 --> 00:57:39,927
+Ken Masters.
+
+629
+00:58:05,210 --> 00:58:07,642
+Ken, mam dobre wieści.
+
+630
+00:58:07,729 --> 00:58:10,313
+Postawiłem na ciebie wszystko. Przegraj.
+
+631
+00:58:10,397 --> 00:58:12,738
+Zejdź tu i powiedz mi to w twarz.
+
+632
+00:58:12,822 --> 00:58:14,566
+Pożałujesz. Srogo pożałujesz.
+
+633
+00:58:14,650 --> 00:58:17,099
+Dan, założę się, że tego nie zrobisz.
+
+634
+00:58:17,183 --> 00:58:19,002
+Gotowy na to?
+
+635
+00:58:19,765 --> 00:58:21,456
+Miałeś być bezstronny.
+
+636
+00:58:21,540 --> 00:58:23,215
+Dan, jesteś pijawką. Ja nie.
+
+637
+00:58:23,299 --> 00:58:28,935
+Jesteś wampirem. Jeszcze raz nazwiesz mnie
+pijawką, to powiem ci to prosto w twarz.
+
+638
+00:58:44,946 --> 00:58:47,254
+Co ty tu robisz? Gdzie jest...
+
+639
+00:58:48,380 --> 00:58:50,963
+...Bison? Lord Bison.
+
+640
+00:58:51,876 --> 00:58:53,585
+Wyczuwa twój żal.
+
+641
+00:58:57,831 --> 00:59:02,139
+Skoro wreszcie dopadł Ryu,
+stracił tobą zainteresowanie.
+
+642
+00:59:02,260 --> 00:59:04,653
+Ja nie.
+
+643
+00:59:05,032 --> 00:59:06,923
+Wiem, że coś knujesz.
+
+644
+00:59:08,340 --> 00:59:09,744
+I to bardzo.
+
+645
+00:59:15,132 --> 00:59:18,669
+Powinniśmy podziękować
+twojej przyjaciółce Chun-Li.
+
+646
+00:59:18,753 --> 00:59:23,464
+Bez niej nie mielibyśmy tej
+wspaniałej randki przy ślimakach.
+
+647
+00:59:25,840 --> 00:59:27,788
+Podziwiam ich upór...
+
+648
+00:59:29,318 --> 00:59:32,172
+...budują wokół siebie małe twierdze.
+
+649
+00:59:35,180 --> 00:59:38,795
+Bezpieczeństwo samo w sobie
+jest rodzajem siły.
+
+650
+00:59:43,189 --> 00:59:44,816
+Ale twoją moc...
+
+651
+00:59:45,410 --> 00:59:48,721
+Dostrzegłem ją, gdy pokonałeś Sagata.
+
+652
+00:59:49,242 --> 00:59:50,242
+Byłem tam.
+
+653
+00:59:50,533 --> 00:59:53,013
+Na pierwszym turnieju świata.
+
+654
+00:59:53,760 --> 00:59:55,395
+Gdy wręczyli ci trofeum,
+
+655
+00:59:55,479 --> 01:00:00,940
+nie słyszałeś ryku tłumu,
+bo zagłuszały go głosy w twojej głowie.
+
+656
+01:00:02,490 --> 01:00:03,538
+Cholera!
+
+657
+01:00:06,827 --> 01:00:09,516
+Nauczę cię, jak je uciszyć.
+
+658
+01:00:10,719 --> 01:00:17,540
+Należysz do mnie i możesz
+pokazać mi swoją moc.
+
+659
+01:00:20,804 --> 01:00:26,336
+Ta moc...
+
+660
+01:00:26,420 --> 01:00:29,662
+...pochłonie tylko takich jak ty.
+
+661
+01:00:33,774 --> 01:00:35,087
+Prawdziwa siła.
+
+662
+01:00:36,679 --> 01:00:38,371
+Trzeba sobie zasłużyć.
+
+663
+01:00:39,881 --> 01:00:41,889
+Nigdy jej nie zdobędziesz,
+
+664
+01:00:42,876 --> 01:00:45,014
+a co dopiero opanujesz.
+
+665
+01:00:50,057 --> 01:00:51,184
+Puść mnie.
+
+666
+01:00:56,212 --> 01:00:57,212
+Nie.
+
+667
+01:00:59,154 --> 01:01:00,522
+Obudź bestię.
+
+668
+01:01:04,802 --> 01:01:06,778
+Wielce czcigodny Lord M...
+
+669
+01:01:06,862 --> 01:01:10,334
+Bison ma ważne ogłoszenie.
+
+670
+01:01:10,676 --> 01:01:13,911
+Ryu wycofał się z turnieju.
+
+671
+01:01:14,046 --> 01:01:16,484
+Joe wygrywa walkowerem.
+
+672
+01:01:16,700 --> 01:01:18,801
+O co chodzi? Spokojnie, Joe.
+
+673
+01:01:18,885 --> 01:01:20,609
+Wracamy do walki na ringu.
+
+674
+01:01:20,693 --> 01:01:23,153
+Druga runda: Ken kontra Balrog.
+
+675
+01:01:23,237 --> 01:01:24,237
+Walka!
+
+676
+01:01:43,680 --> 01:01:45,928
+Wszystko od tego zależy.
+
+677
+01:01:46,191 --> 01:01:48,413
+Biorę dziś leki rozrzedzające krew.
+
+678
+01:01:48,497 --> 01:01:51,057
+Hej, Brązowy, mam twoją krew na pięści.
+
+679
+01:01:51,141 --> 01:01:52,849
+Jeszcze jeden cios.
+
+680
+01:01:53,511 --> 01:01:54,511
+Nie trafiłeś.
+
+681
+01:01:54,893 --> 01:01:56,778
+Trzecia runda! Walka!
+
+682
+01:01:56,862 --> 01:01:57,862
+Jezu.
+
+683
+01:02:38,187 --> 01:02:39,187
+Dasz radę.
+
+684
+01:02:39,914 --> 01:02:41,606
+Samą siłą nie wygrasz.
+
+685
+01:02:42,643 --> 01:02:43,643
+Spokojnie.
+
+686
+01:02:48,299 --> 01:02:49,614
+Skróć dystans,
+
+687
+01:02:50,394 --> 01:02:51,745
+i uderz. Nie
+
+688
+01:02:55,405 --> 01:02:56,439
+trafiłeś.
+
+689
+01:02:59,147 --> 01:03:00,644
+Uspokój się.
+
+690
+01:03:01,006 --> 01:03:02,006
+Zwab go.
+
+691
+01:03:03,012 --> 01:03:04,704
+Dobrze wymierz moment.
+
+692
+01:03:06,758 --> 01:03:09,004
+No, już się obudził.
+
+693
+01:03:11,940 --> 01:03:14,281
+No i pięknie! O to chodzi!
+
+694
+01:03:14,365 --> 01:03:16,158
+Leży! Dalej!
+
+695
+01:03:16,611 --> 01:03:20,303
+Dajcie widzom to, czego chcą!
+W górę i przerzut!
+
+696
+01:03:23,460 --> 01:03:24,550
+Tak!
+
+697
+01:03:25,280 --> 01:03:26,280
+Tak!
+
+698
+01:03:28,124 --> 01:03:29,893
+Zwycięzca: Ken Masters!
+
+699
+01:03:49,324 --> 01:03:51,976
+Dałem ci szansę przyjąć marchewkę.
+
+700
+01:03:52,537 --> 01:03:54,839
+Teraz użyję kija.
+
+701
+01:03:57,450 --> 01:03:58,450
+Nie!
+
+702
+01:04:05,078 --> 01:04:07,262
+Wiem, na co cię stać.
+
+703
+01:04:07,914 --> 01:04:08,914
+Pokaż mi.
+
+704
+01:04:11,565 --> 01:04:13,910
+Nie użyję Hado!
+
+705
+01:04:15,541 --> 01:04:18,464
+Może i potrafisz to teraz powstrzymać,
+
+706
+01:04:19,101 --> 01:04:23,255
+ale poczekaj, aż poznasz
+mojego zielonego przyjaciela.
+
+707
+01:04:28,028 --> 01:04:29,336
+Przyprowadzić go!
+
+708
+01:04:41,444 --> 01:04:42,928
+Dalej!
+
+709
+01:04:48,744 --> 01:04:51,526
+Jest sierotą, tak jak ty, Ryu.
+
+710
+01:04:52,156 --> 01:04:54,686
+Tyle że wychowały go węgorze.
+
+711
+01:04:58,250 --> 01:05:00,635
+Węgorze elektryczne. Ale numer!
+
+712
+01:05:44,535 --> 01:05:45,997
+Pachnie hot dogami.
+
+713
+01:05:58,740 --> 01:05:59,830
+Stój, bestio!
+
+714
+01:06:00,285 --> 01:06:01,441
+Nie chcę z tobą walczyć.
+
+715
+01:06:01,525 --> 01:06:06,770
+Za trzy rolki papieru obstawiam,
+że Ryu zginie w 10 sekund.
+
+716
+01:06:10,359 --> 01:06:12,306
+Zbij jego ciosy!
+
+717
+01:06:21,663 --> 01:06:22,663
+Dobra.
+
+718
+01:06:25,269 --> 01:06:28,034
+Stawiajcie! Pora, żeby Ryu zginął!
+
+719
+01:06:34,495 --> 01:06:38,264
+Dziwaki, gotowi poznać
+najlepszych z najlepszych?
+
+720
+01:06:39,320 --> 01:06:40,790
+Ken na scenę!
+
+721
+01:06:41,121 --> 01:06:44,690
+Co tam? Zaraz szybko załatwię tego gościa.
+
+722
+01:06:44,774 --> 01:06:46,800
+Potem do ciebie wrócę.
+
+723
+01:06:46,884 --> 01:06:49,636
+Czy ten zadziorny kurczaczek da radę?
+
+724
+01:06:49,720 --> 01:06:52,369
+Chyba tak, bo Vega się wycofał.
+
+725
+01:06:52,651 --> 01:06:53,651
+Ken.
+
+726
+01:06:54,092 --> 01:06:58,508
+O, jest. Wiesz... Kurwa. Ma kłopoty.
+
+727
+01:06:59,930 --> 01:07:02,351
+Bison go więzi. Musimy coś zrobić. Już.
+
+728
+01:07:02,435 --> 01:07:04,538
+Spokojnie. O czym ty... o czym mówisz?
+
+729
+01:07:04,622 --> 01:07:09,308
+Ten turniej nie jest tym, za co go masz.
+To nie jest prawdziwy turniej.
+
+730
+01:07:09,997 --> 01:07:13,128
+To najprawdziwsza rzecz,
+jaką zrobiłem w życiu.
+
+731
+01:07:13,212 --> 01:07:18,208
+Latami żyłem w cieniu Ryu.
+Teraz moja kolej na chwałę.
+
+732
+01:07:30,960 --> 01:07:32,131
+Cholera!
+
+733
+01:07:33,317 --> 01:07:36,544
+Ugryź ją w głowę! Dawaj!
+
+734
+01:07:36,857 --> 01:07:38,807
+Dawaj!
+
+735
+01:07:40,640 --> 01:07:41,794
+Lubię zaklęcia.
+
+736
+01:07:47,200 --> 01:07:49,437
+Bison cię wykorzystuje.
+
+737
+01:07:49,521 --> 01:07:51,007
+Chcę odzyskać mamę.
+
+738
+01:07:52,085 --> 01:07:53,470
+Wiesz, gdzie jest?
+
+739
+01:07:53,774 --> 01:07:56,143
+Czas ucieka, Blanka!
+
+740
+01:08:01,920 --> 01:08:02,920
+Chodź ze mną.
+
+741
+01:08:03,232 --> 01:08:04,770
+Odnajdę twoją matkę.
+
+742
+01:08:06,030 --> 01:08:08,477
+Nie wierz w jego kłamstwa!
+
+743
+01:08:08,627 --> 01:08:10,270
+Wiesz, gdzie jest moja mama?
+
+744
+01:08:10,354 --> 01:08:12,688
+Jeśli połączymy siły,
+
+745
+01:08:13,080 --> 01:08:14,287
+wydostaniemy się stąd.
+
+746
+01:08:14,371 --> 01:08:16,602
+Wiesz, gdzie jest moja mama?!
+
+747
+01:08:16,985 --> 01:08:19,436
+Nie? To zginiesz.
+
+748
+01:08:19,825 --> 01:08:20,825
+Jasne?
+
+749
+01:08:31,830 --> 01:08:32,984
+Ładnie pachnie.
+
+750
+01:08:33,204 --> 01:08:35,281
+Puść mnie, potworna bestio!
+
+751
+01:08:54,826 --> 01:08:56,382
+Dobra.
+
+752
+01:08:57,452 --> 01:08:58,576
+Leż.
+
+753
+01:08:59,549 --> 01:09:01,703
+Zaraz poleje się twoja krew.
+
+754
+01:09:15,129 --> 01:09:17,079
+Ostrzegałem cię.
+
+755
+01:09:21,569 --> 01:09:23,031
+Wyciągnij wszystko,
+
+756
+01:09:23,629 --> 01:09:26,159
+każdą kroplę mocy Ryu.
+
+757
+01:09:26,906 --> 01:09:28,745
+Ona nie...
+
+758
+01:09:45,978 --> 01:09:49,055
+Przepraszam, mój panie. On to zniszczył.
+
+759
+01:09:54,202 --> 01:09:57,852
+Ach, jestem prawdziwy.
+
+760
+01:10:04,032 --> 01:10:06,494
+Czekaj, zostało nam trochę Hado.
+
+761
+01:10:10,040 --> 01:10:11,694
+Denzel Washington, a tu jesteś!
+
+762
+01:10:11,778 --> 01:10:13,786
+Wszędzie cię szukam.
+
+763
+01:10:13,870 --> 01:10:16,361
+Zaraz twoja kolej.
+
+764
+01:10:16,445 --> 01:10:17,445
+Dobra...
+
+765
+01:10:20,226 --> 01:10:24,226
+Zwycięstwo dedykuję pamięci
+mojego zmarłego mistrza.
+
+766
+01:10:24,998 --> 01:10:25,998
+Jak tam...
+
+767
+01:10:41,130 --> 01:10:45,520
+Dowódca Sił Powietrznych Guile. Delta Bison
+porusza się szybciej, niż sądziliśmy.
+
+768
+01:10:45,604 --> 01:10:48,556
+Możesz trochę oświecić Kena?
+
+769
+01:10:48,833 --> 01:10:51,141
+Przyjąłem, Wielki G. Pełna moc
+
+770
+01:10:55,246 --> 01:10:56,992
+teraz! Transpondery stabilne.
+
+771
+01:10:57,076 --> 01:10:59,544
+O nie, to źle.
+
+772
+01:11:04,920 --> 01:11:06,366
+Dawaj!
+
+773
+01:11:06,450 --> 01:11:08,846
+Dawaj! No, dawaj! Jeszcze!
+
+774
+01:11:08,930 --> 01:11:10,380
+Dawaj! No dalej!
+
+775
+01:11:10,817 --> 01:11:11,881
+Nie!
+
+776
+01:11:12,358 --> 01:11:13,439
+Nie!
+
+777
+01:11:14,890 --> 01:11:17,073
+Kurwa! Chcę więcej!
+
+778
+01:11:19,199 --> 01:11:21,968
+Panie, więcej nie udało się wydobyć.
+
+779
+01:11:29,994 --> 01:11:35,456
+Obudź się! Bison urządził ten turniej,
+żeby zdobyć to, czego chce: Ryu.
+
+780
+01:11:36,554 --> 01:11:37,726
+Ryu sobie poradzi.
+
+781
+01:11:37,810 --> 01:11:42,565
+Spoliczkowałeś mnie? Skup się, jasne?
+
+782
+01:11:43,434 --> 01:11:45,489
+Rozumiesz? Słuchaj mnie!
+
+783
+01:11:46,227 --> 01:11:48,458
+Masz w sobie to coś. Gokusan,
+
+784
+01:11:49,652 --> 01:11:51,106
+zacznij śpiewać.
+
+785
+01:11:52,010 --> 01:11:54,324
+Oho, robi się poważnie!
+
+786
+01:11:54,461 --> 01:11:59,712
+Została jedna runda,
+by wyłonić rywala Joe w finale.
+
+787
+01:11:59,796 --> 01:12:00,796
+Walka!
+
+788
+01:12:03,404 --> 01:12:04,404
+Dawaj, D.
+
+789
+01:12:13,540 --> 01:12:18,078
+- Co to, kurwa, jest Interpol?
+- Jestem tajniaczką, idioto!
+
+790
+01:12:18,555 --> 01:12:19,907
+Śledzę Bisona.
+
+791
+01:12:19,991 --> 01:12:21,763
+Wynoś się stąd!
+
+792
+01:12:21,847 --> 01:12:27,327
+Ken, twój duch płonie, ale umysł
+przesłaniają gniew i rozpacz.
+
+793
+01:12:27,770 --> 01:12:28,770
+Doprawdy?
+
+794
+01:12:33,484 --> 01:12:36,484
+Potrzebuję pomocy. Nie mam już wyjścia.
+
+795
+01:12:36,585 --> 01:12:37,585
+Walcz!
+
+796
+01:12:41,117 --> 01:12:42,831
+Ken!
+
+797
+01:12:44,463 --> 01:12:46,718
+To twój problem, nie mój.
+
+798
+01:12:46,802 --> 01:12:48,863
+Nie umiesz myśleć o innych?
+
+799
+01:12:48,947 --> 01:12:53,409
+Są ważniejsze rzeczy niż wygrana
+w turnieju. Dobra robota.
+
+800
+01:12:57,273 --> 01:13:00,543
+Bóg Śiwa uczy, by porzucić to,
+co cię zniewala...
+
+801
+01:13:00,627 --> 01:13:01,627
+twoją dumę.
+
+802
+01:13:03,770 --> 01:13:06,791
+Przeszłość i żądzę zwycięstwa.
+
+803
+01:13:14,005 --> 01:13:17,774
+Ken, wyrzeknij się ego,
+zanim cię do tego zmuszę.
+
+804
+01:13:22,130 --> 01:13:23,130
+Dobrze.
+
+805
+01:13:31,271 --> 01:13:32,271
+Lepiej.
+
+806
+01:13:33,727 --> 01:13:36,038
+Nic się nie stało. Dasz radę!
+
+807
+01:13:52,371 --> 01:13:54,206
+Ken wygrywa!
+
+808
+01:13:56,170 --> 01:13:57,645
+Co to, kurwa, było?
+
+809
+01:13:58,439 --> 01:13:59,516
+Cholera jasna!
+
+810
+01:14:00,454 --> 01:14:03,377
+Czemu znowu stawiałem przeciwko niemu?
+
+811
+01:14:03,582 --> 01:14:05,666
+Nie wierzę, że miałeś to w sobie.
+
+812
+01:14:05,750 --> 01:14:10,124
+Proszę pana, znów działamy.
+Pełne pobranie mocy Ryu go zabije.
+
+813
+01:14:10,208 --> 01:14:14,844
+Wszyscy musimy się poświęcać,
+gdy nas wezwą.
+
+814
+01:14:14,928 --> 01:14:17,478
+Prawda?
+
+815
+01:14:17,759 --> 01:14:18,913
+Władco Śmierci!
+
+816
+01:14:27,180 --> 01:14:31,276
+Po czterech ciężkich walkach
+i dwóch tchórzliwych walkowerach...
+
+817
+01:14:31,360 --> 01:14:36,052
+...doczekaliśmy się głównej walki
+Turnieju Wojowników Świata!
+
+818
+01:14:36,505 --> 01:14:38,881
+Pochylcie głowy, szumowiny!
+
+819
+01:14:39,383 --> 01:14:41,726
+Chwała Lordowi Bisonowi!
+
+820
+01:14:41,810 --> 01:14:43,949
+Wysławiajcie go! Chwała mu!
+
+821
+01:14:49,144 --> 01:14:53,772
+Mój brat Gouken cię powstrzymuje.
+
+822
+01:14:56,422 --> 01:14:58,785
+Ryu, nie ulegaj ciemności.
+
+823
+01:15:01,130 --> 01:15:06,591
+Zwycięzca tej walki
+zostanie mistrzem świata!
+
+824
+01:15:07,263 --> 01:15:08,955
+Wciąż jesteś chłopcem.
+
+825
+01:15:11,716 --> 01:15:15,639
+Tym razem będzie pan ze
+mnie dumny, mistrzu Gouken.
+
+826
+01:15:18,886 --> 01:15:21,732
+Sprawię, że będzie pan ze mnie dumny.
+
+827
+01:16:01,154 --> 01:16:03,091
+Odsuńcie się od baru!
+
+828
+01:16:03,175 --> 01:16:05,013
+Na kolana! Klękaj.
+
+829
+01:16:05,439 --> 01:16:07,944
+Dostaniesz ode mnie. Wiem, że to ty, Ken.
+
+830
+01:16:08,028 --> 01:16:10,371
+Co? Skąd mogłeś wiedzieć? To oczywiste.
+
+831
+01:16:10,455 --> 01:16:15,224
+- Brak ci subtelności.
+- Nieważne, głupku. Mam coś dla ciebie.
+
+832
+01:16:17,950 --> 01:16:18,943
+Mikey.
+
+833
+01:16:19,027 --> 01:16:22,181
+Nie rób z tego afery. Po prostu to załóż.
+
+834
+01:16:29,869 --> 01:16:34,579
+A, jest. Architektka tej
+małej ucieczki z więzienia.
+
+835
+01:16:37,553 --> 01:16:39,015
+Zdradziłaś mnie.
+
+836
+01:16:40,533 --> 01:16:41,533
+Dlaczego?
+
+837
+01:16:41,644 --> 01:16:44,256
+Zabił pan mojego ojca. Nigdy...
+
+838
+01:16:49,504 --> 01:16:52,283
+Więc teraz musimy walczyć.
+
+839
+01:16:53,772 --> 01:16:54,772
+Właśnie.
+
+840
+01:16:55,212 --> 01:16:56,212
+Nadzieja
+
+841
+01:16:59,698 --> 01:17:00,096
+Szybko!
+
+842
+01:17:00,180 --> 01:17:02,923
+- Jest za ciasny.
+- Nie mogę go zdjąć. Nie ma zamka.
+
+843
+01:17:03,007 --> 01:17:05,853
+Ryu, nie ma zamka! Dobra, dogoń mnie.
+
+844
+01:17:06,510 --> 01:17:08,794
+Celem tego przedsięwzięcia
+
+845
+01:17:09,282 --> 01:17:12,549
+jest wznieść się ponad
+
+846
+01:17:13,312 --> 01:17:15,594
+błahe urazy z przeszłości.
+
+847
+01:17:17,670 --> 01:17:20,992
+Przyjęłaś już znamię, moje dziecko.
+
+848
+01:17:21,747 --> 01:17:24,680
+Twoja podróż już się rozpoczęła.
+
+849
+01:17:26,727 --> 01:17:29,313
+A pańska zaraz się skończy.
+
+850
+01:17:38,176 --> 01:17:41,836
+Naucz ją, moja najpiękniejsza.
+
+851
+01:17:50,104 --> 01:17:54,181
+Dogoń nas, młody! Już nadrabiam!
+Miałem ciężki dzień.
+
+852
+01:17:56,699 --> 01:18:00,467
+Dobra, wynośmy się stąd.
+
+853
+01:18:00,888 --> 01:18:03,006
+Tędy, chodźcie.
+
+854
+01:18:07,474 --> 01:18:08,960
+No chodź. Niezła technika!
+
+855
+01:18:09,044 --> 01:18:10,198
+Wciąż niedbale.
+
+856
+01:18:12,745 --> 01:18:14,902
+Piękność oszpecona.
+
+857
+01:18:17,840 --> 01:18:19,455
+Weź, kurwa, przestań!
+
+858
+01:18:23,100 --> 01:18:27,022
+Muszę ich rozdzielić. Miałeś mieć turniej.
+
+859
+01:18:38,420 --> 01:18:41,651
+Po co turniej? Wiesz, że jesteś najlepszy.
+
+860
+01:20:23,001 --> 01:20:24,514
+No to zaczynamy.
+
+861
+01:20:34,801 --> 01:20:37,819
+Miałaś taki potencjał.
+
+862
+01:20:39,841 --> 01:20:42,915
+Filozofowie mieli rację.
+
+863
+01:20:42,999 --> 01:20:45,999
+Najbardziej beznadziejny i zdesperowany
+
+864
+01:20:46,102 --> 01:20:49,835
+przeciwnik jest najgroźniejszy.
+
+865
+01:20:55,210 --> 01:20:57,626
+Za dużo gadasz. Leż, zdrajco!
+
+866
+01:21:11,451 --> 01:21:15,368
+Dla ciebie to dzień, w którym umarłaś.
+
+867
+01:21:17,090 --> 01:21:18,090
+A dla mnie...
+
+868
+01:21:22,091 --> 01:21:23,800
+...zwykły wtorek.
+
+869
+01:21:26,168 --> 01:21:31,172
+Nikt się go nie spodziewał.
+Może dlatego przebił się przez drabinkę.
+
+870
+01:21:31,256 --> 01:21:33,716
+Przywitajcie Joe'a brawami!
+
+871
+01:21:36,740 --> 01:21:37,740
+Oto on!
+
+872
+01:21:38,276 --> 01:21:40,959
+Zgadza się, Śpiące Miasto! Mistrz
+
+873
+01:21:41,532 --> 01:21:43,469
+przybył skopać tyłki!
+
+874
+01:21:43,557 --> 01:21:48,583
+No! Tak jest! Jak waniliowy żelek.
+
+875
+01:21:50,174 --> 01:21:53,482
+A jego przeceniony przeciwnik,
+Ken Masters.
+
+876
+01:21:57,094 --> 01:21:59,376
+Mówiłem: Ken Masters!
+
+877
+01:22:10,118 --> 01:22:11,272
+Gdzie jest Ryu?
+
+878
+01:22:12,584 --> 01:22:15,387
+Biedny, głupi,
+
+879
+01:22:16,473 --> 01:22:19,599
+piękny, wysportowany przystojniaku.
+
+880
+01:22:20,653 --> 01:22:21,538
+Żal mi cię.
+
+881
+01:22:21,622 --> 01:22:22,699
+Gdzie on jest?
+
+882
+01:22:23,833 --> 01:22:26,719
+Przecież na niego patrzę. Stoi za tobą.
+
+883
+01:22:26,803 --> 01:22:27,803
+Ryu!
+
+884
+01:22:33,797 --> 01:22:35,054
+Co mu robisz?
+
+885
+01:22:36,210 --> 01:22:38,738
+Doję złotą krowę, że tak powiem.
+
+886
+01:22:40,610 --> 01:22:43,552
+Słodki nektar Hado.
+
+887
+01:22:46,180 --> 01:22:49,815
+Już jeden łyk twojej mocy był odurzający.
+
+888
+01:22:50,330 --> 01:22:51,638
+Jesteś psycholem!
+
+889
+01:22:57,066 --> 01:22:59,976
+Sprawdźmy, czy da się wyssać
+choć odrobinę mocy
+
+890
+01:23:00,060 --> 01:23:02,396
+z tego głupka.
+
+891
+01:23:03,500 --> 01:23:08,302
+A teraz, jeśli pozwolicie,
+pogratuluję prawdziwemu zwycięzcy...
+
+892
+01:23:08,386 --> 01:23:08,887
+Joe!
+
+893
+01:23:08,971 --> 01:23:11,301
+Don! Don!
+
+894
+01:23:11,552 --> 01:23:12,552
+Hej!
+
+895
+01:23:13,159 --> 01:23:15,163
+- Gdzie on jest?
+- Nie wiem, nie ma go.
+
+896
+01:23:15,247 --> 01:23:18,104
+Co znaczy, że go nie ma? Znajdź go!
+
+897
+01:23:19,265 --> 01:23:21,472
+- Potrzebuję chwili.
+- Lord Bison nie ustąpi.
+
+898
+01:23:21,556 --> 01:23:26,061
+Cholera! Błagam! Don, proszę, przełóż to!
+
+899
+01:23:26,455 --> 01:23:28,825
+Dobra, zastanowię się.
+
+900
+01:23:31,665 --> 01:23:32,665
+Nie.
+
+901
+01:23:33,579 --> 01:23:36,695
+Ken przegrał walkowerem.
+
+902
+01:23:37,358 --> 01:23:38,625
+To przegryw,
+
+903
+01:23:39,208 --> 01:23:42,977
+a ty jesteś przegrywem,
+skoro się z nim zadajesz.
+
+904
+01:23:44,459 --> 01:23:45,825
+A więc tak to wygląda?
+
+905
+01:23:45,909 --> 01:23:46,985
+Właśnie tak.
+
+906
+01:23:48,074 --> 01:23:49,379
+Dzięki, Don. Pa.
+
+907
+01:23:50,565 --> 01:23:53,796
+Pa! I niech cię drzwi nie trzasną w tyłek.
+
+908
+01:23:55,136 --> 01:23:59,809
+Dan, Ken cię przemielił i wypluł.
+
+909
+01:24:02,847 --> 01:24:06,079
+Mam wspaniałą wiadomość!
+
+910
+01:24:07,195 --> 01:24:09,589
+Zwycięzca walkowerem: Joe!
+
+911
+01:24:10,270 --> 01:24:13,321
+Tak jest! Dawaj,
+
+912
+01:24:14,099 --> 01:24:16,060
+Chodź, daj buziaka tatusiowi.
+
+913
+01:24:16,144 --> 01:24:18,606
+Daj tatusiowi buziaka. No chodź.
+
+914
+01:24:24,796 --> 01:24:25,796
+Czuję
+
+915
+01:24:28,594 --> 01:24:30,574
+jego obecność.
+
+916
+01:24:30,883 --> 01:24:36,295
+Puśćcie go!
+
+917
+01:24:36,716 --> 01:24:39,139
+Puśćcie go! Proszę!
+
+918
+01:24:39,360 --> 01:24:41,018
+Proszę, proszę, proszę!
+
+919
+01:24:41,102 --> 01:24:42,229
+Z drogi!
+
+920
+01:24:53,680 --> 01:24:55,839
+Miło było cię widzieć, Azjato!
+
+921
+01:24:55,923 --> 01:24:58,206
+Hej, dokąd idziesz?
+
+922
+01:25:01,410 --> 01:25:03,157
+Chcesz wywalić drużynę?
+
+923
+01:25:03,241 --> 01:25:05,010
+Kim ty jesteś, klaunie?
+
+924
+01:25:05,691 --> 01:25:09,460
+Będę z tymi wszystkimi
+legendami. Hej, ty debilu!
+
+925
+01:25:31,630 --> 01:25:36,010
+Masz, mały przyjacielu.
+
+926
+01:25:37,701 --> 01:25:40,416
+Miałeś rację. Bison kłamał.
+
+927
+01:25:41,587 --> 01:25:42,818
+Idę szukać mamy.
+
+928
+01:25:43,141 --> 01:25:47,295
+Uciekaj tamtędy. Tam jest wolność.
+
+929
+01:25:48,467 --> 01:25:50,308
+Dzięki. Blanka?
+
+930
+01:25:51,076 --> 01:25:52,076
+Jimmy.
+
+931
+01:25:52,454 --> 01:25:53,454
+Jimmy?
+
+932
+01:25:53,912 --> 01:25:55,989
+Mama dała mi na imię Jimmy.
+
+933
+01:26:03,179 --> 01:26:04,179
+Co się stało?
+
+934
+01:26:04,704 --> 01:26:06,824
+Ta żałosna bestyjka, Jimmy.
+
+935
+01:26:07,214 --> 01:26:09,092
+W porządku, dobrze?
+
+936
+01:26:09,273 --> 01:26:11,746
+Bo obaj jesteśmy bestiami.
+
+937
+01:26:12,200 --> 01:26:13,354
+Jesteśmy dzicy.
+
+938
+01:26:14,063 --> 01:26:15,063
+Tak.
+
+939
+01:26:15,910 --> 01:26:18,702
+Masz, na znak przyjaźni.
+
+940
+01:26:18,914 --> 01:26:19,914
+Weź.
+
+941
+01:26:20,007 --> 01:26:22,737
+Nie mogę... Nie mogę. Ładnie pachnie.
+
+942
+01:26:22,821 --> 01:26:24,995
+Na pewno jest świetne. Tak, tak.
+
+943
+01:26:25,079 --> 01:26:26,699
+Nie, dziękuję.
+
+944
+01:26:27,216 --> 01:26:29,430
+Wybacz, zatrzymaj go sobie.
+
+945
+01:26:30,928 --> 01:26:32,390
+Co robisz w piątek?
+
+946
+01:26:32,900 --> 01:26:36,007
+Co? Spotkamy się.
+Pokażę ci ulubione drzewo.
+
+947
+01:26:36,091 --> 01:26:37,392
+No co, nie?
+
+948
+01:26:38,557 --> 01:26:41,881
+Jimmy, musimy się rozstać.
+
+949
+01:26:42,645 --> 01:26:43,645
+Dobrze?
+
+950
+01:26:44,907 --> 01:26:45,907
+Widzę cię.
+
+951
+01:26:47,664 --> 01:26:48,825
+Widzę twój ból.
+
+952
+01:26:50,743 --> 01:26:54,779
+Bo wciąż uciekasz przed tym,
+co masz w sobie.
+
+953
+01:26:57,123 --> 01:27:02,252
+Tak. Blanka, Jimmy też ucieka.
+
+954
+01:27:05,141 --> 01:27:09,020
+Ale teraz jesteśmy przyjaciółmi.
+
+955
+01:27:09,508 --> 01:27:11,046
+Koniec z ukrywaniem,
+
+956
+01:27:11,510 --> 01:27:14,285
+koniec z tajemnicami, dobrze?
+
+957
+01:27:21,908 --> 01:27:22,908
+Tak.
+
+958
+01:27:23,089 --> 01:27:24,089
+Idź już.
+
+959
+01:27:25,061 --> 01:27:26,061
+Dobrze.
+
+960
+01:27:26,935 --> 01:27:28,161
+Żegnaj, Ryu.
+
+961
+01:27:28,701 --> 01:27:30,239
+Blanka robi fikołka.
+
+962
+01:27:31,046 --> 01:27:32,625
+Fajne, co?
+
+963
+01:27:32,825 --> 01:27:33,825
+Tak, Jimmy.
+
+964
+01:27:34,200 --> 01:27:35,738
+Chyba całkiem fajne.
+
+965
+01:27:41,098 --> 01:27:44,000
+Gdzie jesteś? Wyjście jest tędy, Ken.
+
+966
+01:27:50,090 --> 01:27:52,474
+Gdzie jest mój przeciwnik?
+
+967
+01:27:53,648 --> 01:27:57,137
+Co tu się dzieje? A co z tym gościem?
+
+968
+01:27:58,822 --> 01:28:01,974
+Ej, okaż temu mistrzowi trochę szacunku.
+
+969
+01:28:02,058 --> 01:28:04,077
+Nie ma tu żadnego mistrza.
+
+970
+01:28:04,161 --> 01:28:06,259
+Mam dość tego szczekania.
+
+971
+01:28:06,689 --> 01:28:07,766
+Patrz na mnie!
+
+972
+01:28:11,864 --> 01:28:13,402
+Aż mnie połaskotało!
+
+973
+01:28:15,310 --> 01:28:16,350
+O rany,
+
+974
+01:28:20,844 --> 01:28:23,238
+mam to w ustach!
+
+975
+01:28:25,582 --> 01:28:30,649
+Gdzie jest mój prawdziwy przeciwnik?
+
+976
+01:28:51,412 --> 01:28:54,174
+Co to było, do cholery?
+Jakiś brazylijski numer?
+
+977
+01:28:54,258 --> 01:28:55,530
+Nie wiem.
+
+978
+01:28:57,889 --> 01:28:59,215
+Muszę to skończyć.
+
+979
+01:28:59,299 --> 01:29:02,034
+Co? Nie. Zabieram cię stąd,
+zanim narobisz głupstw.
+
+980
+01:29:02,118 --> 01:29:03,349
+Nie mogę odejść.
+
+981
+01:29:04,051 --> 01:29:06,359
+Muszę sam stawić czoła Akumie.
+
+982
+01:29:08,002 --> 01:29:11,683
+Nie, nie, nie. Właśnie o tym mówię.
+
+983
+01:29:12,535 --> 01:29:14,401
+Tak chcesz stanąć do walki z Akumą?
+
+984
+01:29:14,485 --> 01:29:15,870
+Popatrz na siebie.
+
+985
+01:29:16,690 --> 01:29:19,305
+Wiesz co? Dobra. Idziesz na Akumę.
+
+986
+01:29:20,970 --> 01:29:22,098
+Idę z tobą.
+
+987
+01:29:24,000 --> 01:29:25,678
+Ken. Muszę.
+
+988
+01:29:26,948 --> 01:29:30,563
+Obiecałem mistrzowi Goukenowi,
+że cię ochronię.
+
+989
+01:29:33,794 --> 01:29:35,390
+Obiecałem Goukenowi,
+
+990
+01:29:36,502 --> 01:29:37,887
+i przez to zginął.
+
+991
+01:29:40,380 --> 01:29:42,380
+Nie był mądrzejszy od nas?
+
+992
+01:29:42,666 --> 01:29:45,597
+Że wiedział coś, czego
+my nie? Był mądrzejszy.
+
+993
+01:29:45,681 --> 01:29:49,066
+Mistrz Gouken nie powiedział
+ci wszystkiego!
+
+994
+01:29:54,378 --> 01:29:57,301
+To ja nie powiedziałem ci wszystkiego.
+
+995
+01:29:57,827 --> 01:29:58,827
+Co?
+
+996
+01:29:59,702 --> 01:30:02,856
+Dostałeś zaproszenie na pierwszy turniej.
+
+997
+01:30:03,375 --> 01:30:06,314
+Byłeś o krok od odblokowania Hado,
+
+998
+01:30:06,611 --> 01:30:11,300
+a ja uznałem, że udział w turnieju
+byłby dla ciebie zbyt niebezpieczny,
+
+999
+01:30:11,384 --> 01:30:14,076
+więc zniszczyłem twoje zaproszenie.
+
+1000
+01:30:16,010 --> 01:30:19,073
+Prawda jest taka, Ken: zazdrościłem ci.
+
+1001
+01:30:19,433 --> 01:30:21,895
+Walka była wszystkim, co miałem.
+
+1002
+01:30:22,660 --> 01:30:24,890
+Narastała we mnie ciemność,
+
+1003
+01:30:25,292 --> 01:30:28,138
+a ja zazdrościłem ci twojego światła.
+
+1004
+01:30:28,669 --> 01:30:30,669
+Dlatego cię powstrzymałem,
+
+1005
+01:30:31,394 --> 01:30:33,779
+i już nigdy nie byłeś taki sam.
+
+1006
+01:30:35,953 --> 01:30:37,440
+Po śmierci Goukena,
+
+1007
+01:30:38,551 --> 01:30:42,639
+powinienem być przy tobie.
+Zamiast tego uciekłem
+
+1008
+01:30:43,058 --> 01:30:45,058
+przed tym, co ci zrobiłem.
+
+1009
+01:30:46,115 --> 01:30:50,129
+Od tamtej pory żyję w hańbie.
+
+1010
+01:30:52,216 --> 01:30:55,503
+Przez te wszystkie lata żyłeś w kłamstwie.
+
+1011
+01:31:02,251 --> 01:31:04,688
+Nie warto mnie chronić.
+
+1012
+01:31:10,277 --> 01:31:11,689
+Przepraszam.
+
+1013
+01:31:16,442 --> 01:31:17,442
+Czemu?
+
+1014
+01:31:22,185 --> 01:31:24,723
+Wciąż jesteś nieostrożny, bracie.
+
+1015
+01:31:33,580 --> 01:31:36,349
+Nie jesteś moim bratem. Proszę, nie!
+
+1016
+01:31:59,382 --> 01:32:01,840
+Nie mogę przestać
+
+1017
+01:32:05,650 --> 01:32:07,166
+teraz! Czemu?
+
+1018
+01:32:07,593 --> 01:32:08,480
+Czemu?
+
+1019
+01:32:08,564 --> 01:32:10,241
+Czemu?
+
+1020
+01:32:27,921 --> 01:32:32,306
+Przez te wszystkie lata żyłem,
+jakbym nie był dość dobry.
+
+1021
+01:32:33,545 --> 01:32:34,545
+Wiem.
+
+1022
+01:32:36,617 --> 01:32:38,270
+Zawiodłem cię.
+
+1023
+01:32:38,709 --> 01:32:41,324
+Tak jak zawiodłeś mistrza Goukena.
+
+1024
+01:32:41,538 --> 01:32:42,538
+Tak.
+
+1025
+01:32:43,576 --> 01:32:45,099
+Staw mi czoła!
+
+1026
+01:32:57,048 --> 01:32:59,602
+Zrób coś! No, zrób coś!
+
+1027
+01:33:07,430 --> 01:33:11,790
+Dalej! Zrób to! Na co czekasz?
+
+1028
+01:33:12,222 --> 01:33:13,222
+Zrób to!
+
+1029
+01:33:39,831 --> 01:33:42,446
+Nie chciałem cię skrzywdzić, tato.
+
+1030
+01:33:43,560 --> 01:33:44,560
+Dlatego.
+
+1031
+01:33:54,828 --> 01:33:59,186
+Gdy potrzebuję zastrzyku mocy,
+sięgam po Duracell.
+
+1032
+01:33:59,656 --> 01:34:02,436
+Jesteśmy partnerami, na dobre i na złe.
+
+1033
+01:34:02,520 --> 01:34:06,788
+Na tym polega partnerstwo. Zostawisz
+partnera, żeby sam się z nimi zmierzył?
+
+1034
+01:34:06,872 --> 01:34:10,304
+Nic, co? Marco.
+
+1035
+01:34:49,178 --> 01:34:51,428
+Chopper 1, nieznana istota w arenie.
+
+1036
+01:34:51,512 --> 01:34:53,745
+Jego poziom energii jest poza skalą.
+
+1037
+01:34:53,829 --> 01:34:55,487
+Opisz go.
+
+1038
+01:34:55,918 --> 01:34:59,015
+Jest dziwny, panie. Bardzo duży i silny.
+
+1039
+01:34:59,099 --> 01:35:03,129
+Ma włosy jakby w ogniu albo...
+jakby to były węże.
+
+1040
+01:35:03,213 --> 01:35:06,576
+To smugi energii bijące
+od niego, nie węże, panie.
+
+1041
+01:35:06,660 --> 01:35:08,531
+Może być nawet potężniejszy od Ryu.
+
+1042
+01:35:08,615 --> 01:35:09,403
+Mój panie.
+
+1043
+01:35:09,487 --> 01:35:13,055
+Wreszcie nadszedł nasz czas,
+moja mała Zabójcza Pszczółko.
+
+1044
+01:35:13,139 --> 01:35:14,749
+Przygotuj więzy.
+
+1045
+01:35:52,054 --> 01:35:55,669
+W końcu pogodziłeś się ze
+swoim przeznaczeniem.
+
+1046
+01:35:56,488 --> 01:35:58,657
+To się kończy. Teraz.
+
+1047
+01:35:58,957 --> 01:36:01,618
+To mogło się skończyć już lata temu,
+
+1048
+01:36:01,702 --> 01:36:04,298
+ale wybrałeś uczucia zamiast mocy.
+
+1049
+01:36:04,382 --> 01:36:06,007
+Wybrałem honor!
+
+1050
+01:36:08,739 --> 01:36:09,739
+Gokensui.
+
+1051
+01:36:46,370 --> 01:36:50,177
+Ha, ha, ha! Co my tu mamy?
+
+1052
+01:37:04,356 --> 01:37:08,202
+- Mój panie, to zbyt niebezpieczne!
+- Zamknij się!
+
+1053
+01:37:21,985 --> 01:37:24,370
+Nie chcę twojej śmierci, Ryu.
+
+1054
+01:37:25,766 --> 01:37:27,846
+Chcę, byś się przebudził.
+
+1055
+01:37:31,150 --> 01:37:35,141
+Przebudź się! Mroczna siło, obudź się!
+
+1056
+01:37:35,722 --> 01:37:37,903
+Mówiłem: przebudź się!
+
+1057
+01:37:37,987 --> 01:37:40,592
+Nie mogę, nie mogę...
+
+1058
+01:37:41,627 --> 01:37:44,393
+Wciąż się powstrzymujesz.
+
+1059
+01:37:47,560 --> 01:37:49,349
+Nie jestem taki jak ty.
+
+1060
+01:37:52,908 --> 01:37:55,510
+Dołączysz do mojego brata, Goukena.
+
+1061
+01:37:55,594 --> 01:38:00,858
+Możesz... dołączyć do niego
+po tamtej stronie.
+
+1062
+01:38:01,818 --> 01:38:05,406
+Chcesz odkupić winy czy nie?
+
+1063
+01:38:07,530 --> 01:38:09,329
+Wybacz mi, mistrzu.
+
+1064
+01:38:39,101 --> 01:38:40,997
+Nareszcie.
+
+1065
+01:38:41,081 --> 01:38:42,081
+Nie!
+
+1066
+01:39:47,573 --> 01:39:50,044
+Nie powstrzymuj się.
+
+1067
+01:39:51,653 --> 01:39:53,608
+Nie hamuj się.
+
+1068
+01:40:21,510 --> 01:40:23,433
+Szybko! Wynośmy się stąd!
+
+1069
+01:40:25,653 --> 01:40:26,750
+Dokąd?
+
+1070
+01:40:29,781 --> 01:40:31,319
+Stary, udało ci się!
+
+1071
+01:40:34,812 --> 01:40:38,620
+Ryu, proszę, musisz z tym walczyć.
+
+1072
+01:40:39,690 --> 01:40:40,690
+Walcz!
+
+1073
+01:40:42,892 --> 01:40:43,892
+Z tym!
+
+1074
+01:40:50,336 --> 01:40:52,234
+Przepraszam.
+
+1075
+01:40:54,716 --> 01:40:58,558
+Ken... ochronię cię.
+
+1076
+01:41:02,700 --> 01:41:08,942
+Mam cię, mam cię, stary.
+
+1077
+01:41:31,664 --> 01:41:34,741
+Łapy precz od mojego najlepszego kumpla!
+
+1078
+01:41:54,485 --> 01:41:57,211
+Gdy otworzysz drzwi do tej mocy,
+
+1079
+01:41:58,530 --> 01:42:03,209
+otworzysz drzwi,
+których nie da się zamknąć.
+
+1080
+01:42:06,078 --> 01:42:07,542
+Najlepszy na świecie.
+
+1081
+01:42:07,626 --> 01:42:09,934
+Przed czym miałbym go chronić?
+
+1082
+01:42:11,779 --> 01:42:13,060
+Przed nim samym.
+
+1083
+01:42:34,313 --> 01:42:35,313
+Serio?
+
+1084
+01:42:37,408 --> 01:42:39,034
+Hej!
+
+1085
+01:42:40,692 --> 01:42:46,782
+Hej, wracaj! No już, wracaj!
+
+1086
+01:42:50,688 --> 01:42:53,030
+Hej, zaczekaj.
+
+1087
+01:42:54,158 --> 01:42:55,235
+Zajmę się tym.
+
+1088
+01:42:59,963 --> 01:43:01,425
+Pewnie dwadzieścia.
+
+1089
+01:43:16,624 --> 01:43:17,701
+Co się dzieje?
+
+1090
+01:43:18,320 --> 01:43:20,498
+Oczywiście, śpiewem przywraca go do życia.
+
+1091
+01:43:20,582 --> 01:43:22,505
+Dajcie mi chwilę, dobrze?
+
+1092
+01:43:22,698 --> 01:43:25,467
+Męskie przyjaźnie są bardzo złożone.
+
+1093
+01:44:14,330 --> 01:44:15,792
+No, hadoukenem cię.
+
+1094
+01:44:15,896 --> 01:44:17,543
+Tak? A co się stało?
+
+1095
+01:44:17,627 --> 01:44:19,851
+Hadoukenem cię, kurwa, załatwiłem.
+
+1096
+01:44:19,935 --> 01:44:20,616
+Nie ma mowy.
+
+1097
+01:44:20,700 --> 01:44:22,346
+Tak, udało mi się.
+
+1098
+01:44:23,260 --> 01:44:27,081
+Udało ci się. Mnie też. No już!
+
+1099
+01:44:27,312 --> 01:44:28,312
+Tak.
+
+1100
+01:44:31,510 --> 01:44:33,265
+Żyć znaczy walczyć.
+
+1101
+01:44:36,060 --> 01:44:37,522
+Walczyć znaczy żyć.
+
+1102
+01:44:41,136 --> 01:44:44,770
+Przestańcie pieprzyć!
+Patrzcie, tam! Zniknął!
+
+1103
+01:44:45,158 --> 01:44:45,702
+O nie.
+
+1104
+01:44:45,786 --> 01:44:48,082
+Porwali Akumę.
+
+1105
+01:44:48,198 --> 01:44:48,999
+To źle, prawda?
+
+1106
+01:44:49,083 --> 01:44:50,083
+Ruszamy!
+
+1107
+01:44:50,434 --> 01:44:52,714
+Czy pogorszyliśmy sprawę?
+
+1108
+01:44:58,316 --> 01:45:00,394
+Głupcze! Moc psychiczna!
+
+1109
+01:45:00,997 --> 01:45:04,965
+Idę odebrać swoją moc.
+
+1110
+01:45:05,888 --> 01:45:08,942
+Biegiem! Ruszać się!
+
+1111
+01:45:19,808 --> 01:45:21,423
+No cóż, próbowaliśmy.
+
+1112
+01:45:21,837 --> 01:45:23,837
+Możemy już wracać do domu?
+
+1113
+01:45:25,219 --> 01:45:27,988
+Może trochę zaboleć. Czekaj, czekaj!
+
+1114
+01:45:28,160 --> 01:45:30,291
+Co jest... To teleskop?
+
+1115
+01:45:38,824 --> 01:45:41,314
+Szkoda fury!
+
+1116
+01:45:47,670 --> 01:45:48,759
+Przegrałeś.
+
+1117
+01:45:57,247 --> 01:46:01,641
+Sean, nie zrozum mnie źle.
+Wiem, że jesteś wrażliwy.
+
+1118
+01:46:01,725 --> 01:46:05,603
+- Dobra, użyj drugiej ręki.
+- Wiesz, co ich przeraża?
+
+1119
+01:46:05,687 --> 01:46:06,687
+Twoje gi.
+
+1120
+01:46:07,140 --> 01:46:09,477
+Kto nosi różowe gi?
+To nie róż, tylko biel.
+
+1121
+01:46:09,561 --> 01:46:14,078
+Prałem je z ciuchami Kena. To ja...
+Powiedz jej, że... Zamknijcie się!
+
+1122
+01:46:14,162 --> 01:46:15,931
+Przestańcie się kłócić.
+
+1123
+01:46:17,345 --> 01:46:19,527
+Spróbuj drugą ręką.
+
+1124
+01:46:25,526 --> 01:46:26,603
+A nie mówiłem?
+
+1125
+01:46:32,980 --> 01:46:36,334
+Wy nieudacznicy chyba
+potrzebujecie podwózki.
+
+1126
+01:46:36,418 --> 01:46:38,803
+Ruszamy na polowanie na Bizona.
+
+1127
+01:46:40,696 --> 01:46:41,927
+Jedziesz z nami?
+
+1128
+01:46:43,537 --> 01:46:44,614
+Wiesz, że tak.
+
+1129
+01:46:48,689 --> 01:46:50,482
+Kto ci tak obił twarz, Kyle?
+
+1130
+01:46:50,566 --> 01:46:51,838
+Nie wiem, Dan.
+
+1131
+01:46:52,734 --> 01:46:54,973
+Znasz tu kogoś, kto walczy szponem?
+
+1132
+01:46:55,057 --> 01:46:56,181
+Vega walczy szponem.
+
+1133
+01:46:56,265 --> 01:46:59,489
+Wsiadajcie! Jak myślicie?
+
+1134
+01:47:01,136 --> 01:47:03,786
+Chyba zostało
+
+1135
+01:47:04,690 --> 01:47:08,674
+jeszcze trochę dnia. Dojdą tam pieszo.
+
+1136
+01:47:11,334 --> 01:47:13,257
+Do zobaczenia na miejscu.
+
+1137
+01:47:33,168 --> 01:47:34,940
+Patrz na bosonogiego łacha.
+
+1138
+01:47:35,024 --> 01:47:35,789
+Odwróć się.
+
+1139
+01:47:35,873 --> 01:47:37,473
+No już, odwróć się.
+
+1140
+01:47:37,557 --> 01:47:39,879
+A nie mówiłem ci, dupku?
+
+1141
+01:47:40,202 --> 01:47:41,913
+Mówiłem. Delikatnie.
+
+1142
+01:47:41,997 --> 01:47:45,377
+Delikatnie. Witaj.
+Nie chciałeś iść pieszo.
+
+1143
+01:47:46,694 --> 01:47:48,311
+Droga była za długa.
+
+1144
+01:47:48,395 --> 01:47:50,498
+Za daleko dla pana
+
+1145
+01:47:50,582 --> 01:47:51,973
+Samotnego Wędrowca? Pana
+
+1146
+01:47:52,057 --> 01:47:53,616
+kroczącego samotną ścieżką.
+
+1147
+01:47:53,700 --> 01:47:55,743
+Nie dałeś rady przejść tej drogi?
+
+1148
+01:47:55,827 --> 01:47:58,144
+Kyle, zjedź na bok. Nie możesz tak robić.
+
+1149
+01:47:58,228 --> 01:47:59,843
+Nigdzie nie jedziesz.
+
+1150
+01:48:00,480 --> 01:48:02,020
+Włącz muzykę, Sean.
+
+1151
+01:48:02,104 --> 01:48:04,450
+Wszyscy, uspokójcie się.
+
+1152
+01:48:04,614 --> 01:48:06,204
+Cisza! Zamknijcie się!
+
+1153
+01:48:06,288 --> 01:48:07,844
+Włączam radio.
+
+1154
+01:48:34,165 --> 01:48:37,011
+Walka! Japonia!
+
+1155
+01:48:37,095 --> 01:48:39,651
+Brazylia!
+
+1156
+01:48:39,735 --> 01:48:41,951
+Chiny!
+
+1157
+01:48:42,035 --> 01:48:44,371
+USA!
+
+1158
+01:48:44,455 --> 01:48:47,085
+Tajlandia!
+
+1159
+01:48:49,104 --> 01:48:50,104
+Indie!
+
+1160
+01:48:50,477 --> 01:48:51,747
+ZSRR!
+
+1161
+01:48:52,480 --> 01:48:55,327
+Hiszpania! Walka!
+
+1162
+01:48:55,411 --> 01:48:56,536
+Prawda? Tak.
+
