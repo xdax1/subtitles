@@ -1,0 +1,2431 @@
+﻿1
+00:01:00,936 --> 00:01:07,943
+SIEDZIBA GŁÓWNA KORPORACJI TYRELLA
+
+2
+00:01:13,115 --> 00:01:16,786
+Prezes naszej firmy, pan Tyrell,
+pozwolił nam obniżyć cenę
+
+3
+00:01:16,869 --> 00:01:18,871
+pierwszego zamówienia o połowę.
+
+4
+00:01:18,954 --> 00:01:20,998
+Mogę wybierać dowolnie?
+
+5
+00:01:21,707 --> 00:01:26,712
+Producent rur węglowych Shimata?
+Przyda się panu klasa C.
+
+6
+00:01:26,796 --> 00:01:29,715
+REPLIKANT
+
+7
+00:01:29,799 --> 00:01:32,176
+Pewnie ma pan na hali jakichś dwustu
+
+8
+00:01:32,259 --> 00:01:34,220
+albo trzystu pracowników?
+
+9
+00:01:34,303 --> 00:01:35,971
+I ze stu na dokach?
+
+10
+00:01:36,055 --> 00:01:36,931
+Drugie tyle.
+
+11
+00:01:37,014 --> 00:01:40,142
+Praca w koloniach pozaziemskich kosztuje.
+
+12
+00:01:40,226 --> 00:01:43,479
+Żywność, paliwo, osłony radiacyjne.
+
+13
+00:01:43,562 --> 00:01:47,983
+Transport tego wszystkiego
+zmniejsza zyski o jakieś 30-40%?
+
+14
+00:01:49,151 --> 00:01:52,196
+A co, jeśli powiem panu,
+że mógłbym zredukować
+
+15
+00:01:52,279 --> 00:01:56,075
+pański personel o całe 95%?
+
+16
+00:01:57,201 --> 00:01:58,410
+Dzięki tym tutaj?
+
+17
+00:02:00,663 --> 00:02:01,872
+To replikanci.
+
+18
+00:02:03,040 --> 00:02:04,458
+Bardziej ludzcy niż ludzie.
+
+19
+00:02:06,168 --> 00:02:08,671
+Jeden taki robi za dwudziestu chłopa.
+
+20
+00:02:09,338 --> 00:02:13,008
+Wytrzymują zmiany ciśnienia
+i wysokie dawki promieniowania.
+
+21
+00:02:13,884 --> 00:02:16,554
+Mniej jedzą, mniej śpią…
+
+22
+00:02:18,848 --> 00:02:20,683
+i nie mają płacone.
+
+23
+00:02:23,894 --> 00:02:25,896
+Są bardzo podobni do nas, co?
+
+24
+00:02:25,980 --> 00:02:27,982
+Nie odróżniłby mnie pan od niego.
+
+25
+00:02:31,944 --> 00:02:32,778
+To…
+
+26
+00:02:33,863 --> 00:02:35,781
+Z czego się składają? Co mają w środku?
+
+27
+00:02:35,865 --> 00:02:39,368
+Mięso i kości, jak my.
+Tylko w lepszym wydaniu.
+
+28
+00:02:41,912 --> 00:02:44,039
+Skoro to są pierwsze egzemplarze,
+
+29
+00:02:44,582 --> 00:02:47,960
+a nazywają się „Nexus 4”,
+to co z pozostałą trójką?
+
+30
+00:02:48,627 --> 00:02:52,131
+Pan Tyrell wypuszcza na rynek
+wyłącznie to, co najlepsze.
+
+31
+00:02:52,214 --> 00:02:53,632
+Czyli ten model.
+
+32
+00:02:57,469 --> 00:02:59,054
+Wiem, co pana trapi.
+
+33
+00:02:59,972 --> 00:03:01,473
+Ważne pytanie.
+
+34
+00:03:03,017 --> 00:03:06,103
+Co z przełożonymi,
+jeśli jednemu z replikantów
+
+35
+00:03:06,186 --> 00:03:08,105
+znudzi się robienie rur?
+
+36
+00:03:08,188 --> 00:03:11,317
+Rotujemy tylko sześciu brygadzistów.
+
+37
+00:03:12,192 --> 00:03:14,111
+Skoro są dużo silniejsi od nas,
+
+38
+00:03:15,112 --> 00:03:18,198
+- jakie mają z nimi szanse?
+- Nie dojdzie do tego.
+
+39
+00:03:18,991 --> 00:03:20,576
+Wbudowaliśmy zabezpieczenie.
+
+40
+00:03:21,452 --> 00:03:22,786
+Ograniczony czas życia.
+
+41
+00:03:23,287 --> 00:03:28,042
+Zaczynają jako 21-latki i to pan decyduje,
+jak długo będą funkcjonować.
+
+42
+00:03:29,293 --> 00:03:32,755
+Nie mają rodziców, dzieci,
+przeszłości ani przyszłości.
+
+43
+00:03:33,547 --> 00:03:35,382
+Nie będą mieli o co walczyć.
+
+44
+00:03:36,383 --> 00:03:39,595
+Pan Tyrell pomyślał o wszystkim.
+
+45
+00:03:44,391 --> 00:03:45,684
+A co, jeśli nie?
+
+46
+00:03:49,605 --> 00:03:51,190
+Co nas wtedy czeka?
+
+47
+00:04:02,826 --> 00:04:05,287
+W XXI wieku replikancka siła robocza
+
+48
+00:04:05,371 --> 00:04:08,123
+uzdatniała do życia kolejne kolonie.
+
+49
+00:04:08,207 --> 00:04:13,796
+W tym czasie środowisko naturalne Ziemi
+uległo degradacji.
+
+50
+00:04:13,879 --> 00:04:19,051
+Gdy zawładnął nią chaos, najnowsze modele
+Nexus 9 obaliły swoich ludzkich stwórców
+
+51
+00:04:19,134 --> 00:04:24,306
+i rozpoczęły żmudny proces
+odnowy ziemskich ekosystemów.
+
+52
+00:04:24,390 --> 00:04:27,518
+Ludzie, obecnie zepchnięci na margines,
+
+53
+00:04:27,601 --> 00:04:31,063
+wykonują podrzędne prace
+narzucane niegdyś replikantom.
+
+54
+00:04:47,496 --> 00:04:49,915
+Lecz nie wszyscy ludzie się poddali.
+
+55
+00:04:49,999 --> 00:04:53,627
+Ci, którzy nadal walczą,
+kryją się pod fałszywą tożsamością.
+
+56
+00:04:53,711 --> 00:05:00,509
+Tropi ich oddział policji
+złożony z replikantów.
+
+57
+00:05:00,592 --> 00:05:07,599
+Nadali mu nazwę, która niegdyś
+budziła w nich samych największy lęk…
+
+58
+00:05:45,220 --> 00:05:50,100
+WYBRZEŻE LOS ANGELES
+ROK 2099
+
+59
+00:06:32,142 --> 00:06:35,646
+Za kwadrans będzie koniec zmiany.
+Przesłuchać każdego.
+
+60
+00:06:39,191 --> 00:06:42,111
+- A ty?
+- Zaczaję się tu na uciekinierów.
+
+61
+00:06:55,374 --> 00:06:58,210
+Pracownicy przybrzeżni, powrót do doku.
+
+62
+00:07:07,052 --> 00:07:09,012
+Mamy już wykaz waszej zmiany.
+
+63
+00:07:09,096 --> 00:07:12,891
+Prześwietlam każdego z moich ludzi.
+Są tymi, za których się podają.
+
+64
+00:07:12,975 --> 00:07:14,977
+A więc macie tu buntowników.
+
+65
+00:07:15,561 --> 00:07:18,480
+Kto tak twierdzi?
+Każdego sprawdzam osobiście.
+
+66
+00:07:18,564 --> 00:07:19,523
+Nie oszukają mnie.
+
+67
+00:07:19,606 --> 00:07:23,443
+To ty nie oszukuj sam siebie.
+Twój świat jest już przeszłością.
+
+68
+00:07:23,527 --> 00:07:27,114
+Pozostali pracownicy
+z południowego doku czekają już tam.
+
+69
+00:08:06,445 --> 00:08:07,446
+Dowód.
+
+70
+00:08:13,785 --> 00:08:15,996
+CZŁOWIEK (M)
+
+71
+00:08:16,079 --> 00:08:17,372
+Jesteś dobrym człowiekiem…
+
+72
+00:08:19,625 --> 00:08:20,751
+czy złym?
+
+73
+00:08:23,879 --> 00:08:25,214
+Zacznijcie przeszukanie.
+
+74
+00:08:25,547 --> 00:08:28,008
+- Ktoś musiał ich wezwać.
+- Jestem Caelan.
+
+75
+00:08:28,091 --> 00:08:31,261
+Caelan Bagby. Sunrise Court 6661.
+
+76
+00:08:31,345 --> 00:08:34,348
+- Mieszkam w sektorze…
+- Uwaga. Przygotujcie swoje dowody.
+
+77
+00:08:35,891 --> 00:08:37,100
+Zacznijmy na tyłach.
+
+78
+00:08:46,360 --> 00:08:47,194
+Caelan.
+
+79
+00:08:49,529 --> 00:08:50,364
+Caelan!
+
+80
+00:08:51,281 --> 00:08:52,407
+Musisz wiać.
+
+81
+00:08:53,200 --> 00:08:54,201
+Niby czemu?
+
+82
+00:08:55,077 --> 00:08:57,788
+„Caelan”? Tak się im przedstawisz?
+
+83
+00:08:59,414 --> 00:09:00,540
+Tak się nazywam.
+
+84
+00:09:00,624 --> 00:09:03,210
+Bzdura. Gdy tak cię nazywam, zapominasz…
+
+85
+00:09:05,629 --> 00:09:08,840
+Czuję twoje serce.
+Jakby chciało ci wyskoczyć.
+
+86
+00:09:10,008 --> 00:09:11,009
+To imię…
+
+87
+00:09:11,843 --> 00:09:13,720
+należy do kogoś innego.
+
+88
+00:09:14,596 --> 00:09:16,515
+Będą zadawali ci pytania,
+
+89
+00:09:16,598 --> 00:09:18,809
+na które nie znasz odpowiedzi.
+
+90
+00:09:19,559 --> 00:09:22,729
+Kupiłeś to imię,
+ale nie znasz przeszłości tej osoby.
+
+91
+00:09:23,272 --> 00:09:26,024
+Wciąż masz wyjście.
+
+92
+00:09:26,108 --> 00:09:28,068
+Prowadzi na ulicę.
+
+93
+00:09:28,151 --> 00:09:29,569
+Ale musisz wiać teraz.
+
+94
+00:09:40,831 --> 00:09:41,748
+Dawaj.
+
+95
+00:09:41,832 --> 00:09:44,084
+Jak uciekniesz, obetną nam pensję.
+
+96
+00:09:44,167 --> 00:09:45,961
+- Z drogi!
+- Hej!
+
+97
+00:09:52,259 --> 00:09:54,344
+Wracaj tam, kurwa! Hej!
+
+98
+00:10:21,121 --> 00:10:21,997
+Tess!
+
+99
+00:10:24,249 --> 00:10:26,710
+Przestań, kurwa, uciekać!
+
+100
+00:10:36,511 --> 00:10:37,804
+Stój!
+
+101
+00:10:37,888 --> 00:10:38,889
+Tess!
+
+102
+00:10:50,984 --> 00:10:51,818
+WYJŚCIE
+
+103
+00:11:01,828 --> 00:11:04,247
+- Hej, to jest nasze!
+- Musisz zapłacić!
+
+104
+00:11:05,165 --> 00:11:07,084
+Musisz zapłacić!
+
+105
+00:11:16,468 --> 00:11:18,095
+Ruszcie się! Z drogi!
+
+106
+00:11:27,187 --> 00:11:28,021
+Nie!
+
+107
+00:11:40,450 --> 00:11:41,743
+To twoja wina!
+
+108
+00:11:41,827 --> 00:11:43,703
+Kazałaś mi stamtąd spierdalać.
+
+109
+00:11:43,787 --> 00:11:45,414
+Ty szmato!
+
+110
+00:11:45,497 --> 00:11:47,582
+- Uciekinier zmierza ku tobie.
+- Znajdę go.
+
+111
+00:12:27,164 --> 00:12:29,416
+Janusz, ktoś jeszcze uciekł?
+
+112
+00:12:29,833 --> 00:12:32,127
+- Kobieta.
+- Dowiedz się, kim jest.
+
+113
+00:13:18,381 --> 00:13:20,717
+Stój.
+
+114
+00:13:20,842 --> 00:13:24,554
+URZĄD REJESTRACJI
+LOS ANGELES
+
+115
+00:13:29,434 --> 00:13:32,187
+Mam otwarte. Mogę cię przyjąć.
+
+116
+00:13:33,271 --> 00:13:34,648
+Raz, dwa…
+
+117
+00:13:34,731 --> 00:13:36,566
+Patrz w obiektyw, nie na mnie.
+
+118
+00:13:36,650 --> 00:13:38,818
+Hej, chodź do mnie.
+
+119
+00:13:39,236 --> 00:13:41,363
+U niego ktoś już jest. Hej!
+
+120
+00:13:41,947 --> 00:13:45,909
+Deidre Lawson? To ty?
+Przy siódmym okienku ktoś o ciebie pyta.
+
+121
+00:13:45,992 --> 00:13:48,036
+W siódmym są badania kontrolne.
+
+122
+00:13:48,119 --> 00:13:50,413
+Bez nich nie wydam dowodu, pani Lawson.
+
+123
+00:13:50,497 --> 00:13:52,207
+Ale złożyłam je tydzień temu.
+
+124
+00:13:52,290 --> 00:13:54,626
+Proszę sprawdzić, czego od pani chcą.
+
+125
+00:13:54,709 --> 00:13:57,420
+Będę na panią czekał. Są tam po lewej.
+
+126
+00:13:57,504 --> 00:13:58,505
+W porządku.
+
+127
+00:13:58,588 --> 00:13:59,631
+Wryła się.
+
+128
+00:13:59,714 --> 00:14:00,924
+Zajmę się nią.
+
+129
+00:14:03,051 --> 00:14:06,012
+Wszystko gra? Wysłałem kuzyna do magazynu.
+
+130
+00:14:06,096 --> 00:14:08,265
+- Nie było cię.
+- Chcę nową tożsamość.
+
+131
+00:14:08,682 --> 00:14:10,559
+Został mi jakiś dzień albo dwa.
+
+132
+00:14:10,642 --> 00:14:13,478
+Mają twój fałszywy dowód.
+Ciebie nie szukają.
+
+133
+00:14:13,562 --> 00:14:16,147
+- Ale będą szukać Tess.
+- Cora, powoli.
+
+134
+00:14:16,231 --> 00:14:18,775
+Znajdą mieszkanie, w którym jest mój brat.
+
+135
+00:14:18,858 --> 00:14:19,943
+Muszę go przenieść.
+
+136
+00:14:20,569 --> 00:14:21,778
+Załatwisz mi dowód?
+
+137
+00:14:21,861 --> 00:14:23,863
+- Byłaś w zatoce?
+- Potrzebuję go.
+
+138
+00:14:23,947 --> 00:14:27,033
+- Widziałaś coś ciekawego?
+- Na dziś. Będę ci dłużna.
+
+139
+00:14:27,117 --> 00:14:28,868
+Cora. Co tam widziałaś?
+
+140
+00:14:29,953 --> 00:14:33,081
+Ocean jest ogromny.
+Musiałaś mieć towarzystwo.
+
+141
+00:14:34,249 --> 00:14:38,295
+Widziałam trochę meduz.
+
+142
+00:14:39,713 --> 00:14:41,631
+Jeszcze nic się tam nie pojawiło.
+
+143
+00:14:41,715 --> 00:14:45,176
+- Muszą coś jeść.
+- Może zjadają się nawzajem.
+
+144
+00:14:45,760 --> 00:14:47,095
+Wesolutka myśl.
+
+145
+00:14:51,891 --> 00:14:53,893
+Załatwisz mi nowy dowód?
+
+146
+00:14:56,646 --> 00:15:00,525
+Nie mogę pracować, przemieszczać się
+ani zdobyć leków dla brata.
+
+147
+00:15:00,609 --> 00:15:02,819
+Nikt już nie sprzedaje dowodów.
+
+148
+00:15:02,902 --> 00:15:04,529
+Ktoś musi umrzeć,
+
+149
+00:15:05,155 --> 00:15:07,741
+przypominać cię z wyglądu,
+być w podobnym wieku
+
+150
+00:15:07,824 --> 00:15:09,409
+i mówić tym samym językiem.
+
+151
+00:15:09,492 --> 00:15:10,577
+Inaczej się nie da.
+
+152
+00:15:10,660 --> 00:15:13,538
+Moje wtyki dadzą mi znać,
+ale to kwestia miesięcy.
+
+153
+00:15:14,205 --> 00:15:16,041
+Znajdą mnie w tydzień.
+
+154
+00:15:24,257 --> 00:15:25,634
+Mogę cię wyrwać z LA.
+
+155
+00:15:30,096 --> 00:15:31,681
+Podszyjesz się pod nich?
+
+156
+00:15:33,558 --> 00:15:34,768
+Pod kogo?
+
+157
+00:15:37,479 --> 00:15:38,688
+Pod łowcę.
+
+158
+00:15:59,334 --> 00:16:01,670
+Ilu dorwaliście w magazynie?
+
+159
+00:16:01,753 --> 00:16:04,631
+Tylko jednego. Transport już go wiezie.
+
+160
+00:16:04,714 --> 00:16:05,840
+Tożsamość nieznana.
+
+161
+00:16:05,924 --> 00:16:08,259
+Przesłuchajcie go i wyślijcie do kolonii.
+
+162
+00:16:08,843 --> 00:16:11,554
+Brakowało nam dziś ludzi. Gdzie był Marek?
+
+163
+00:16:11,638 --> 00:16:14,057
+Jego pojazd zniknął z radarów na wybrzeżu.
+
+164
+00:16:15,183 --> 00:16:17,977
+NAMIERZAM…
+
+165
+00:16:18,645 --> 00:16:19,813
+NADAJNIK OFFLINE
+
+166
+00:16:21,606 --> 00:16:23,066
+Wysłano go tak daleko?
+
+167
+00:16:23,149 --> 00:16:25,235
+Nie. Pewnie sam ścigał uciekiniera.
+
+168
+00:16:26,611 --> 00:16:27,654
+Pomożemy mu.
+
+169
+00:16:28,446 --> 00:16:29,280
+Niby czemu?
+
+170
+00:16:30,490 --> 00:16:32,659
+Pewnie czeka, aż przestanie wiać.
+
+171
+00:16:34,077 --> 00:16:35,620
+Wyślę Janusza.
+
+172
+00:16:36,788 --> 00:16:38,790
+My się zajmiemy Markiem.
+
+173
+00:16:38,873 --> 00:16:41,835
+Janusz nadal szuka drugiego uciekiniera.
+
+174
+00:16:41,918 --> 00:16:42,752
+Kobiety.
+
+175
+00:17:43,813 --> 00:17:44,814
+Cześć, Cora.
+
+176
+00:17:47,358 --> 00:17:49,402
+Możesz zawrócić? Mamy komplet.
+
+177
+00:17:49,486 --> 00:17:51,613
+Nic nie opylam. Bebeto kazał mi wpaść.
+
+178
+00:17:53,072 --> 00:17:54,949
+Dobra. To właź.
+
+179
+00:17:55,700 --> 00:17:56,659
+Jest na tyłach.
+
+180
+00:17:59,913 --> 00:18:01,915
+Uważaj, żeby ci nie uciekła.
+
+181
+00:18:12,926 --> 00:18:14,385
+Nadal działają.
+
+182
+00:18:14,469 --> 00:18:16,012
+Masz na czym je odtworzyć?
+
+183
+00:18:16,095 --> 00:18:18,598
+Bo inaczej to nie wspomnienia,
+a zwykłe szkło.
+
+184
+00:18:18,681 --> 00:18:19,974
+Przyszła.
+
+185
+00:18:21,017 --> 00:18:23,853
+Potrzebuję pomocy przy licencji.
+
+186
+00:18:24,479 --> 00:18:26,731
+Zrobię to lepiej od niego.
+
+187
+00:18:26,815 --> 00:18:29,442
+Pomóż swojej żonie
+i zanieś talerz do łóżka.
+
+188
+00:18:30,026 --> 00:18:32,654
+Wybacz. Częstuj się.
+
+189
+00:18:36,699 --> 00:18:39,118
+Kim jest ta, za którą mam się podszyć?
+
+190
+00:18:40,119 --> 00:18:43,832
+Byłaś w Rosewood?
+Właściciel kitrał dla mnie pewną rzecz,
+
+191
+00:18:43,915 --> 00:18:45,041
+ale go zgarnęli.
+
+192
+00:18:46,417 --> 00:18:47,585
+Skonfiskowali wszystko…
+
+193
+00:18:49,003 --> 00:18:50,380
+jako materiał dowodowy.
+
+194
+00:18:50,463 --> 00:18:52,257
+- Kto? Łowcy?
+- Tak.
+
+195
+00:18:53,925 --> 00:18:56,302
+I tylko oni mogą odzyskać ten przedmiot.
+
+196
+00:18:59,722 --> 00:19:02,976
+Ludzie, którym go oddam,
+załatwiają wizy do Meksyku.
+
+197
+00:19:03,935 --> 00:19:06,771
+Można tam znaleźć godną pracę
+i prawdziwe szpitale.
+
+198
+00:19:06,855 --> 00:19:08,481
+To miasto wciąż jest nasze.
+
+199
+00:19:08,565 --> 00:19:11,192
+Mogłabyś poczuć się w nim jak dawniej.
+
+200
+00:19:11,276 --> 00:19:12,277
+A Elias?
+
+201
+00:19:12,777 --> 00:19:13,736
+Twój brat?
+
+202
+00:19:14,737 --> 00:19:15,738
+Poleci z tobą.
+
+203
+00:19:16,698 --> 00:19:18,825
+Otrzyma tam kompleksowe leczenie.
+
+204
+00:19:18,908 --> 00:19:21,578
+To czemu sam nie skorzystałeś z wizy?
+
+205
+00:19:21,661 --> 00:19:23,705
+Bo się tu urodziłem. Nie wyjadę.
+
+206
+00:19:35,049 --> 00:19:36,050
+Słuchaj.
+
+207
+00:19:36,801 --> 00:19:38,511
+Przenoszą ją tu z kolonii.
+
+208
+00:19:38,595 --> 00:19:41,389
+Mam jej numery seryjne.
+Dzięki nim wejdziesz.
+
+209
+00:19:41,973 --> 00:19:44,142
+Poznają, że nie jestem nią.
+
+210
+00:19:44,225 --> 00:19:46,311
+Jest nowa, nikt jej tam nie zna.
+
+211
+00:19:55,278 --> 00:19:57,822
+Słyszałem, kogo dziś zgarnęli w magazynie.
+
+212
+00:19:58,489 --> 00:20:00,199
+Pracowaliście razem.
+
+213
+00:20:02,076 --> 00:20:03,703
+Czemu on wpadł, a ty nie?
+
+214
+00:20:09,792 --> 00:20:14,297
+Cora, ciągle błagam ludzi,
+by nie patrzyli na mnie, tylko w obiektyw,
+
+215
+00:20:14,380 --> 00:20:16,090
+a ty patrzysz przeze mnie.
+
+216
+00:20:17,467 --> 00:20:18,593
+Unikasz spojrzeń,
+
+217
+00:20:18,676 --> 00:20:20,845
+żeby ktoś cię czasem nie rozpoznał.
+
+218
+00:20:24,140 --> 00:20:26,684
+Przestałaś już przypominać osobę.
+
+219
+00:20:32,899 --> 00:20:34,442
+Dlatego to może się udać.
+
+220
+00:20:44,911 --> 00:20:46,287
+Ostatnia tożsamość.
+
+221
+00:20:48,122 --> 00:20:49,457
+Potem będziesz sobą.
+
+222
+00:20:51,626 --> 00:20:53,252
+Taką, jaką chcesz być.
+
+223
+00:21:09,602 --> 00:21:11,562
+Replikantów stworzył Tyrell.
+
+224
+00:21:12,522 --> 00:21:15,525
+Numery seryjne wyrył im
+głęboko w biodrach.
+
+225
+00:21:17,402 --> 00:21:20,738
+Nadawał im numery, by nie mieli imion.
+
+226
+00:21:22,740 --> 00:21:24,450
+Ale teraz to oni panują.
+
+227
+00:22:19,839 --> 00:22:20,840
+Hedi.
+
+228
+00:22:23,301 --> 00:22:25,678
+Trzymaj, żeby się nie ruszała!
+
+229
+00:23:13,559 --> 00:23:15,895
+Replikanci chcą zapomnieć,
+kto ich stworzył.
+
+230
+00:23:16,521 --> 00:23:17,814
+Ale nie mogą.
+
+231
+00:23:19,273 --> 00:23:20,483
+Jesteśmy ich częścią.
+
+232
+00:23:48,719 --> 00:23:53,141
+MAREK B
+ŚLEDZENIE
+
+233
+00:23:57,311 --> 00:23:59,105
+Nie widać pojazdu Marka.
+
+234
+00:23:59,814 --> 00:24:01,440
+Pewnie już wrócił.
+
+235
+00:24:01,983 --> 00:24:02,817
+Nie.
+
+236
+00:24:03,651 --> 00:24:04,902
+Ktoś tu jest.
+
+237
+00:24:28,342 --> 00:24:29,343
+Jesteś tu sam?
+
+238
+00:24:37,977 --> 00:24:38,936
+A co z nim?
+
+239
+00:24:40,313 --> 00:24:45,026
+Często się zawiesza,
+ale dzięki niemu mogę cię widzieć.
+
+240
+00:24:49,238 --> 00:24:50,573
+Co tu robisz?
+
+241
+00:24:51,490 --> 00:24:52,491
+Nic.
+
+242
+00:24:58,206 --> 00:24:59,874
+Wiesz, jak się nazywam.
+
+243
+00:24:59,957 --> 00:25:01,500
+Sprawdź mnie.
+
+244
+00:25:01,584 --> 00:25:02,960
+Pytaj, o co tylko chcesz.
+
+245
+00:25:04,003 --> 00:25:06,380
+Żebyś mógł mnie okłamywać?
+
+246
+00:25:07,340 --> 00:25:08,549
+Walczyłeś od dziecka.
+
+247
+00:25:09,258 --> 00:25:10,760
+Rodzice cię zmusili?
+
+248
+00:25:11,719 --> 00:25:12,845
+Do czego?
+
+249
+00:25:13,429 --> 00:25:14,847
+Do walki z nami.
+
+250
+00:25:15,306 --> 00:25:16,140
+Nie.
+
+251
+00:25:17,058 --> 00:25:18,643
+Byłem tylko dzieckiem.
+
+252
+00:25:19,393 --> 00:25:21,062
+Dokonałem złych wyborów.
+
+253
+00:25:21,145 --> 00:25:22,897
+Skaziłem kilka zbiorników.
+
+254
+00:25:23,356 --> 00:25:24,941
+A jak byłem przy ostatnim,
+
+255
+00:25:25,024 --> 00:25:26,484
+zawiał mnie fosfor.
+
+256
+00:25:27,568 --> 00:25:28,945
+Wtedy oślepłem.
+
+257
+00:25:30,529 --> 00:25:33,241
+Nie obchodzi mnie,
+czemu uciekasz. Nie dziś.
+
+258
+00:25:33,658 --> 00:25:36,410
+Szukam kogoś. Jest taki jak ja.
+
+259
+00:25:38,204 --> 00:25:39,163
+To replikant?
+
+260
+00:25:41,040 --> 00:25:42,917
+I łowca.
+
+261
+00:25:44,585 --> 00:25:46,921
+Nazywa się Marek.
+
+262
+00:25:48,172 --> 00:25:49,215
+Nie znam go.
+
+263
+00:25:49,840 --> 00:25:52,260
+Nigdy nie spotkałem żadnego z was.
+
+264
+00:26:17,159 --> 00:26:18,911
+To czemu nosisz jego buty?
+
+265
+00:26:20,329 --> 00:26:23,541
+Nie wiedziałem, że to jego.
+Był tu przede mną.
+
+266
+00:26:24,417 --> 00:26:26,919
+Można tu mieszkać tylko pojedynczo.
+
+267
+00:26:28,379 --> 00:26:30,131
+Poprzednik się wyprowadza
+
+268
+00:26:31,340 --> 00:26:33,050
+i wskakujesz ty.
+
+269
+00:26:34,343 --> 00:26:35,886
+Zostały po nim tylko buty.
+
+270
+00:26:38,014 --> 00:26:39,348
+Przesłuchiwał cię?
+
+271
+00:26:39,932 --> 00:26:42,476
+Zapytał, skąd to wziąłem.
+
+272
+00:26:42,560 --> 00:26:46,272
+Akumulator jonowy. Powiedziałem,
+że kupiłem go od złomiarzy.
+
+273
+00:26:47,315 --> 00:26:50,443
+Ukrywali się na farmach solarnych Tamyamy.
+
+274
+00:26:50,526 --> 00:26:52,153
+Leżą kawałek w głąb lądu.
+
+275
+00:27:06,500 --> 00:27:07,585
+To już?
+
+276
+00:27:10,212 --> 00:27:11,213
+Zaraz umrę?
+
+277
+00:27:18,387 --> 00:27:20,014
+Nie bój się śmierci.
+
+278
+00:27:22,308 --> 00:27:25,144
+To jak zamiana jednej ciemności na drugą.
+
+279
+00:27:51,462 --> 00:27:54,048
+Dlaczego odwołałaś drony?
+
+280
+00:27:54,131 --> 00:27:56,217
+One powinny szukać, nie my.
+
+281
+00:27:58,677 --> 00:28:01,680
+Przywrócę je, gdy cię już nie będzie.
+
+282
+00:28:07,103 --> 00:28:08,354
+Myślisz, że to boli?
+
+283
+00:28:09,480 --> 00:28:10,731
+Gdy serce przestaje bić?
+
+284
+00:28:12,066 --> 00:28:15,319
+Czemu miałoby?
+Nie pamiętam nawet, jak zaczęło bić.
+
+285
+00:28:16,904 --> 00:28:19,407
+Już tylko osiem dni do twojej śmierci.
+
+286
+00:28:20,616 --> 00:28:22,368
+Sama się przekonasz.
+
+287
+00:28:23,536 --> 00:28:26,372
+Ty rób przeloty. Będę potrzebować światła.
+
+288
+00:29:41,655 --> 00:29:44,408
+Znalazłam pojazd Marka. Poświeć mi tu.
+
+289
+00:29:58,881 --> 00:30:00,174
+Nie ma nic więcej?
+
+290
+00:30:02,510 --> 00:30:03,594
+Nie ma.
+
+291
+00:31:03,404 --> 00:31:06,115
+- Gdzie jest Marek?
+- Na pewno nie tutaj.
+
+292
+00:31:06,198 --> 00:31:07,950
+Jebani złodzieje.
+
+293
+00:31:08,617 --> 00:31:09,952
+Nikt nic nie ukradł.
+
+294
+00:31:10,744 --> 00:31:13,664
+Marek odstrzelił nadajnik i porzucił wóz.
+
+295
+00:31:14,540 --> 00:31:15,666
+Ucieka.
+
+296
+00:31:16,542 --> 00:31:17,668
+Przed kim?
+
+297
+00:31:17,751 --> 00:31:18,794
+Przed nami.
+
+298
+00:31:34,560 --> 00:31:35,561
+Marian?
+
+299
+00:31:36,770 --> 00:31:38,188
+Przylatuje tu z kolonii?
+
+300
+00:31:39,940 --> 00:31:40,858
+Tak.
+
+301
+00:31:40,941 --> 00:31:42,151
+REPLIKANT (K)
+
+302
+00:31:43,193 --> 00:31:44,278
+Z Ibeji.
+
+303
+00:31:47,656 --> 00:31:49,950
+Nie możesz teraz zamknąć oczu.
+
+304
+00:31:50,826 --> 00:31:51,660
+Nie będzie boleć?
+
+305
+00:31:53,287 --> 00:31:54,163
+Nie będzie.
+
+306
+00:32:00,586 --> 00:32:01,712
+KALIBRACJA OKA
+
+307
+00:32:01,795 --> 00:32:04,548
+Wyświetli im się
+numer seryjny Marian Jessup.
+
+308
+00:32:05,132 --> 00:32:07,259
+Kieruj się do magazynu dowodów.
+
+309
+00:32:07,343 --> 00:32:10,971
+Znajdź dowód numer 10-9-47.
+
+310
+00:32:12,306 --> 00:32:14,141
+Co wykradam dla twojego kupca?
+
+311
+00:32:15,142 --> 00:32:17,102
+W razie wpadki lepiej nie wiedzieć.
+
+312
+00:32:21,482 --> 00:32:23,442
+Kiedy się tego nauczyłeś?
+
+313
+00:32:24,818 --> 00:32:25,819
+Podczas wojny.
+
+314
+00:32:26,987 --> 00:32:29,865
+Słaliśmy zwiadowców
+do ich własnych dzielnic.
+
+315
+00:32:29,948 --> 00:32:31,742
+Musieliśmy ich zamaskować.
+
+316
+00:32:33,035 --> 00:32:33,869
+A ty?
+
+317
+00:32:35,120 --> 00:32:36,121
+Dlaczego uciekasz?
+
+318
+00:32:39,458 --> 00:32:40,876
+Apartamenty Asbury.
+
+319
+00:32:42,711 --> 00:32:44,046
+Cały budynek się zawalił.
+
+320
+00:32:44,963 --> 00:32:47,049
+Czemu to zrobiłaś, skoro nie walczyłaś?
+
+321
+00:32:48,258 --> 00:32:51,095
+Zapłacili mi za podłożenie
+plecaka pod wejście.
+
+322
+00:32:51,720 --> 00:32:54,223
+Nie obchodziła mnie zawartość, a zarobek.
+
+323
+00:32:54,765 --> 00:32:56,433
+Na chleb dla mnie i Eliasa.
+
+324
+00:32:57,976 --> 00:32:59,645
+Tylko tym się kieruję.
+
+325
+00:33:00,646 --> 00:33:02,606
+Zawsze byliście tylko wy dwoje?
+
+326
+00:33:06,443 --> 00:33:07,444
+Nie.
+
+327
+00:33:08,320 --> 00:33:10,155
+Próbowaliśmy uciec do kolonii.
+
+328
+00:33:10,906 --> 00:33:12,491
+Bezskutecznie.
+
+329
+00:33:13,283 --> 00:33:15,953
+Ktoś przyjął nas pod opiekę.
+
+330
+00:33:16,995 --> 00:33:18,414
+A potem zostaliśmy sami.
+
+331
+00:33:19,581 --> 00:33:21,208
+Nie mogę stracić też jego.
+
+332
+00:33:24,920 --> 00:33:26,296
+Wrócisz tu za parę godzin.
+
+333
+00:33:27,047 --> 00:33:28,757
+Oboje stąd wyjedziecie.
+
+334
+00:33:30,634 --> 00:33:31,635
+Możesz mrugać.
+
+335
+00:33:45,858 --> 00:33:47,359
+Wolę twój kolor oczu.
+
+336
+00:33:51,321 --> 00:33:52,948
+Na łóżku masz ciuchy Marian.
+
+337
+00:35:40,722 --> 00:35:41,890
+Stój.
+
+338
+00:35:43,100 --> 00:35:44,101
+Kim jesteś?
+
+339
+00:35:45,394 --> 00:35:46,603
+Marian Jessup.
+
+340
+00:35:47,396 --> 00:35:48,856
+Nie ruszaj się.
+
+341
+00:36:50,459 --> 00:36:51,376
+Przechodź.
+
+342
+00:37:16,526 --> 00:37:18,820
+Otwarcie drzwi.
+
+343
+00:37:19,988 --> 00:37:21,949
+Jesteśmy na miejscu. Dziękujemy.
+
+344
+00:37:25,744 --> 00:37:30,332
+Grove Isle Road 3278, Sektor 8.
+
+345
+00:37:30,415 --> 00:37:33,168
+Jednostka w gotowości. Alarm taktyczny.
+
+346
+00:37:41,468 --> 00:37:44,972
+Platforma 9.
+Wymagane wsparcie administracyjne.
+
+347
+00:37:55,440 --> 00:37:59,903
+Alarm taktyczny. 63, 23. Zgłoś się.
+
+348
+00:37:59,987 --> 00:38:02,948
+Sektor 12, jednostka w gotowości.
+
+349
+00:38:03,031 --> 00:38:05,909
+Wysłano mnie do magazynu dowodów.
+Którędy to?
+
+350
+00:38:11,123 --> 00:38:11,957
+Marian?
+
+351
+00:38:13,834 --> 00:38:15,210
+Ty jesteś ta Marian?
+
+352
+00:38:15,293 --> 00:38:16,545
+Tak.
+
+353
+00:38:16,962 --> 00:38:18,171
+Nie usłyszy cię.
+
+354
+00:38:18,964 --> 00:38:19,965
+Bo sam słucha.
+
+355
+00:38:21,299 --> 00:38:23,760
+Jestem Yahya. Pracujesz dziś ze mną. Tędy.
+
+356
+00:38:32,644 --> 00:38:34,688
+Dziwne. Nie pachniesz niczym.
+
+357
+00:38:36,898 --> 00:38:38,692
+Nie wiedziałam, że powinnam.
+
+358
+00:38:42,696 --> 00:38:44,573
+Tak poznaję, skąd jesteście.
+
+359
+00:38:45,115 --> 00:38:47,409
+Amoniak - Mekkis. Siarka - Calantha.
+
+360
+00:38:48,160 --> 00:38:49,870
+A ty skąd jesteś?
+
+361
+00:38:49,953 --> 00:38:52,247
+Ja? Stąd. Nigdy nie opuściłem LA.
+
+362
+00:38:53,290 --> 00:38:54,875
+Czyż nie pachnę słońcem?
+
+363
+00:38:56,960 --> 00:38:59,629
+Patrolujemy Westside.
+Pojazdy są przydzielane.
+
+364
+00:38:59,713 --> 00:39:03,008
+Niedługo dostanę swój,
+ale ty jeszcze sobie poczekasz.
+
+365
+00:39:03,091 --> 00:39:05,343
+Tu ląduje każdy, kogo zgarniemy.
+
+366
+00:39:06,178 --> 00:39:08,263
+A co z przejętymi rzeczami?
+
+367
+00:39:08,346 --> 00:39:10,223
+Trafiają na dół. Tak jest lepiej.
+
+368
+00:39:10,307 --> 00:39:12,434
+Przy plaży wszyscy gotują na torfie.
+
+369
+00:39:12,517 --> 00:39:15,395
+- Ich graty cuchną popiołem.
+- Identyfikator.
+
+370
+00:39:15,479 --> 00:39:18,690
+Funkcjonariusz YB8-2.6.
+Dolny poziom numer 3.
+
+371
+00:39:18,774 --> 00:39:20,776
+Dziękuję.
+
+372
+00:39:40,087 --> 00:39:42,297
+Dziś powinni ci przyznać mieszkanie.
+
+373
+00:39:43,423 --> 00:39:46,676
+Przybysze z kolonii dzielą
+kwatery wspólne. Przywykniesz.
+
+374
+00:39:48,720 --> 00:39:51,264
+Postaram się,
+żebyś trafiła do Boyle Heights.
+
+375
+00:39:51,348 --> 00:39:52,682
+To blisko mnie.
+
+376
+00:39:52,766 --> 00:39:56,019
+Dobrze. Dzięki.
+
+377
+00:39:56,603 --> 00:39:58,980
+Otwarcie drzwi.
+
+378
+00:40:00,774 --> 00:40:03,443
+Jesteśmy na miejscu. Dziękujemy.
+
+379
+00:40:09,825 --> 00:40:11,451
+MAGAZYN DOWODÓW
+
+380
+00:40:15,997 --> 00:40:17,624
+Ile jeszcze to zajmie?
+
+381
+00:40:19,709 --> 00:40:21,670
+Miałam wrócić do recepcji.
+
+382
+00:40:21,753 --> 00:40:23,588
+Muszę dokończyć formalności.
+
+383
+00:40:25,090 --> 00:40:26,883
+Później tam wstąpimy.
+
+384
+00:40:33,306 --> 00:40:34,766
+Broń powinna już czekać.
+
+385
+00:40:35,642 --> 00:40:39,437
+Jaki model podać,
+funkcjonariuszko JT6-7.3?
+
+386
+00:40:39,521 --> 00:40:41,398
+Mamy egzemplarze kolekcjonerskie.
+
+387
+00:40:42,440 --> 00:40:43,900
+Standardowy tutaj.
+
+388
+00:40:45,652 --> 00:40:46,862
+Proszę.
+
+389
+00:41:00,584 --> 00:41:03,670
+- Wciskasz to tutaj.
+- Sektor 7…
+
+390
+00:41:03,753 --> 00:41:05,714
+I będziesz nas zawsze słyszeć.
+
+391
+00:41:07,632 --> 00:41:10,427
+Muszę się upewnić, że moje akta dotarły.
+
+392
+00:41:10,510 --> 00:41:12,012
+Widzimy się na górze.
+
+393
+00:41:12,929 --> 00:41:13,930
+Mamy przesłuchanie.
+
+394
+00:41:17,934 --> 00:41:19,394
+Gdzie był jego pojazd?
+
+395
+00:41:19,477 --> 00:41:20,979
+W San Diego.
+
+396
+00:41:21,062 --> 00:41:22,480
+Pozwolił, by go ukradli?
+
+397
+00:41:22,564 --> 00:41:25,483
+Marek zostawił go złomiarzom do rozbiórki.
+
+398
+00:41:26,151 --> 00:41:27,235
+Zostawił też buty,
+
+399
+00:41:27,319 --> 00:41:30,113
+by upozorować śmierć z rąk
+jakiegoś uciekiniera.
+
+400
+00:41:31,907 --> 00:41:33,450
+Nie chciał być znaleziony.
+
+401
+00:41:36,953 --> 00:41:39,206
+Przed LA pracowaliście razem.
+
+402
+00:41:40,415 --> 00:41:41,416
+Przez wiele lat.
+
+403
+00:41:42,417 --> 00:41:44,920
+Aż wróciliśmy tu, by walczyć na wojnie.
+
+404
+00:41:45,003 --> 00:41:47,380
+Po niej przydzielono was do policji.
+
+405
+00:41:51,051 --> 00:41:53,887
+Postępowaliśmy zgodnie
+z protokołem. Osobno.
+
+406
+00:41:58,266 --> 00:42:01,311
+Gdy go znajdziesz, wycofaj go.
+
+407
+00:42:03,188 --> 00:42:04,314
+Dlaczego?
+
+408
+00:42:05,732 --> 00:42:08,401
+To pierwszy uciekinier tego oddziału.
+
+409
+00:42:08,485 --> 00:42:12,197
+Jeśli nie opanujemy naszych,
+ludzie to wykorzystają.
+
+410
+00:42:13,073 --> 00:42:15,700
+Stracimy jednego, uderzą w nas tysiące.
+
+411
+00:42:17,744 --> 00:42:19,955
+Nigdy nie zabiłam jednego z naszych.
+
+412
+00:42:22,082 --> 00:42:23,166
+Bo nie musieliśmy.
+
+413
+00:42:26,044 --> 00:42:29,798
+Mamy więcej ludzi niż inne miasta
+na Zachodnim Wybrzeżu.
+
+414
+00:42:29,881 --> 00:42:32,717
+Tu walczyli najdłużej.
+Nawet opanowanie miasta
+
+415
+00:42:32,801 --> 00:42:34,761
+nie odwiodło niektórych od buntu.
+
+416
+00:42:34,844 --> 00:42:37,597
+Większość ukrywa się
+pod fałszywymi nazwiskami.
+
+417
+00:42:37,681 --> 00:42:40,684
+Jedni umykają,
+drudzy są nie do zajechania.
+
+418
+00:42:40,767 --> 00:42:44,104
+Schwytanych wysyłamy do kolonii,
+żeby tam zapierdalali
+
+419
+00:42:44,187 --> 00:42:45,522
+tak jak my dawniej.
+
+420
+00:42:46,648 --> 00:42:49,025
+Funkcjonariusz YB8-2.6. Otworzyć celę.
+
+421
+00:42:59,744 --> 00:43:01,579
+Ma tlen ustawiony na 15%.
+
+422
+00:43:02,789 --> 00:43:04,457
+Trzeba przywalić, by się ocknął.
+
+423
+00:43:16,970 --> 00:43:19,472
+Funkcjonariusz YB8-2.6. Obniżyć rurę.
+
+424
+00:43:35,697 --> 00:43:38,616
+Mówiłem, że są nie do zajechania.
+
+425
+00:43:39,909 --> 00:43:41,661
+Dziękuję, szefie. Dziękuję.
+
+426
+00:43:42,871 --> 00:43:45,332
+- Jak się nazywasz?
+- Caelan.
+
+427
+00:43:46,583 --> 00:43:49,044
+Nie pytam o kupione imię, tylko twoje.
+
+428
+00:43:51,546 --> 00:43:52,380
+Isaac.
+
+429
+00:43:53,423 --> 00:43:55,508
+- Isaac Brandt.
+- Isaac.
+
+430
+00:43:56,676 --> 00:43:57,552
+Skąd jesteś?
+
+431
+00:43:58,345 --> 00:43:59,179
+Stąd.
+
+432
+00:44:00,180 --> 00:44:02,390
+Co o tobie znajdę, gdy cię prześwietlę?
+
+433
+00:44:03,266 --> 00:44:06,978
+Byłem ładowaczem podczas
+ataku bombowego na Richfield Plaza.
+
+434
+00:44:07,395 --> 00:44:11,608
+Od sześciu lat pracuję w dokach. Nigdy…
+
+435
+00:44:15,362 --> 00:44:16,946
+Nigdy co?
+
+436
+00:44:18,490 --> 00:44:21,743
+Słuchaj, Caelan.
+Gdzie kupiłeś sobie to imię?
+
+437
+00:44:22,619 --> 00:44:23,787
+Co ty tu robisz?
+
+438
+00:44:25,997 --> 00:44:29,250
+Nie! Downey! Sprzedaje je
+taki jeden typ z Downey.
+
+439
+00:44:34,130 --> 00:44:37,050
+Według szefa jesteś
+solidnym nadzorcą linii.
+
+440
+00:44:37,133 --> 00:44:41,096
+Z takich fachem w ręku
+znalazłbyś pracę na Calancie.
+
+441
+00:44:41,179 --> 00:44:42,764
+Przy obsłudze promów.
+
+442
+00:44:44,099 --> 00:44:46,142
+- Albo wyślemy cię na Namakę.
+- Nie.
+
+443
+00:44:46,226 --> 00:44:48,645
+Wygadał się o Downey. Chodźmy sprawdzić…
+
+444
+00:44:48,728 --> 00:44:50,271
+Nie musicie nigdzie iść.
+
+445
+00:44:50,855 --> 00:44:52,565
+Wiem, kto jeszcze ucieka.
+
+446
+00:44:53,483 --> 00:44:55,902
+Czyżby? Jak mu na imię?
+
+447
+00:45:04,702 --> 00:45:06,037
+Imienia nie znam.
+
+448
+00:45:06,121 --> 00:45:07,914
+Ale wiem, gdzie przebywa.
+
+449
+00:45:08,415 --> 00:45:09,916
+Tutaj. Pośród nas.
+
+450
+00:45:09,999 --> 00:45:13,253
+Niemożliwe. Znam każdego, kto tu trafia.
+
+451
+00:45:13,336 --> 00:45:15,672
+Nie. Temu udało się wmieszać.
+
+452
+00:45:16,923 --> 00:45:19,342
+A gdyby tak człowiek podszył się pod was?
+
+453
+00:45:19,926 --> 00:45:21,719
+- Pogrywa z nami.
+- Nie.
+
+454
+00:45:23,138 --> 00:45:24,013
+O kogo chodzi?
+
+455
+00:45:24,806 --> 00:45:26,975
+Masz szefa, szefie?
+
+456
+00:45:28,017 --> 00:45:28,935
+Jemu powiem.
+
+457
+00:45:29,018 --> 00:45:30,645
+Mnie też możesz.
+
+458
+00:45:30,728 --> 00:45:35,108
+Nie. Skoro gadasz tu ze mną,
+to znaczy, że jesteś tylko płotką.
+
+459
+00:45:35,191 --> 00:45:36,484
+Ja z nim zostanę.
+
+460
+00:45:38,069 --> 00:45:39,612
+To ty powinieneś iść na górę.
+
+461
+00:45:41,573 --> 00:45:45,285
+Funkcjonariusz YB8-2.6. Otworzyć celę.
+
+462
+00:45:52,208 --> 00:45:54,252
+Otwieraj te jebane drzwi!
+
+463
+00:46:35,001 --> 00:46:37,670
+Otwieraj drzwi!
+
+464
+00:46:39,255 --> 00:46:42,759
+Otwieraj te jebane drzwi.
+
+465
+00:47:08,243 --> 00:47:11,454
+Funkcjonariuszka JT6-7.3. Unieść rurę!
+
+466
+00:47:47,865 --> 00:47:50,952
+Funkcjonariuszka JT6-7.3…
+
+467
+00:47:53,454 --> 00:47:54,581
+Otworzyć celę.
+
+468
+00:48:14,726 --> 00:48:17,645
+Czekaj. Gdzie mnie ciągniesz?
+
+469
+00:48:17,729 --> 00:48:20,231
+Musisz przejść Indeks.
+
+470
+00:48:20,315 --> 00:48:21,941
+Jaki Indeks?
+
+471
+00:48:22,025 --> 00:48:26,070
+Po ciężkiej walce z człowiekiem
+musimy sprawdzać poziom empatii.
+
+472
+00:48:26,154 --> 00:48:29,365
+Jakiej empatii? On nie żyje.
+
+473
+00:48:30,116 --> 00:48:32,660
+Tak, ale najpierw cię rozkwasił.
+
+474
+00:48:32,744 --> 00:48:34,579
+Dlaczego mu na to pozwoliłaś?
+
+475
+00:48:34,662 --> 00:48:36,414
+Funkcjonariusz YB8-2.6.
+
+476
+00:48:51,137 --> 00:48:52,347
+Jestem Marian.
+
+477
+00:48:53,097 --> 00:48:54,515
+Ja swojego nie pamiętam.
+
+478
+00:48:57,143 --> 00:48:59,562
+Cięłaś robaki, będąc w moim wieku?
+
+479
+00:49:02,523 --> 00:49:04,108
+Nie byłam w twoim wieku.
+
+480
+00:49:07,028 --> 00:49:08,571
+Jesteś człowiekiem?
+
+481
+00:49:10,782 --> 00:49:12,200
+Jak tu trafiłaś?
+
+482
+00:49:13,660 --> 00:49:16,371
+Zapraszasz do grupy
+osobę trzymającą się z boku?
+
+483
+00:49:16,454 --> 00:49:17,455
+Czy ten Indeks…
+
+484
+00:49:17,538 --> 00:49:19,749
+Zapraszasz tę osobę do swojej grupy?
+
+485
+00:49:21,209 --> 00:49:22,585
+Dołączy, gdy będzie gotów.
+
+486
+00:49:22,669 --> 00:49:25,046
+Słyszysz płacz dziecka. Reagujesz?
+
+487
+00:49:25,129 --> 00:49:26,297
+Nie. Nie od razu.
+
+488
+00:49:26,381 --> 00:49:27,840
+Płaczesz, gdy coś nie gra?
+
+489
+00:49:27,924 --> 00:49:29,092
+Jak nikt nie słyszy.
+
+490
+00:49:29,175 --> 00:49:31,302
+Wysłuchujesz problemów przyjaciół?
+
+491
+00:49:31,928 --> 00:49:33,680
+Moi przyjaciele ich nie mają.
+
+492
+00:49:33,763 --> 00:49:36,724
+Ja mam problem.
+Wysłuchasz mnie? Jestem samotna.
+
+493
+00:49:38,017 --> 00:49:39,894
+Nic na to nie poradzę.
+
+494
+00:49:40,687 --> 00:49:41,938
+Masz zwykle sny?
+
+495
+00:49:44,649 --> 00:49:46,651
+Nigdy nie śnię. Śpię jak kamień.
+
+496
+00:49:46,734 --> 00:49:48,903
+- Wyglądam na szczęśliwą?
+- Nie.
+
+497
+00:49:48,986 --> 00:49:50,697
+- Obchodzi cię to?
+- Nie.
+
+498
+00:49:50,780 --> 00:49:52,073
+Lubisz dbać o innych?
+
+499
+00:49:52,156 --> 00:49:54,325
+- Gdy mogę.
+- Masz jakiś sekret?
+
+500
+00:49:54,409 --> 00:49:55,618
+Każdy ma.
+
+501
+00:49:55,702 --> 00:49:57,412
+Zdradziłaś go komuś?
+
+502
+00:49:57,495 --> 00:49:58,371
+Nie.
+
+503
+00:49:58,454 --> 00:49:59,455
+Zdradzisz go mnie?
+
+504
+00:50:00,581 --> 00:50:01,499
+Nie muszę.
+
+505
+00:50:04,544 --> 00:50:07,922
+Wymień pokrótce dobre rzeczy
+na temat swojej matki.
+
+506
+00:50:08,840 --> 00:50:09,841
+Mojej matki?
+
+507
+00:50:11,884 --> 00:50:13,720
+Przecież my nie mamy matek.
+
+508
+00:50:13,803 --> 00:50:16,305
+Ktoś o ciebie dbał?
+Był dla ciebie jak matka?
+
+509
+00:50:16,389 --> 00:50:18,349
+Nie wiem. Nie mam matki.
+
+510
+00:50:19,016 --> 00:50:20,268
+Nie zasługujesz na nią.
+
+511
+00:50:25,815 --> 00:50:27,567
+Funkcjonariusz YB8-2.6.
+
+512
+00:50:30,319 --> 00:50:31,487
+Nie zostawiaj mnie tu.
+
+513
+00:50:32,280 --> 00:50:33,156
+Proszę.
+
+514
+00:50:34,073 --> 00:50:35,408
+Zabierz mnie ze sobą.
+
+515
+00:50:40,830 --> 00:50:43,624
+Skoro nie możesz odejść,
+to tu jest twoje miejsce.
+
+516
+00:50:52,425 --> 00:50:54,260
+To tyle? Skończyliśmy?
+
+517
+00:51:06,522 --> 00:51:07,482
+Nie.
+
+518
+00:51:07,565 --> 00:51:08,649
+Nie!
+
+519
+00:52:04,580 --> 00:52:05,665
+Przejmę ją.
+
+520
+00:52:11,420 --> 00:52:14,549
+Indeks… Mogę podejść do niego jeszcze raz.
+
+521
+00:52:15,258 --> 00:52:16,259
+Jesteś Marian?
+
+522
+00:52:17,677 --> 00:52:19,470
+Przesłuchiwaliśmy go i…
+
+523
+00:52:19,554 --> 00:52:21,347
+Isaaca Brandta. Wiem.
+
+524
+00:52:22,265 --> 00:52:25,101
+Szłam już z nim pogadać. Spóźniłam się.
+
+525
+00:52:55,590 --> 00:52:57,091
+Mówił o jakimś intruzie.
+
+526
+00:53:01,512 --> 00:53:03,264
+Chciałam to z niego wyciągnąć.
+
+527
+00:53:06,517 --> 00:53:07,435
+Udało się?
+
+528
+00:53:14,400 --> 00:53:15,484
+Kłamał.
+
+529
+00:53:23,326 --> 00:53:25,328
+Przyszły wyniki twojego Indeksu.
+
+530
+00:53:26,412 --> 00:53:28,331
+Przeniesieni źle go znoszą.
+
+531
+00:53:28,414 --> 00:53:31,918
+Większość nigdy nie widziała dziecka
+i są w szoku.
+
+532
+00:53:33,002 --> 00:53:34,170
+Ty nie byłaś.
+
+533
+00:53:39,133 --> 00:53:40,134
+Co to oznacza?
+
+534
+00:53:43,387 --> 00:53:45,014
+Że jesteś tu, gdzie powinnaś.
+
+535
+00:53:45,097 --> 00:53:48,017
+Nie ma w tobie ani śladu duszy.
+
+536
+00:53:50,269 --> 00:53:53,439
+Czemu więc dałaś się pobić słabszemu?
+
+537
+00:53:55,858 --> 00:53:57,860
+Bo nigdy nikogo nie zabiłam.
+
+538
+00:53:59,820 --> 00:54:02,239
+Aż do dziś. Zrobiłabyś to ponownie?
+
+539
+00:54:04,742 --> 00:54:05,660
+Tak.
+
+540
+00:54:07,787 --> 00:54:09,288
+To nie wystarczy.
+
+541
+00:54:09,914 --> 00:54:12,833
+Trudniej spojrzeć czemuś w oczy
+niż to zabić.
+
+542
+00:54:16,420 --> 00:54:19,131
+Musisz przejrzeć ich kłamstwa.
+
+543
+00:54:23,594 --> 00:54:26,430
+Wiedz, że ludzie zawsze ukrywają to samo.
+
+544
+00:54:45,533 --> 00:54:47,910
+Ciągle walczą o powrót dawnego świata.
+
+545
+00:54:50,246 --> 00:54:52,665
+Chcą odzyskać to, co utracili.
+
+546
+00:55:02,299 --> 00:55:03,718
+Ale to nasz czas.
+
+547
+00:55:38,961 --> 00:55:39,837
+NA MOTYWACH POWIEŚCI PHILIPA K. DICKA
+
+548
+00:55:39,920 --> 00:55:40,880
+CZY ANDROIDY ŚNIĄ O ELEKTRYCZNYCH OWCACH?
+
+549
+00:56:11,994 --> 00:56:13,120
+Całymi tygodniami…
+
+550
+00:56:14,163 --> 00:56:16,040
+pracowałam sama w koloniach.
+
+551
+00:56:16,123 --> 00:56:17,249
+Nie potrzebuję cię.
+
+552
+00:56:19,418 --> 00:56:21,170
+W TYM SEZONIE
+
+553
+00:56:23,172 --> 00:56:24,799
+Jesteś poszukiwana.
+
+554
+00:56:26,467 --> 00:56:28,010
+Rób wszystko, co ci każe.
+
+555
+00:56:29,136 --> 00:56:30,304
+Niech ci zaufa.
+
+556
+00:56:31,388 --> 00:56:33,182
+Szukam łowcy.
+
+557
+00:56:33,265 --> 00:56:34,517
+Ucieka.
+
+558
+00:56:34,600 --> 00:56:35,851
+Potrzebuję wsparcia.
+
+559
+00:56:37,436 --> 00:56:40,189
+Przybyłaś tu z kolonii razem z Markiem.
+
+560
+00:56:40,272 --> 00:56:42,399
+Nie wiesz, czemu ucieka?
+
+561
+00:56:43,984 --> 00:56:46,153
+Nie on pierwszy zniknął.
+
+562
+00:56:46,862 --> 00:56:47,988
+Byli też inni.
+
+563
+00:56:49,448 --> 00:56:50,658
+Umierają.
+
+564
+00:56:50,741 --> 00:56:53,661
+Mogą być zdesperowani. Niestabilni.
+
+565
+00:56:54,328 --> 00:56:56,956
+Replikanci mieli stać się bogami.
+
+566
+00:57:01,043 --> 00:57:02,044
+Zaczekaj!
+
+567
+00:57:06,966 --> 00:57:10,469
+Cora może sprawić,
+że świat znów będzie nasz.
+
+568
+00:57:12,263 --> 00:57:13,973
+Twoja siostra może ich zniszczyć.
+
+569
+00:57:14,723 --> 00:57:16,600
+Co do jednego.
+
+570
+00:57:17,518 --> 00:57:19,937
+To przed replikantami ciągle uciekamy.
+
+571
+00:57:20,813 --> 00:57:22,356
+Musimy to zrobić. Dla nas.
+
+572
+00:57:26,026 --> 00:57:28,612
+Zachowasz pamięć o zmarłym bliskim?
+
+573
+00:57:29,572 --> 00:57:30,906
+Jeśliby tego chciał.
+
+574
+00:57:34,118 --> 00:57:37,163
+Gdy umrzesz, ktokolwiek o tobie pomyśli?
+
+575
+00:57:41,584 --> 00:57:43,419
+Nie zadawaj się z nimi.
+
+576
+00:57:47,173 --> 00:57:48,799
+Nie mamy gdzie się udać.
+
+577
+00:57:56,015 --> 00:57:58,184
+Wiesz, jakie to uczucie.
+
+578
+00:57:58,267 --> 00:57:59,727
+Utracić kogoś.
+
+579
+00:58:02,855 --> 00:58:04,190
+A nie powinnaś.
+
+580
+01:00:14,611 --> 01:00:16,613
+Napisy: Piotr Stefanowski
+
+581
+01:00:16,697 --> 01:00:18,699
+Nadzór kreatywny nad tłumaczeniem
+Krzysztof Wollschlaeger
+
